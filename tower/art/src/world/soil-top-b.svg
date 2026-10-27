@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- the floor just under the street (floor 9): road base over soil -->
+  <rect x="0" y="0" width="4" height="16" fill="#6e583f"/>
+  <rect x="0" y="0" width="4" height="2.2" fill="#857c6f"/>
+  <rect x="0" y="2.2" width="4" height="1.4" fill="#76664f"/>
+  <circle cx="0.61" cy="1.66" r="0.25" fill="#9a9184"/>
+  <circle cx="1.02" cy="1.57" r="0.25" fill="#9a9184"/>
+  <circle cx="3.12" cy="1.32" r="0.27" fill="#9a9184"/>
+  <circle cx="2.94" cy="0.92" r="0.19" fill="#9a9184"/>
+  <ellipse cx="3.03" cy="6.17" rx="0.44" ry="0.4" fill="#887358"/>
+  <ellipse cx="2.19" cy="10.87" rx="0.41" ry="0.3" fill="#7f6a52"/>
+  <ellipse cx="1.48" cy="5.73" rx="0.46" ry="0.25" fill="#5f4c37"/>
+</svg>

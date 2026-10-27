@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- under construction; frame 1 of 3 -->
+  <rect x="0" y="0" width="4" height="15" fill="#4c5157"/>
+  <rect x="0" y="0" width="4" height="1.4" fill="#5d6268"/>
+  <rect x="0" y="1.4" width="4" height="0.4" fill="#41454a"/>
+  <rect x="0" y="2.6" width="4" height="0.5" fill="#41454a"/>
+  <rect x="0" y="12.6" width="4" height="2.4" fill="#41454a" opacity="0.55"/>
+  <rect x="0" y="15" width="4" height="1" fill="#575b60"/>
+  <rect x="0" y="15" width="4" height="0.3" fill="#72777d"/>
+  <rect x="0" y="15.75" width="4" height="0.25" fill="#45494d"/>
+  <rect x="0" y="0" width="4" height="15" fill="#5f8a6a" opacity="0.35"/>
+  <rect x="0.15" y="0" width="0.45" height="16" fill="#8c949c"/>
+  <polygon points="0.53,14.68 4.13,8.48 3.87,8.32 0.27,14.52" fill="#8c949c"/>
+  <polygon points="0.53,7.68 4.13,1.48 3.87,1.32 0.27,7.52" fill="#8c949c"/>
+  <rect x="0" y="7.6" width="4" height="0.7" fill="#b48d58"/>
+  <rect x="0" y="8.3" width="4" height="0.3" fill="#8e6c40"/>
+  <rect x="0" y="0.6" width="4" height="0.7" fill="#b48d58"/>
+  <rect x="0" y="1.3" width="4" height="0.3" fill="#8e6c40"/>
+  <rect x="0" y="7.3" width="4" height="0.3" fill="#8c949c"/>
+  <rect x="0" y="0.3" width="4" height="0.3" fill="#8c949c"/>
+  <rect x="2.9" y="0" width="0.12" height="7.5" fill="#2f3236"/>
+  <rect x="2.1" y="7.5" width="1.7" height="0.8" fill="#a0522d"/>
+  <rect x="2.1" y="7.5" width="1.7" height="0.25" fill="#c06a3e"/>
+  <rect x="1.2" y="13.4" width="1" height="1.6" fill="#3b3f44" rx="0.3"/>
+  <circle cx="2.3" cy="13.4" r="0.45" fill="#ffe9a0"/>
+</svg>

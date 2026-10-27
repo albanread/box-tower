@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 2x1 -->
+  <!-- roof with a water tank; two cells, instead of two roof cells -->
+  <rect x="0" y="12.8" width="8" height="3.2" fill="#6f7780"/>
+  <rect x="0" y="12.3" width="8" height="0.8" fill="#8f98a1"/>
+  <rect x="0" y="13.1" width="8" height="0.35" fill="#59606a"/>
+  <rect x="0" y="15.4" width="8" height="0.6" fill="#59606a"/>
+  <rect x="1" y="8.5" width="0.5" height="4" fill="#535a62"/>
+  <rect x="6.5" y="8.5" width="0.5" height="4" fill="#535a62"/>
+  <polygon points="1.17,8.93 6.67,12.33 6.83,12.07 1.33,8.67" fill="#535a62"/>
+  <rect x="0.6" y="3" width="6.8" height="5.8" fill="#8a7a68" rx="0.6"/>
+  <rect x="0.6" y="3" width="6.8" height="1" fill="#9d8d7a" rx="0.5"/>
+  <rect x="0.6" y="5.2" width="6.8" height="0.35" fill="#6f6253"/>
+  <rect x="0.6" y="7.2" width="6.8" height="0.35" fill="#6f6253"/>
+  <polygon points="0.4,3.1 4,1.4 7.6,3.1" fill="#6f6253"/>
+</svg>

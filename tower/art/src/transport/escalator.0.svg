@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16">
+  <!-- units: 32x16 -->
+  <!-- escalator, frame 0 of 4 (steps moving up); redrawn from tower-together's escalator.svg (MIT, Patrick Hulin) to our grid -->
+  <polygon points="0,15 5,15 27,-1 32,-1 32,3.4 28,3.4 8.5,16 0,16" fill="#b9c4b0"/>
+  <polygon points="6.6,16 27.4,1.8 28,3.4 8.5,16" fill="#9aa690"/>
+  <polygon points="1.2,10.8 5,10.8 27,-5.2 32,-5.2 32,-1 27,-1 5,15 1.2,15" fill="#dff0f2" fill-opacity="0.35"/>
+  <polygon points="0,15 5,15 5,13.545 7,13.545 7,12.091 9,12.091 9,10.636 11,10.636 11,9.182 13,9.182 13,7.727 15,7.727 15,6.273 17,6.273 17,4.818 19,4.818 19,3.364 21,3.364 21,1.909 23,1.909 23,0.455 25,0.455 25,-1 27,-1 27,-1 32,-1 32,0.2 27,0.2 5,16.2 0,16.2" fill="#3f4542"/>
+  <rect x="5" y="13.545" width="2" height="0.3" fill="#646d68"/>
+  <rect x="7" y="12.091" width="2" height="0.3" fill="#646d68"/>
+  <rect x="9" y="10.636" width="2" height="0.3" fill="#646d68"/>
+  <rect x="11" y="9.182" width="2" height="0.3" fill="#646d68"/>
+  <rect x="13" y="7.727" width="2" height="0.3" fill="#646d68"/>
+  <rect x="15" y="6.273" width="2" height="0.3" fill="#646d68"/>
+  <rect x="17" y="4.818" width="2" height="0.3" fill="#646d68"/>
+  <rect x="19" y="3.364" width="2" height="0.3" fill="#646d68"/>
+  <rect x="21" y="1.909" width="2" height="0.3" fill="#646d68"/>
+  <rect x="23" y="0.455" width="2" height="0.3" fill="#646d68"/>
+  <rect x="25" y="0" width="2" height="0.3" fill="#646d68"/>
+  <rect x="0" y="15" width="5" height="0.4" fill="#8f9a8e"/>
+  <rect x="27" y="0" width="5" height="0.3" fill="#8f9a8e"/>
+  <polygon points="1.2,10.8 5,10.8 27,-5.2 32,-5.2 32,-4.6 27,-4.6 5,11.4 1.2,11.4" fill="#24282a"/>
+  <circle cx="1.2" cy="11.6" r="0.8" fill="#24282a"/>
+  <rect x="0.4" y="11.7" width="0.8" height="3.3" fill="#c0c9bc"/>
+</svg>

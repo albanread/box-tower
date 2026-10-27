@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- soil, variant d; pick by a hash of (cell, floor) -->
+  <rect x="0" y="0" width="4" height="16" fill="#6e583f"/>
+  <ellipse cx="1.46" cy="13.73" rx="0.61" ry="0.42" fill="#5f4c37"/>
+  <ellipse cx="2.43" cy="13.17" rx="0.54" ry="0.25" fill="#7f6a52"/>
+  <ellipse cx="2.08" cy="3.99" rx="0.38" ry="0.31" fill="#7f6a52"/>
+  <ellipse cx="3.28" cy="12.68" rx="0.29" ry="0.4" fill="#887358"/>
+  <ellipse cx="2.39" cy="11.26" rx="1" ry="0.25" fill="#64503a"/>
+</svg>

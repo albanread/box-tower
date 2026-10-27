@@ -1,0 +1,348 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 32" width="100" height="32">
+<!-- From tower-together apps/client/public/rooms/recyclingCenter4.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (25 cells x 2 floors) by one uniform scale of
+     upstream's 500x160 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Industrial back wall: concrete panels -->
+    <rect x="0" y="0" width="500" height="152" fill="#9a9690"/>
+    <!-- Vertical panel seams -->
+    <g stroke="#7a7670" stroke-width="1" opacity="0.7">
+      <line x1="50" y1="0" x2="50" y2="152"/>
+      <line x1="100" y1="0" x2="100" y2="152"/>
+      <line x1="150" y1="0" x2="150" y2="152"/>
+      <line x1="200" y1="0" x2="200" y2="152"/>
+      <line x1="250" y1="0" x2="250" y2="152"/>
+      <line x1="300" y1="0" x2="300" y2="152"/>
+      <line x1="350" y1="0" x2="350" y2="152"/>
+      <line x1="400" y1="0" x2="400" y2="152"/>
+      <line x1="450" y1="0" x2="450" y2="152"/>
+    </g>
+
+    <!-- Clerestory windows (upper row of industrial windows) -->
+    <g>
+      <rect x="30" y="10" width="50" height="20" fill="#2a3840" rx="1"/>
+      <rect x="32" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="56" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="30" y="19" width="50" height="2" fill="#2a3840"/>
+      <rect x="54" y="10" width="2" height="20" fill="#2a3840"/>
+
+      <rect x="130" y="10" width="50" height="20" fill="#2a3840" rx="1"/>
+      <rect x="132" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="156" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="130" y="19" width="50" height="2" fill="#2a3840"/>
+      <rect x="154" y="10" width="2" height="20" fill="#2a3840"/>
+
+      <rect x="230" y="10" width="50" height="20" fill="#2a3840" rx="1"/>
+      <rect x="232" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="256" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="230" y="19" width="50" height="2" fill="#2a3840"/>
+      <rect x="254" y="10" width="2" height="20" fill="#2a3840"/>
+
+      <rect x="330" y="10" width="50" height="20" fill="#2a3840" rx="1"/>
+      <rect x="332" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="356" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="330" y="19" width="50" height="2" fill="#2a3840"/>
+      <rect x="354" y="10" width="2" height="20" fill="#2a3840"/>
+
+      <rect x="430" y="10" width="50" height="20" fill="#2a3840" rx="1"/>
+      <rect x="432" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="456" y="12" width="22" height="16" fill="#6088a0"/>
+      <rect x="430" y="19" width="50" height="2" fill="#2a3840"/>
+      <rect x="454" y="10" width="2" height="20" fill="#2a3840"/>
+    </g>
+
+    <!-- Upper catwalk / mezzanine -->
+    <rect x="0" y="60" width="500" height="4" fill="#484440"/>
+    <rect x="0" y="64" width="500" height="2" fill="#303028"/>
+    <!-- Catwalk railing -->
+    <rect x="0" y="52" width="500" height="2" fill="#585048"/>
+    <g fill="#585048">
+      <rect x="20" y="54" width="2" height="8"/>
+      <rect x="60" y="54" width="2" height="8"/>
+      <rect x="100" y="54" width="2" height="8"/>
+      <rect x="140" y="54" width="2" height="8"/>
+      <rect x="180" y="54" width="2" height="8"/>
+      <rect x="220" y="54" width="2" height="8"/>
+      <rect x="260" y="54" width="2" height="8"/>
+      <rect x="300" y="54" width="2" height="8"/>
+      <rect x="340" y="54" width="2" height="8"/>
+      <rect x="380" y="54" width="2" height="8"/>
+      <rect x="420" y="54" width="2" height="8"/>
+      <rect x="460" y="54" width="2" height="8"/>
+    </g>
+
+    <!-- Overhead pipes and ducts -->
+    <rect x="0" y="38" width="500" height="4" fill="#a09078"/>
+    <g fill="#909078">
+      <rect x="20" y="42" width="3" height="10"/>
+      <rect x="120" y="42" width="3" height="10"/>
+      <rect x="220" y="42" width="3" height="10"/>
+      <rect x="320" y="42" width="3" height="10"/>
+      <rect x="420" y="42" width="3" height="10"/>
+    </g>
+    <rect x="0" y="46" width="500" height="3" fill="#807060"/>
+
+    <!-- Hanging industrial lamps -->
+    <g>
+      <rect x="74" y="42" width="2" height="6" fill="#404040"/>
+      <path d="M 66 48 L 84 48 L 80 56 L 70 56 Z" fill="#707068"/>
+      <ellipse cx="75" cy="54" rx="6" ry="1.5" fill="#f8e890"/>
+    </g>
+    <g>
+      <rect x="174" y="42" width="2" height="6" fill="#404040"/>
+      <path d="M 166 48 L 184 48 L 180 56 L 170 56 Z" fill="#707068"/>
+      <ellipse cx="175" cy="54" rx="6" ry="1.5" fill="#f8e890"/>
+    </g>
+    <g>
+      <rect x="274" y="42" width="2" height="6" fill="#404040"/>
+      <path d="M 266 48 L 284 48 L 280 56 L 270 56 Z" fill="#707068"/>
+      <ellipse cx="275" cy="54" rx="6" ry="1.5" fill="#f8e890"/>
+    </g>
+    <g>
+      <rect x="374" y="42" width="2" height="6" fill="#404040"/>
+      <path d="M 366 48 L 384 48 L 380 56 L 370 56 Z" fill="#707068"/>
+      <ellipse cx="375" cy="54" rx="6" ry="1.5" fill="#f8e890"/>
+    </g>
+    <g>
+      <rect x="474" y="42" width="2" height="6" fill="#404040"/>
+      <path d="M 466 48 L 484 48 L 480 56 L 470 56 Z" fill="#707068"/>
+      <ellipse cx="475" cy="54" rx="6" ry="1.5" fill="#f8e890"/>
+    </g>
+
+    <!-- Floor divider line (separating upper/lower tower floor) -->
+    <rect x="0" y="76" width="500" height="2" fill="#484040"/>
+
+    <!-- Lower floor back wall (slightly darker) -->
+    <rect x="0" y="78" width="500" height="74" fill="#807c76"/>
+    <!-- Panel seams continued -->
+    <g stroke="#605c56" stroke-width="1" opacity="0.7">
+      <line x1="50" y1="78" x2="50" y2="152"/>
+      <line x1="100" y1="78" x2="100" y2="152"/>
+      <line x1="150" y1="78" x2="150" y2="152"/>
+      <line x1="200" y1="78" x2="200" y2="152"/>
+      <line x1="250" y1="78" x2="250" y2="152"/>
+      <line x1="300" y1="78" x2="300" y2="152"/>
+      <line x1="350" y1="78" x2="350" y2="152"/>
+      <line x1="400" y1="78" x2="400" y2="152"/>
+      <line x1="450" y1="78" x2="450" y2="152"/>
+    </g>
+
+    <!-- Recycling symbol painted on back wall -->
+    <g transform="translate(240, 90)" opacity="0.5">
+      <circle cx="10" cy="10" r="18" fill="none" stroke="#508058" stroke-width="2"/>
+      <path d="M 4 6 L 10 2 L 16 8 L 13 10 L 10 7 L 6 14 Z" fill="#508058"/>
+      <path d="M 16 16 L 14 22 L 6 20 L 6 16 L 10 16 L 12 13 Z" fill="#508058"/>
+      <path d="M 6 14 L 2 14 L 0 8 L 4 6 L 6 9 L 8 12 Z" fill="#508058"/>
+    </g>
+
+    <!-- Loading bay garage doors (large sectional doors) -->
+    <g>
+      <!-- Left bay -->
+      <rect x="40" y="86" width="100" height="58" fill="#6a8898" rx="1"/>
+      <rect x="40" y="86" width="100" height="2" fill="#4a6878"/>
+      <rect x="40" y="98" width="100" height="1" fill="#4a6878"/>
+      <rect x="40" y="110" width="100" height="1" fill="#4a6878"/>
+      <rect x="40" y="122" width="100" height="1" fill="#4a6878"/>
+      <rect x="40" y="134" width="100" height="1" fill="#4a6878"/>
+      <!-- Handle -->
+      <rect x="86" y="115" width="8" height="3" fill="#303038"/>
+    </g>
+    <g>
+      <!-- Right bay -->
+      <rect x="360" y="86" width="100" height="58" fill="#6a8898" rx="1"/>
+      <rect x="360" y="86" width="100" height="2" fill="#4a6878"/>
+      <rect x="360" y="98" width="100" height="1" fill="#4a6878"/>
+      <rect x="360" y="110" width="100" height="1" fill="#4a6878"/>
+      <rect x="360" y="122" width="100" height="1" fill="#4a6878"/>
+      <rect x="360" y="134" width="100" height="1" fill="#4a6878"/>
+      <rect x="406" y="115" width="8" height="3" fill="#303038"/>
+    </g>
+
+    <!-- Bay warning stripes on floor -->
+    <g>
+      <rect x="40" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="50" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="60" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="70" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="80" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="90" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="100" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="110" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="120" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="130" y="144" width="10" height="8" fill="#2a2a2a"/>
+
+      <rect x="360" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="370" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="380" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="390" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="400" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="410" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="420" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="430" y="144" width="10" height="8" fill="#2a2a2a"/>
+      <rect x="440" y="144" width="10" height="8" fill="#d8c040"/>
+      <rect x="450" y="144" width="10" height="8" fill="#2a2a2a"/>
+    </g>
+
+    <!-- Baseboard / concrete toe -->
+    <rect x="0" y="150" width="500" height="2" fill="#40403a"/>
+
+    <!-- Floor -->
+    <rect x="0" y="152" width="500" height="8" fill="#6a6862"/>
+    <!-- Floor dividing line markings -->
+    <rect x="160" y="155" width="180" height="1" fill="#b8b0a0" opacity="0.6"/>
+
+    <!-- Sorting area outline on floor (tape markings) -->
+    <g stroke="#d8d040" stroke-width="1" fill="none" opacity="0.8">
+      <rect x="162" y="132" width="80" height="20"/>
+      <rect x="258" y="132" width="80" height="20"/>
+    </g>
+
+    <!-- Trash level 4: fills the whole SVG -->
+    <g>
+      <!-- Giant backdrop pile silhouette spanning entire width, rising to ceiling -->
+      <path d="M 0 152 L 0 90 Q 40 70 80 80 Q 120 50 160 40 Q 200 10 240 20 Q 280 0 320 15 Q 360 35 400 25 Q 440 55 480 45 Q 500 60 500 152 Z" fill="#2a2a28"/>
+      <path d="M 0 152 L 0 110 Q 40 95 80 100 Q 120 75 160 70 Q 200 45 240 55 Q 280 35 320 50 Q 360 65 400 60 Q 440 80 480 75 Q 500 85 500 152 Z" fill="#3a3a38"/>
+
+      <!-- Big black trash bags strewn across whole floor level -->
+      <ellipse cx="30" cy="148" rx="22" ry="10" fill="#1a1a1a"/>
+      <ellipse cx="30" cy="138" rx="16" ry="8" fill="#303030"/>
+      <ellipse cx="65" cy="150" rx="18" ry="8" fill="#1a1a1a"/>
+      <ellipse cx="65" cy="142" rx="14" ry="7" fill="#303030"/>
+      <ellipse cx="105" cy="150" rx="24" ry="9" fill="#1a1a1a"/>
+      <ellipse cx="108" cy="136" rx="18" ry="9" fill="#303030"/>
+      <ellipse cx="100" cy="122" rx="12" ry="6" fill="#404040"/>
+
+      <!-- Left bay: trash wall up to ceiling -->
+      <ellipse cx="180" cy="148" rx="28" ry="12" fill="#1a1a1a"/>
+      <ellipse cx="172" cy="130" rx="22" ry="10" fill="#303030"/>
+      <ellipse cx="188" cy="112" rx="18" ry="9" fill="#404040"/>
+      <ellipse cx="168" cy="94" rx="14" ry="8" fill="#303030"/>
+      <ellipse cx="196" cy="80" rx="12" ry="6" fill="#505050"/>
+      <ellipse cx="172" cy="66" rx="10" ry="5" fill="#404040"/>
+      <ellipse cx="194" cy="52" rx="8" ry="4" fill="#303030"/>
+      <ellipse cx="180" cy="38" rx="6" ry="3" fill="#404040"/>
+      <ellipse cx="190" cy="26" rx="5" ry="3" fill="#505050"/>
+      <ellipse cx="186" cy="16" rx="4" ry="2" fill="#404040"/>
+
+      <!-- Blue bags cascade up through upper floor -->
+      <ellipse cx="220" cy="146" rx="26" ry="12" fill="#2a4878"/>
+      <ellipse cx="220" cy="128" rx="20" ry="10" fill="#3a5888"/>
+      <ellipse cx="212" cy="108" rx="16" ry="8" fill="#4a6898"/>
+      <ellipse cx="228" cy="90" rx="12" ry="7" fill="#3a5888"/>
+      <ellipse cx="218" cy="72" rx="10" ry="5" fill="#4a6898"/>
+      <ellipse cx="226" cy="56" rx="8" ry="4" fill="#3a5888"/>
+      <ellipse cx="220" cy="42" rx="6" ry="3" fill="#4a6898"/>
+      <ellipse cx="228" cy="28" rx="5" ry="3" fill="#3a5888"/>
+      <ellipse cx="222" cy="16" rx="4" ry="2" fill="#4a6898"/>
+
+      <!-- Green organic waste mound -->
+      <ellipse cx="250" cy="150" rx="22" ry="9" fill="#1a3820"/>
+      <ellipse cx="252" cy="138" rx="18" ry="8" fill="#2a4830"/>
+      <ellipse cx="248" cy="124" rx="14" ry="6" fill="#3a5840"/>
+      <ellipse cx="256" cy="108" rx="10" ry="5" fill="#2a4830"/>
+      <ellipse cx="250" cy="94" rx="8" ry="4" fill="#3a5840"/>
+
+      <!-- Cardboard mountain reaching ceiling -->
+      <rect x="256" y="90" width="32" height="62" fill="#b88858" rx="1"/>
+      <rect x="256" y="90" width="32" height="3" fill="#a87848"/>
+      <line x1="272" y1="90" x2="272" y2="152" stroke="#886838" stroke-width="0.5"/>
+      <line x1="256" y1="110" x2="288" y2="110" stroke="#886838" stroke-width="0.5"/>
+      <line x1="256" y1="130" x2="288" y2="130" stroke="#886838" stroke-width="0.5"/>
+      <rect x="284" y="66" width="30" height="86" fill="#c89868" rx="1"/>
+      <rect x="284" y="66" width="30" height="3" fill="#b88858"/>
+      <line x1="299" y1="66" x2="299" y2="152" stroke="#886838" stroke-width="0.5"/>
+      <rect x="268" y="50" width="26" height="36" fill="#a87848" rx="1" transform="rotate(10, 281, 68)"/>
+      <rect x="310" y="38" width="24" height="20" fill="#b88858" rx="1" transform="rotate(-6, 322, 48)"/>
+      <rect x="306" y="90" width="26" height="62" fill="#b88858" rx="1"/>
+      <rect x="330" y="104" width="24" height="48" fill="#c89868" rx="1"/>
+      <rect x="318" y="70" width="22" height="26" fill="#a87848" rx="1" transform="rotate(5, 329, 83)"/>
+      <rect x="340" y="52" width="20" height="22" fill="#b88858" rx="1" transform="rotate(-10, 350, 63)"/>
+      <rect x="300" y="22" width="20" height="16" fill="#a87848" rx="1" transform="rotate(14, 310, 30)"/>
+      <rect x="324" y="14" width="18" height="14" fill="#b88858" rx="1" transform="rotate(-4, 333, 21)"/>
+
+      <!-- Metal / cans pile -->
+      <rect x="352" y="132" width="32" height="20" fill="#889090" rx="1"/>
+      <rect x="352" y="132" width="6" height="20" fill="#606868"/>
+      <rect x="376" y="118" width="26" height="18" fill="#a0a8a8" rx="1"/>
+      <rect x="384" y="100" width="22" height="16" fill="#889090" rx="1"/>
+      <rect x="382" y="82" width="20" height="14" fill="#a0a8a8" rx="1"/>
+      <rect x="380" y="66" width="18" height="14" fill="#707878" rx="1"/>
+      <rect x="388" y="50" width="16" height="12" fill="#889090" rx="1"/>
+      <rect x="390" y="36" width="14" height="10" fill="#a0a8a8" rx="1"/>
+
+      <!-- Reddish pile right -->
+      <rect x="402" y="140" width="28" height="12" fill="#a03030" rx="1"/>
+      <rect x="410" y="124" width="24" height="14" fill="#b03838" rx="1"/>
+      <rect x="414" y="108" width="20" height="14" fill="#903030" rx="1"/>
+      <rect x="418" y="92" width="18" height="14" fill="#a03838" rx="1"/>
+      <rect x="422" y="78" width="14" height="12" fill="#803030" rx="1"/>
+      <rect x="424" y="64" width="12" height="12" fill="#a03838" rx="1"/>
+      <rect x="428" y="52" width="10" height="10" fill="#903030" rx="1"/>
+
+      <!-- Far-right bay blocked with trash -->
+      <ellipse cx="448" cy="148" rx="24" ry="10" fill="#1a1a1a"/>
+      <ellipse cx="446" cy="130" rx="20" ry="10" fill="#303030"/>
+      <ellipse cx="454" cy="112" rx="16" ry="8" fill="#404040"/>
+      <ellipse cx="446" cy="96" rx="14" ry="7" fill="#303030"/>
+      <ellipse cx="456" cy="80" rx="12" ry="6" fill="#404040"/>
+      <ellipse cx="448" cy="64" rx="10" ry="5" fill="#505050"/>
+      <ellipse cx="452" cy="50" rx="8" ry="4" fill="#404040"/>
+      <ellipse cx="458" cy="36" rx="6" ry="3" fill="#505050"/>
+      <ellipse cx="452" cy="22" rx="5" ry="3" fill="#404040"/>
+      <ellipse cx="460" cy="12" rx="4" ry="2" fill="#505050"/>
+
+      <!-- Right side blue bag tower -->
+      <ellipse cx="478" cy="140" rx="16" ry="8" fill="#2a4878"/>
+      <ellipse cx="480" cy="120" rx="14" ry="8" fill="#3a5888"/>
+      <ellipse cx="476" cy="100" rx="12" ry="6" fill="#4a6898"/>
+      <ellipse cx="482" cy="82" rx="10" ry="5" fill="#3a5888"/>
+      <ellipse cx="480" cy="66" rx="8" ry="4" fill="#4a6898"/>
+
+      <!-- Scatter debris -->
+      <rect x="10" y="149" width="4" height="3" fill="#a03030"/>
+      <rect x="18" y="150" width="3" height="2" fill="#4080c0"/>
+      <rect x="46" y="149" width="5" height="3" fill="#d8c040" rx="1"/>
+      <rect x="56" y="150" width="3" height="2" fill="#306040"/>
+      <rect x="78" y="149" width="4" height="3" fill="#a03030"/>
+      <rect x="88" y="150" width="3" height="2" fill="#4080c0"/>
+      <rect x="130" y="148" width="5" height="3" fill="#d8c040"/>
+      <rect x="138" y="149" width="4" height="2" fill="#60a060"/>
+      <rect x="152" y="150" width="3" height="2" fill="#a03030"/>
+      <rect x="338" y="149" width="4" height="3" fill="#d8c040"/>
+      <rect x="344" y="150" width="3" height="2" fill="#60a060"/>
+
+      <!-- Paper drifting at all heights -->
+      <rect x="40" y="90" width="6" height="3" fill="#f0f0e8" opacity="0.85" transform="rotate(18, 43, 91)"/>
+      <rect x="90" y="60" width="7" height="3" fill="#e8e8d8" opacity="0.85" transform="rotate(-12, 93, 61)"/>
+      <rect x="140" y="30" width="6" height="3" fill="#f0f0e8" opacity="0.85" transform="rotate(25, 143, 31)"/>
+      <rect x="260" y="8" width="5" height="3" fill="#e8e8d0" opacity="0.85" transform="rotate(-18, 262, 9)"/>
+      <rect x="360" y="28" width="7" height="3" fill="#f0f0e8" opacity="0.85" transform="rotate(14, 363, 29)"/>
+      <rect x="420" y="12" width="6" height="3" fill="#e8e8d8" opacity="0.85" transform="rotate(-20, 423, 13)"/>
+      <rect x="140" y="56" width="5" height="3" fill="#f0f0e8" opacity="0.85" transform="rotate(8, 142, 57)"/>
+      <rect x="340" y="92" width="6" height="3" fill="#e8e8d8" opacity="0.85" transform="rotate(-16, 343, 93)"/>
+
+      <!-- Flies swarming all over -->
+      <circle cx="80" cy="108" r="1" fill="#202020"/>
+      <circle cx="150" cy="80" r="1" fill="#202020"/>
+      <circle cx="200" cy="50" r="1" fill="#202020"/>
+      <circle cx="250" cy="30" r="1" fill="#202020"/>
+      <circle cx="300" cy="12" r="1" fill="#202020"/>
+      <circle cx="350" cy="40" r="1" fill="#202020"/>
+      <circle cx="400" cy="18" r="1" fill="#202020"/>
+      <circle cx="450" cy="32" r="1" fill="#202020"/>
+      <circle cx="120" cy="48" r="0.8" fill="#202020"/>
+      <circle cx="180" cy="24" r="0.8" fill="#202020"/>
+      <circle cx="240" cy="70" r="0.8" fill="#202020"/>
+      <circle cx="320" cy="58" r="0.8" fill="#202020"/>
+      <circle cx="380" cy="24" r="0.8" fill="#202020"/>
+      <circle cx="440" cy="62" r="0.8" fill="#202020"/>
+
+      <!-- Stink clouds -->
+      <path d="M 100 70 Q 104 60 96 50 Q 104 42 96 30 Q 100 20 96 8" stroke="#808040" stroke-width="1.5" fill="none" opacity="0.45"/>
+      <path d="M 200 40 Q 204 30 196 22 Q 204 14 196 8" stroke="#808040" stroke-width="1.5" fill="none" opacity="0.45"/>
+      <path d="M 280 60 Q 284 50 276 40 Q 284 32 276 22 Q 280 14 276 6" stroke="#808040" stroke-width="1.5" fill="none" opacity="0.45"/>
+      <path d="M 360 56 Q 364 46 356 38 Q 364 30 356 22" stroke="#808040" stroke-width="1.5" fill="none" opacity="0.45"/>
+      <path d="M 440 70 Q 444 60 436 50 Q 444 42 436 32 Q 440 24 436 12" stroke="#808040" stroke-width="1.5" fill="none" opacity="0.45"/>
+    </g>
+</g>
+</svg>

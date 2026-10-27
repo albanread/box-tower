@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 6x1 -->
+  <!-- sign sold (fr): VENDU -->
+  <line x1="2.142" y1="0" x2="2.142" y2="9.315" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="19.499" y1="0" x2="19.499" y2="1.587" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <g transform="translate(12 7.8) rotate(-24)">
+  <rect x="-10.15" y="-2.45" width="21" height="5.8" fill="#000000" rx="0.4" opacity="0.16"/>
+  <rect x="-10.5" y="-2.9" width="21" height="5.8" fill="#8a2030" rx="0.4"/>
+  <rect x="-9.9" y="-2.3" width="19.8" height="4.6" fill="#d04040" rx="0.1"/>
+  <path d="M-6.223 -1.309L-5.393 1.309L-4.563 -1.309M-2.03 -1.309L-3.288 -1.309L-3.288 1.309L-2.03 1.309M-3.288 0L-2.231 0M-0.755 1.309L-0.755 -1.309L0.755 1.309L0.755 -1.309M2.03 -1.309L2.401 -1.309C3.002 -1.309 3.489 -0.822 3.489 -0.221L3.489 0.221C3.489 0.822 3.002 1.309 2.401 1.309L2.03 1.309ZM4.764 -1.309L4.764 0.579C4.764 0.982 5.091 1.309 5.494 1.309L5.494 1.309C5.897 1.309 6.223 0.982 6.223 0.579L6.223 -1.309" fill="none" stroke="#f0f0e8" stroke-width="0.782" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

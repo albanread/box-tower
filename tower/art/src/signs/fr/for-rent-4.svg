@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 4x1 -->
+  <!-- sign for-rent (fr): À LOUER -->
+  <line x1="8" y1="0.2" x2="2.7" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="8" y1="0.2" x2="13.3" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <circle cx="8" cy="0.4" r="0.45" fill="#4a4448"/>
+  <rect x="1.85" y="3.05" width="13" height="10.6" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="1.5" y="2.6" width="13" height="10.6" fill="#d04040" rx="0.6"/>
+  <rect x="2.2" y="3.3" width="11.6" height="9.2" fill="#f0f0e8" rx="0.1"/>
+  <path d="M7.209 7.551L8 5.13L8.791 7.551M7.478 6.728L8.522 6.728M8.224 4.627L7.748 4.24" fill="none" stroke="#d04040" stroke-width="0.723" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.862 9.217L2.862 11.638L3.879 11.638M4.89 9.896C4.89 9.521 5.194 9.217 5.569 9.217L5.569 9.217C5.943 9.217 6.247 9.521 6.247 9.896L6.247 10.96C6.247 11.335 5.943 11.638 5.569 11.638L5.569 11.638C5.194 11.638 4.89 11.335 4.89 10.96ZM7.385 9.217L7.385 11.024C7.385 11.363 7.661 11.638 8 11.638L8 11.638C8.339 11.638 8.615 11.363 8.615 11.024L8.615 9.217M10.813 9.217L9.753 9.217L9.753 11.638L10.813 11.638M9.753 10.428L10.643 10.428M11.951 11.638L11.951 9.217L12.485 9.217C12.846 9.217 13.138 9.51 13.138 9.871L13.138 9.871C13.138 10.232 12.846 10.525 12.485 10.525L11.951 10.525M12.503 10.525L13.138 11.638" fill="none" stroke="#d04040" stroke-width="0.723" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

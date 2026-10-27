@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 32x32 -->
+  <!-- fireworks over the roof when the tower gains a star; frame 2 of 5, 5 a second -->
+  <circle cx="22.4" cy="12" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="21.54" cy="15.2" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="19.2" cy="17.54" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="16" cy="18.4" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="12.8" cy="17.54" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="10.46" cy="15.2" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="9.6" cy="12" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="10.46" cy="8.8" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="12.8" cy="6.46" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="16" cy="5.6" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="19.2" cy="6.46" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="21.54" cy="8.8" r="0.51" fill="#ffd166" opacity="0.64"/>
+  <circle cx="12.2" cy="8" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="11.64" cy="10.1" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="10.1" cy="11.64" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="8" cy="12.2" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="5.9" cy="11.64" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="4.36" cy="10.1" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="3.8" cy="8" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="4.36" cy="5.9" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="5.9" cy="4.36" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="8" cy="3.8" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="10.1" cy="4.36" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="11.64" cy="5.9" r="0.63" fill="#7fd1ff" opacity="0.82"/>
+  <circle cx="8" cy="8" r="1" fill="#ffffff"/>
+</svg>

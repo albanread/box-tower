@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 16" width="28" height="16">
+  <!-- units: 28x16 -->
+  <!-- car lift platform; at a floor its deck top is on the floor surface; the vehicle is drawn in front of it -->
+  <rect x="0" y="0.6" width="28" height="1.2" fill="#5f656b"/>
+  <rect x="0" y="0.6" width="1.2" height="15.4" fill="#5f656b"/>
+  <rect x="26.8" y="0.6" width="1.2" height="15.4" fill="#5f656b"/>
+  <rect x="0.3" y="1.8" width="0.6" height="13.2" fill="#7c8288"/>
+  <rect x="27.1" y="1.8" width="0.6" height="13.2" fill="#7c8288"/>
+  <rect x="0" y="15" width="28" height="1" fill="#55595d"/>
+  <rect x="0" y="15" width="28" height="0.3" fill="#8a9096"/>
+  <rect x="1.2" y="1.8" width="25.6" height="0.5" fill="#e8a33a"/>
+  <polygon points="0.7,2.3 1.2,1.8 2.2,1.8 1.7,2.3" fill="#2e2d2b"/>
+  <polygon points="2.7,2.3 3.2,1.8 4.2,1.8 3.7,2.3" fill="#2e2d2b"/>
+  <polygon points="4.7,2.3 5.2,1.8 6.2,1.8 5.7,2.3" fill="#2e2d2b"/>
+  <polygon points="6.7,2.3 7.2,1.8 8.2,1.8 7.7,2.3" fill="#2e2d2b"/>
+  <polygon points="8.7,2.3 9.2,1.8 10.2,1.8 9.7,2.3" fill="#2e2d2b"/>
+  <polygon points="10.7,2.3 11.2,1.8 12.2,1.8 11.7,2.3" fill="#2e2d2b"/>
+  <polygon points="12.7,2.3 13.2,1.8 14.2,1.8 13.7,2.3" fill="#2e2d2b"/>
+  <polygon points="14.7,2.3 15.2,1.8 16.2,1.8 15.7,2.3" fill="#2e2d2b"/>
+  <polygon points="16.7,2.3 17.2,1.8 18.2,1.8 17.7,2.3" fill="#2e2d2b"/>
+  <polygon points="18.7,2.3 19.2,1.8 20.2,1.8 19.7,2.3" fill="#2e2d2b"/>
+  <polygon points="20.7,2.3 21.2,1.8 22.2,1.8 21.7,2.3" fill="#2e2d2b"/>
+  <polygon points="22.7,2.3 23.2,1.8 24.2,1.8 23.7,2.3" fill="#2e2d2b"/>
+  <polygon points="24.7,2.3 25.2,1.8 26.2,1.8 25.7,2.3" fill="#2e2d2b"/>
+  <polygon points="26.7,2.3 27.2,1.8 28.2,1.8 27.7,2.3" fill="#2e2d2b"/>
+  <rect x="1.2" y="14.3" width="1" height="0.7" fill="#e8a33a"/>
+  <rect x="25.8" y="14.3" width="1" height="0.7" fill="#e8a33a"/>
+  <rect x="12.5" y="0" width="3" height="0.6" fill="#7c8288"/>
+  <rect x="12.8" y="1.8" width="2.4" height="0.6" rx="0.3" fill="#fff3d6"/>
+  <circle cx="1.6" cy="0.6" r="0.6" fill="#ffb43c"/>
+  <circle cx="26.4" cy="0.6" r="0.6" fill="#ffb43c"/>
+</svg>

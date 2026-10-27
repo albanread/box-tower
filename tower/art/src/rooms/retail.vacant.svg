@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16">
+<!-- Drawn for this port (no upstream file): shop, vacant. The shell of
+     retail.0 (its palette, track lights and sign board) emptied and unlit. -->
+<g transform="scale(0.2)">
+  <rect x="0" y="0" width="240" height="76" fill="#b3aea6"/>
+  <rect x="0" y="72" width="240" height="4" fill="#867d6e"/>
+  <rect x="0" y="76" width="240" height="4" fill="#937d6c"/>
+  <rect x="0" y="0" width="240" height="3" fill="#6d696c"/>
+  <circle cx="30" cy="5" r="2" fill="#868382"/>
+  <circle cx="70" cy="5" r="2" fill="#868382"/>
+  <circle cx="110" cy="5" r="2" fill="#868382"/>
+  <circle cx="150" cy="5" r="2" fill="#868382"/>
+  <circle cx="190" cy="5" r="2" fill="#868382"/>
+  <circle cx="220" cy="5" r="2" fill="#868382"/>
+  <rect x="80" y="10" width="80" height="18" fill="#a09a90" rx="2"/>
+  <rect x="82" y="12" width="76" height="14" fill="#ada79e" rx="1"/>
+  <rect x="8" y="36" width="2" height="36" fill="#605c5e"/>
+  <rect x="46" y="36" width="2" height="36" fill="#605c5e"/>
+  <rect x="8" y="36" width="40" height="2" fill="#605c5e"/>
+  <path d="M 14 38 l 0 2 l -3 3 h 6 l -3 -3" fill="none" stroke="#605c5e" stroke-width="0.8"/>
+  <path d="M 22 38 l 0 2 l -3 3 h 6 l -3 -3" fill="none" stroke="#605c5e" stroke-width="0.8"/>
+  <path d="M 34 38 l 0 2 l -3 3 h 6 l -3 -3" fill="none" stroke="#605c5e" stroke-width="0.8"/>
+  <rect x="60" y="44" width="44" height="28" fill="#a08a6c" rx="1"/>
+  <rect x="62" y="48" width="40" height="1.5" fill="#867056"/>
+  <rect x="62" y="56" width="40" height="1.5" fill="#867056"/>
+  <rect x="62" y="64" width="40" height="1.5" fill="#867056"/>
+  <rect x="120" y="54" width="40" height="18" fill="#a08a6c" rx="1"/>
+  <rect x="118" y="52" width="44" height="3" fill="#ad977a" rx="1"/>
+  <rect x="176" y="58" width="16" height="14" fill="#93795f" rx="1"/>
+  <rect x="176" y="58" width="16" height="1.6" fill="#a0866e"/>
+  <rect x="182.5" y="58" width="3" height="14" fill="#ad9d8b"/>
+  <rect x="194" y="62" width="12" height="10" fill="#93795f" rx="1"/>
+  <rect x="194" y="62" width="12" height="1.6" fill="#a0866e"/>
+  <rect x="198.5" y="62" width="3" height="10" fill="#ad9d8b"/>
+  <rect x="214" y="40" width="6" height="6" fill="#a09790" rx="3"/>
+  <rect x="216" y="46" width="2" height="22" fill="#867d73"/>
+  <rect x="212" y="68" width="10" height="3" fill="#6d696c" rx="1"/>
+</g>
+</svg>

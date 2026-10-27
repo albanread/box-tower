@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- water from the helicopter over a burning cell; frame 2 of 3 -->
+  <polygon points="0.6,0 3.4,0 3.8,15 0.2,15" fill="#9fcbe6" opacity="0.55"/>
+  <rect x="3.49" y="7.55" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="2.17" y="6.65" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="1" y="0.53" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="1.67" y="7.05" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="2.88" y="4.75" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="3.5" y="1.58" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="2.5" y="0.4" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="1.1" y="1.79" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <rect x="3.53" y="9.51" width="0.35" height="1.4" fill="#e4f2fb"/>
+  <ellipse cx="2" cy="15" rx="2" ry="0.5" fill="#cfe6f4"/>
+</svg>

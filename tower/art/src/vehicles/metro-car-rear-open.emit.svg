@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 21" width="56" height="21">
+  <!-- units: 56x21 -->
+  <!-- its lit windows and lamps by night -->
+  <rect x="3" y="3.2" width="9" height="5.4" rx="0.8" fill="#fff4d0" fill-opacity="0.55"/>
+  <rect x="16.2" y="3.2" width="9" height="5.4" rx="0.8" fill="#fff4d0" fill-opacity="0.55"/>
+  <rect x="29.4" y="3.2" width="9" height="5.4" rx="0.8" fill="#fff4d0" fill-opacity="0.55"/>
+  <rect x="42.6" y="3.2" width="9" height="5.4" rx="0.8" fill="#fff4d0" fill-opacity="0.55"/>
+  <rect x="11.6" y="2.6" width="4.4" height="15.4" rx="0.4" fill="#fff4d0"/>
+  <rect x="37.6" y="2.6" width="4.4" height="15.4" rx="0.4" fill="#fff4d0"/>
+  <rect x="0" y="4.8" width="1.4" height="2.4" rx="0.5" fill="#ff3a2a"/>
+</svg>

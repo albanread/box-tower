@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 13" width="12" height="13">
+  <!-- units: 12x13 -->
+  <!-- car doors, frame 0 (closed); the middle layer of the car -->
+  <rect x="1" y="1.4" width="5" height="10.6" fill="#bcc2c6"/>
+  <rect x="6" y="1.4" width="5" height="10.6" fill="#bcc2c6"/>
+  <rect x="5.7" y="1.4" width="0.3" height="10.6" fill="#8a9196"/>
+  <rect x="6" y="1.4" width="0.3" height="10.6" fill="#8a9196"/>
+  <rect x="1" y="4.5" width="5" height="0.35" fill="#8a9196"/>
+  <rect x="6" y="4.5" width="5" height="0.35" fill="#8a9196"/>
+  <rect x="1" y="7.5" width="5" height="0.35" fill="#8a9196"/>
+  <rect x="6" y="7.5" width="5" height="0.35" fill="#8a9196"/>
+  <rect x="1" y="10" width="5" height="0.35" fill="#8a9196"/>
+  <rect x="6" y="10" width="5" height="0.35" fill="#8a9196"/>
+</svg>

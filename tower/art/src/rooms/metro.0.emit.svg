@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 48" width="120" height="48">
+<!-- Drawn for this port, replacing tower-together's metro.svg (MIT, Patrick Hulin),
+     which was an 80x80 picture stretched over the whole stack. Kept from it:
+     the cream subway tiles, red line band, grey platform with its yellow edge line and
+     the dark track. New: the station laid out for its real footprint (30 cells x
+     3 floors): the ticket hall on the top floor (machines, gates, a line map with
+     no names, departure board, stairs down) over a vaulted platform hall two floors
+     high. metro.0 is the platform waiting.
+     Night layer: the station under its own light (it is underground), then lamps, screens, signals, backlit posters. -->
+  <defs><filter id="warm" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="1 0 0 0 0  0 0.92 0 0 0  0 0 0.75 0 0  0 0 0 1 0"/></filter></defs>
+  <image href="metro.0.svg" x="0" y="0" width="120" height="48" filter="url(#warm)" opacity="0.55"/>
+  <rect x="4.3" y="1.6" width="4.4" height="0.6" fill="#fff4d0"/>
+  <rect x="3" y="1.6" width="7" height="3" fill="#fff4d0" opacity="0.16" rx="1.5"/>
+  <rect x="26.3" y="1.6" width="4.4" height="0.6" fill="#fff4d0"/>
+  <rect x="25" y="1.6" width="7" height="3" fill="#fff4d0" opacity="0.16" rx="1.5"/>
+  <rect x="48.3" y="1.6" width="4.4" height="0.6" fill="#fff4d0"/>
+  <rect x="47" y="1.6" width="7" height="3" fill="#fff4d0" opacity="0.16" rx="1.5"/>
+  <rect x="70.3" y="1.6" width="4.4" height="0.6" fill="#fff4d0"/>
+  <rect x="69" y="1.6" width="7" height="3" fill="#fff4d0" opacity="0.16" rx="1.5"/>
+  <rect x="18.7" y="9.2" width="2.6" height="1.8" fill="#a0e0ff" rx="0.2"/>
+  <rect x="23.7" y="9.2" width="2.6" height="1.8" fill="#a0e0ff" rx="0.2"/>
+  <rect x="56.5" y="3.1" width="21" height="6.6" fill="#e8e4d0" rx="0.2" opacity="0.7"/>
+  <rect x="81" y="2.9" width="7" height="0.5" fill="#ffc050"/>
+  <rect x="81" y="3.8" width="5" height="0.5" fill="#ffc050"/>
+  <rect x="81" y="4.7" width="6" height="0.5" fill="#ffc050"/>
+  <rect x="32.2" y="10.9" width="1" height="0.5" fill="#50f090" rx="0.2"/>
+  <rect x="36.4" y="10.9" width="1" height="0.5" fill="#ff5050" rx="0.2"/>
+  <rect x="40.6" y="10.9" width="1" height="0.5" fill="#50f090" rx="0.2"/>
+  <rect x="44.8" y="10.9" width="1" height="0.5" fill="#ff5050" rx="0.2"/>
+  <rect x="49" y="10.9" width="1" height="0.5" fill="#50f090" rx="0.2"/>
+  <rect x="10.5" y="20.1" width="4" height="0.5" fill="#fff4d0"/>
+  <polygon points="10.5,20.6 14.5,20.6 18,37 7,37" fill="#fff4d0" opacity="0.10"/>
+  <rect x="35.5" y="19.5" width="4" height="0.5" fill="#fff4d0"/>
+  <polygon points="35.5,20 39.5,20 43,37 32,37" fill="#fff4d0" opacity="0.10"/>
+  <rect x="60.5" y="19.5" width="4" height="0.5" fill="#fff4d0"/>
+  <polygon points="60.5,20 64.5,20 68,37 57,37" fill="#fff4d0" opacity="0.10"/>
+  <rect x="85.5" y="19.5" width="4" height="0.5" fill="#fff4d0"/>
+  <polygon points="85.5,20 89.5,20 93,37 82,37" fill="#fff4d0" opacity="0.10"/>
+  <rect x="6" y="23.5" width="9" height="6" fill="#ffffff" opacity="0.35"/>
+  <rect x="40" y="23.5" width="9" height="6" fill="#ffffff" opacity="0.35"/>
+  <rect x="66" y="23.5" width="9" height="6" fill="#ffffff" opacity="0.35"/>
+  <rect x="45.6" y="32.2" width="2.4" height="0.8" fill="#50f090" rx="0.3"/>
+</svg>

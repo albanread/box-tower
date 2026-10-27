@@ -1,0 +1,317 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" width="120" height="32">
+  <!-- Drawn for the BOX port of tower-together by art/src/rooms/amenities.py. -->
+  <!-- slot: 30x2 -->
+  <!-- primary school, two floors, lessons on -->
+  <rect x="0" y="0" width="120" height="32" fill="#e8dcc0"/>
+  <rect x="0" y="30.4" width="120" height="0.8" fill="#a08a60"/>
+  <rect x="0" y="31.2" width="120" height="0.8" fill="#b8a078"/>
+  <rect x="0" y="15.2" width="120" height="0.8" fill="#a08a60"/>
+  <rect x="0" y="16" width="120" height="0.4" fill="#8a7450"/>
+  <rect x="6" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="6.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="21" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="21.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="36" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="36.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="51" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="51.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="66" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="66.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="81" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="81.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="96" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="96.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="111" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="111.5" y="0.5" width="2" height="0.35" fill="#f8f0d8"/>
+  <rect x="6.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="21.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="36.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="51.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="66.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="81.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="96.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="111.5" y="16.4" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="2" y="2.5" width="22" height="7.5" fill="#2e5a40" rx="0.3"/>
+  <rect x="2" y="10" width="22" height="0.5" fill="#a07040"/>
+  <rect x="4" y="4" width="7" height="0.3" fill="#e8ecef"/>
+  <rect x="4" y="5.2" width="9" height="0.3" fill="#e8ecef"/>
+  <rect x="4" y="6.4" width="5" height="0.3" fill="#e8ecef"/>
+  <rect x="15" y="4.2" width="0.3" height="4" fill="#e8ecef"/>
+  <rect x="15" y="8" width="6" height="0.3" fill="#e8ecef"/>
+  <rect x="64" y="2.5" width="20" height="7" fill="#a8d8f0" rx="0.4"/>
+  <rect x="73.8" y="2.5" width="0.4" height="7" fill="#e8ecef"/>
+  <rect x="90" y="2.5" width="20" height="7" fill="#a8d8f0" rx="0.4"/>
+  <rect x="99.8" y="2.5" width="0.4" height="7" fill="#e8ecef"/>
+  <rect x="30" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="30.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="35.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(31.8 14.7) scale(0.6) translate(-31.8 -14.7)">
+  <rect x="30.75" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="30.8" y="7.3" width="2" height="4.2" fill="#e0503a" rx="0.6"/>
+  <circle cx="31.8" cy="6.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="30.8,6 31.1,5.2 32.4,5.15 32.8,5.8" fill="#b08850"/>
+  </g>
+  <g transform="translate(34.2 14.7) scale(0.6) translate(-34.2 -14.7)">
+  <rect x="33.15" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="33.2" y="7.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="34.2" cy="6.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="33.2,6 33.5,5.2 34.8,5.15 35.2,5.8" fill="#3a2a20"/>
+  </g>
+  <rect x="39" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="39.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="44.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(40.8 14.7) scale(0.6) translate(-40.8 -14.7)">
+  <rect x="39.75" y="11.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="39.8" y="7.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="40.8" cy="6.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="39.8,6 40.1,5.2 41.4,5.15 41.8,5.8" fill="#b08850"/>
+  </g>
+  <g transform="translate(43.2 14.7) scale(0.6) translate(-43.2 -14.7)">
+  <rect x="42.15" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="42.2" y="7.3" width="2" height="4.2" fill="#e0503a" rx="0.6"/>
+  <circle cx="43.2" cy="6.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="42.2,6 42.5,5.2 43.8,5.15 44.2,5.8" fill="#3a2a20"/>
+  </g>
+  <rect x="48" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="48.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="53.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(49.8 14.7) scale(0.6) translate(-49.8 -14.7)">
+  <rect x="48.75" y="11.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="48.8" y="7.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="49.8" cy="6.2" r="0.98" fill="#c4936a"/>
+  <polygon points="48.8,6 49.1,5.2 50.4,5.15 50.8,5.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(52.2 14.7) scale(0.6) translate(-52.2 -14.7)">
+  <rect x="51.15" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="51.2" y="7.3" width="2" height="4.2" fill="#3d9b4f" rx="0.6"/>
+  <circle cx="52.2" cy="6.2" r="0.98" fill="#c4936a"/>
+  <polygon points="51.2,6 51.5,5.2 52.8,5.15 53.2,5.8" fill="#3a2a20"/>
+  </g>
+  <rect x="57" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="57.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="62.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(58.8 14.7) scale(0.6) translate(-58.8 -14.7)">
+  <rect x="57.75" y="11.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="57.8" y="7.3" width="2" height="4.2" fill="#3d9b4f" rx="0.6"/>
+  <circle cx="58.8" cy="6.2" r="0.98" fill="#f0c9a6"/>
+  <polygon points="57.8,6 58.1,5.2 59.4,5.15 59.8,5.8" fill="#b08850"/>
+  </g>
+  <g transform="translate(61.2 14.7) scale(0.6) translate(-61.2 -14.7)">
+  <rect x="60.15" y="11.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="60.2" y="7.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="61.2" cy="6.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="60.2,6 60.5,5.2 61.8,5.15 62.2,5.8" fill="#b08850"/>
+  </g>
+  <rect x="66" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="66.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="71.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="75" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="75.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="80.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(76.8 14.7) scale(0.6) translate(-76.8 -14.7)">
+  <rect x="75.75" y="11.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="75.8" y="7.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="76.8" cy="6.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="75.8,6 76.1,5.2 77.4,5.15 77.8,5.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(79.2 14.7) scale(0.6) translate(-79.2 -14.7)">
+  <rect x="78.15" y="11.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="78.2" y="7.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="79.2" cy="6.2" r="0.98" fill="#f0c9a6"/>
+  <polygon points="78.2,6 78.5,5.2 79.8,5.15 80.2,5.8" fill="#1f1a17"/>
+  </g>
+  <rect x="84" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="84.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="89.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(85.8 14.7) scale(0.6) translate(-85.8 -14.7)">
+  <rect x="84.75" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="84.8" y="7.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="85.8" cy="6.2" r="0.98" fill="#c4936a"/>
+  <polygon points="84.8,6 85.1,5.2 86.4,5.15 86.8,5.8" fill="#7a5230"/>
+  </g>
+  <g transform="translate(88.2 14.7) scale(0.6) translate(-88.2 -14.7)">
+  <rect x="87.15" y="11.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="87.2" y="7.3" width="2" height="4.2" fill="#9a5ac8" rx="0.6"/>
+  <circle cx="88.2" cy="6.2" r="0.98" fill="#a8714c"/>
+  <polygon points="87.2,6 87.5,5.2 88.8,5.15 89.2,5.8" fill="#3a2a20"/>
+  </g>
+  <rect x="93" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="93.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="98.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(94.8 14.7) scale(0.6) translate(-94.8 -14.7)">
+  <rect x="93.75" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="93.8" y="7.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="94.8" cy="6.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="93.8,6 94.1,5.2 95.4,5.15 95.8,5.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(97.2 14.7) scale(0.6) translate(-97.2 -14.7)">
+  <rect x="96.15" y="11.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="96.2" y="7.3" width="2" height="4.2" fill="#9a5ac8" rx="0.6"/>
+  <circle cx="97.2" cy="6.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="96.2,6 96.5,5.2 97.8,5.15 98.2,5.8" fill="#1f1a17"/>
+  </g>
+  <rect x="102" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="102.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="107.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(103.8 14.7) scale(0.6) translate(-103.8 -14.7)">
+  <rect x="102.75" y="11.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="102.8" y="7.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="103.8" cy="6.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="102.8,6 103.1,5.2 104.4,5.15 104.8,5.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(106.2 14.7) scale(0.6) translate(-106.2 -14.7)">
+  <rect x="105.15" y="11.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="105.2" y="7.3" width="2" height="4.2" fill="#9a5ac8" rx="0.6"/>
+  <circle cx="106.2" cy="6.2" r="0.98" fill="#a8714c"/>
+  <polygon points="105.2,6 105.5,5.2 106.8,5.15 107.2,5.8" fill="#1f1a17"/>
+  </g>
+  <rect x="111" y="11.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="111.4" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="116.2" y="12.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="24.75" y="11.1" width="0.65" height="4.1" fill="#3b4250" rx="0.25"/>
+  <rect x="25.6" y="11.1" width="0.65" height="4.1" fill="#3b4250" rx="0.25"/>
+  <rect x="24.5" y="7" width="2" height="4.4" fill="#8a4a3a" rx="0.6"/>
+  <rect x="24.05" y="7.3" width="0.5" height="3.2" fill="#8a4a3a" rx="0.25"/>
+  <rect x="26.45" y="7.3" width="0.5" height="3.2" fill="#8a4a3a" rx="0.25"/>
+  <circle cx="25.5" cy="5.9" r="0.98" fill="#e0b08c"/>
+  <polygon points="24.5,5.7 24.8,4.9 26.1,4.85 26.5,5.5" fill="#1f1a17"/>
+  <rect x="2" y="18" width="26" height="8" fill="#e8ecef" rx="0.3"/>
+  <rect x="2.6" y="18.6" width="24.8" height="6.8" fill="#c8d8e0"/>
+  <rect x="64" y="18.5" width="20" height="7" fill="#a8d8f0" rx="0.4"/>
+  <rect x="73.8" y="18.5" width="0.4" height="7" fill="#e8ecef"/>
+  <rect x="90" y="18.5" width="20" height="7" fill="#a8d8f0" rx="0.4"/>
+  <rect x="99.8" y="18.5" width="0.4" height="7" fill="#e8ecef"/>
+  <rect x="30" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="30.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="35.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(31.8 30.7) scale(0.6) translate(-31.8 -30.7)">
+  <rect x="30.75" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="30.8" y="23.3" width="2" height="4.2" fill="#3d9b4f" rx="0.6"/>
+  <circle cx="31.8" cy="22.2" r="0.98" fill="#f0c9a6"/>
+  <polygon points="30.8,22 31.1,21.2 32.4,21.15 32.8,21.8" fill="#1f1a17"/>
+  </g>
+  <g transform="translate(34.2 30.7) scale(0.6) translate(-34.2 -30.7)">
+  <rect x="33.15" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="33.2" y="23.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="34.2" cy="22.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="33.2,22 33.5,21.2 34.8,21.15 35.2,21.8" fill="#1f1a17"/>
+  </g>
+  <rect x="39" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="39.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="44.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="48" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="48.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="53.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(49.8 30.7) scale(0.6) translate(-49.8 -30.7)">
+  <rect x="48.75" y="27.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="48.8" y="23.3" width="2" height="4.2" fill="#9a5ac8" rx="0.6"/>
+  <circle cx="49.8" cy="22.2" r="0.98" fill="#c4936a"/>
+  <polygon points="48.8,22 49.1,21.2 50.4,21.15 50.8,21.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(52.2 30.7) scale(0.6) translate(-52.2 -30.7)">
+  <rect x="51.15" y="27.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="51.2" y="23.3" width="2" height="4.2" fill="#3d9b4f" rx="0.6"/>
+  <circle cx="52.2" cy="22.2" r="0.98" fill="#a8714c"/>
+  <polygon points="51.2,22 51.5,21.2 52.8,21.15 53.2,21.8" fill="#5a5a5a"/>
+  </g>
+  <rect x="57" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="57.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="62.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(58.8 30.7) scale(0.6) translate(-58.8 -30.7)">
+  <rect x="57.75" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="57.8" y="23.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="58.8" cy="22.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="57.8,22 58.1,21.2 59.4,21.15 59.8,21.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(61.2 30.7) scale(0.6) translate(-61.2 -30.7)">
+  <rect x="60.15" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="60.2" y="23.3" width="2" height="4.2" fill="#e0503a" rx="0.6"/>
+  <circle cx="61.2" cy="22.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="60.2,22 60.5,21.2 61.8,21.15 62.2,21.8" fill="#3a2a20"/>
+  </g>
+  <rect x="66" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="66.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="71.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(67.8 30.7) scale(0.6) translate(-67.8 -30.7)">
+  <rect x="66.75" y="27.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="66.8" y="23.3" width="2" height="4.2" fill="#3d9b4f" rx="0.6"/>
+  <circle cx="67.8" cy="22.2" r="0.98" fill="#a8714c"/>
+  <polygon points="66.8,22 67.1,21.2 68.4,21.15 68.8,21.8" fill="#7a5230"/>
+  </g>
+  <g transform="translate(70.2 30.7) scale(0.6) translate(-70.2 -30.7)">
+  <rect x="69.15" y="27.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="69.2" y="23.3" width="2" height="4.2" fill="#e0503a" rx="0.6"/>
+  <circle cx="70.2" cy="22.2" r="0.98" fill="#f0c9a6"/>
+  <polygon points="69.2,22 69.5,21.2 70.8,21.15 71.2,21.8" fill="#7a5230"/>
+  </g>
+  <rect x="75" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="75.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="80.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(76.8 30.7) scale(0.6) translate(-76.8 -30.7)">
+  <rect x="75.75" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="75.8" y="23.3" width="2" height="4.2" fill="#e0503a" rx="0.6"/>
+  <circle cx="76.8" cy="22.2" r="0.98" fill="#a8714c"/>
+  <polygon points="75.8,22 76.1,21.2 77.4,21.15 77.8,21.8" fill="#7a5230"/>
+  </g>
+  <g transform="translate(79.2 30.7) scale(0.6) translate(-79.2 -30.7)">
+  <rect x="78.15" y="27.3" width="2.2" height="0.8" fill="#2a5a9a" rx="0.3"/>
+  <rect x="78.2" y="23.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="79.2" cy="22.2" r="0.98" fill="#c4936a"/>
+  <polygon points="78.2,22 78.5,21.2 79.8,21.15 80.2,21.8" fill="#b08850"/>
+  </g>
+  <rect x="84" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="84.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="89.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="93" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="93.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="98.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(94.8 30.7) scale(0.6) translate(-94.8 -30.7)">
+  <rect x="93.75" y="27.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="93.8" y="23.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="94.8" cy="22.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="93.8,22 94.1,21.2 95.4,21.15 95.8,21.8" fill="#7a5230"/>
+  </g>
+  <g transform="translate(97.2 30.7) scale(0.6) translate(-97.2 -30.7)">
+  <rect x="96.15" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="96.2" y="23.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="97.2" cy="22.2" r="0.98" fill="#f0c9a6"/>
+  <polygon points="96.2,22 96.5,21.2 97.8,21.15 98.2,21.8" fill="#b08850"/>
+  </g>
+  <rect x="102" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="102.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="107.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(103.8 30.7) scale(0.6) translate(-103.8 -30.7)">
+  <rect x="102.75" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="102.8" y="23.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="103.8" cy="22.2" r="0.98" fill="#e0b08c"/>
+  <polygon points="102.8,22 103.1,21.2 104.4,21.15 104.8,21.8" fill="#3a2a20"/>
+  </g>
+  <g transform="translate(106.2 30.7) scale(0.6) translate(-106.2 -30.7)">
+  <rect x="105.15" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="105.2" y="23.3" width="2" height="4.2" fill="#3a8ad0" rx="0.6"/>
+  <circle cx="106.2" cy="22.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="105.2,22 105.5,21.2 106.8,21.15 107.2,21.8" fill="#7a5230"/>
+  </g>
+  <rect x="111" y="27.6" width="6" height="0.6" fill="#c8a070" rx="0.2"/>
+  <rect x="111.4" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <rect x="116.2" y="28.2" width="0.4" height="3" fill="#8a6a40"/>
+  <g transform="translate(112.8 30.7) scale(0.6) translate(-112.8 -30.7)">
+  <rect x="111.75" y="27.3" width="2.2" height="0.8" fill="#a04848" rx="0.3"/>
+  <rect x="111.8" y="23.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="112.8" cy="22.2" r="0.98" fill="#8d5a3b"/>
+  <polygon points="111.8,22 112.1,21.2 113.4,21.15 113.8,21.8" fill="#1f1a17"/>
+  </g>
+  <g transform="translate(115.2 30.7) scale(0.6) translate(-115.2 -30.7)">
+  <rect x="114.15" y="27.3" width="2.2" height="0.8" fill="#3b4250" rx="0.3"/>
+  <rect x="114.2" y="23.3" width="2" height="4.2" fill="#f0b429" rx="0.6"/>
+  <circle cx="115.2" cy="22.2" r="0.98" fill="#f0c9a6"/>
+  <polygon points="114.2,22 114.5,21.2 115.8,21.15 116.2,21.8" fill="#b08850"/>
+  </g>
+  <rect x="28.25" y="27.1" width="0.65" height="4.1" fill="#3b4250" rx="0.25"/>
+  <rect x="29.1" y="27.1" width="0.65" height="4.1" fill="#3b4250" rx="0.25"/>
+  <rect x="28" y="23" width="2" height="4.4" fill="#3a6a8a" rx="0.6"/>
+  <rect x="27.55" y="23.3" width="0.5" height="3.2" fill="#3a6a8a" rx="0.25"/>
+  <rect x="29.95" y="23.3" width="0.5" height="3.2" fill="#3a6a8a" rx="0.25"/>
+  <circle cx="29" cy="21.9" r="0.98" fill="#8d5a3b"/>
+  <polygon points="28,21.7 28.3,20.9 29.6,20.85 30,21.5" fill="#1f1a17"/>
+</svg>

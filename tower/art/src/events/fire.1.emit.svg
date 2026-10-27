@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <rect x="0" y="6" width="4" height="9.5" fill="#ff5a20" opacity="0.22"/>
+  <path d="M 0.05 15.2 Q 0.19 9.19 1.47 4.28 Q 2.09 9.19 1.95 15.2 Z" fill="#ff6a2a"/>
+  <path d="M 1.19 15.2 Q 1.33 9.71 2.76 5.22 Q 3.53 9.71 3.39 15.2 Z" fill="#ff6a2a"/>
+  <path d="M 2.34 15.2 Q 2.33 11.85 3.25 9.11 Q 4.23 11.85 4.24 15.2 Z" fill="#ff6a2a"/>
+  <rect x="0" y="12.6" width="4" height="2.6" fill="#ff6a2a"/>
+  <path d="M 0.31 15.2 Q 0.42 10.51 1.37 6.68 Q 1.79 10.51 1.68 15.2 Z" fill="#ff9a3a"/>
+  <path d="M 1.5 15.2 Q 1.61 10.92 2.66 7.41 Q 3.19 10.92 3.09 15.2 Z" fill="#ff9a3a"/>
+  <path d="M 2.61 15.2 Q 2.6 12.59 3.26 10.45 Q 3.97 12.59 3.98 15.2 Z" fill="#ff9a3a"/>
+  <path d="M 0.54 15.2 Q 0.62 11.9 1.26 9.19 Q 1.53 11.9 1.45 15.2 Z" fill="#ffd060"/>
+  <path d="M 1.77 15.2 Q 1.84 12.18 2.55 9.71 Q 2.9 12.18 2.82 15.2 Z" fill="#ffd060"/>
+  <path d="M 2.84 15.2 Q 2.83 13.36 3.27 11.85 Q 3.74 13.36 3.75 15.2 Z" fill="#ffd060"/>
+  <path d="M 0.75 15.2 Q 0.79 13.4 1.14 11.92 Q 1.29 13.4 1.24 15.2 Z" fill="#fff2b0"/>
+  <path d="M 2.01 15.2 Q 2.05 13.55 2.43 12.2 Q 2.62 13.55 2.58 15.2 Z" fill="#fff2b0"/>
+  <path d="M 3.05 15.2 Q 3.04 14.19 3.28 13.37 Q 3.54 14.19 3.54 15.2 Z" fill="#fff2b0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16">
+  <!-- units: 32x16 -->
+  <!-- canopy lights and beacons -->
+  <rect x="4.8" y="1" width="2.4" height="0.6" rx="0.3" fill="#fff3d6"/>
+  <rect x="14.8" y="1" width="2.4" height="0.6" rx="0.3" fill="#fff3d6"/>
+  <rect x="24.8" y="1" width="2.4" height="0.6" rx="0.3" fill="#fff3d6"/>
+  <circle cx="2.4" cy="4" r="0.6" fill="#ffa82a"/>
+  <circle cx="29.6" cy="4" r="0.6" fill="#ffa82a"/>
+</svg>

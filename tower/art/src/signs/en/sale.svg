@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 12x6 -->
+  <!-- sign sale (en): SALE -->
+  <rect x="0.35" y="0.45" width="11.6" height="5.5" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="0" y="0" width="11.6" height="5.5" fill="#f8c878" rx="0.7"/>
+  <rect x="0.45" y="0.45" width="10.7" height="4.6" fill="#d04040" rx="0.25"/>
+  <path d="M2.654 1.287L2.168 1.287C1.764 1.287 1.437 1.614 1.437 2.018L1.437 2.141C1.437 2.477 1.71 2.75 2.046 2.75L2.046 2.75C2.382 2.75 2.654 3.023 2.654 3.359L2.654 3.482C2.654 3.886 2.327 4.213 1.923 4.213L1.437 4.213M3.954 4.213L4.693 1.287L5.433 4.213M4.206 3.218L5.181 3.218M6.733 1.287L6.733 4.213L7.776 4.213M10.163 1.287L9.076 1.287L9.076 4.213L10.163 4.213M9.076 2.75L9.989 2.75" fill="none" stroke="#f0f0e8" stroke-width="0.874" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

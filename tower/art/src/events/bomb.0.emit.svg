@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <circle cx="2.5" cy="12.6" r="1" fill="#ff4a3a" opacity="0.4"/>
+  <circle cx="2.5" cy="12.6" r="0.35" fill="#ff4a3a"/>
+</svg>

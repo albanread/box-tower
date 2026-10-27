@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 24x24 -->
+  <!-- the sun; free sprite -->
+  <circle cx="12" cy="12" r="11" fill="#ffe9a8" opacity="0.5"/>
+  <circle cx="12" cy="12" r="8.5" fill="#ffd86b"/>
+  <circle cx="10.5" cy="10.5" r="4" fill="#ffe58f"/>
+</svg>

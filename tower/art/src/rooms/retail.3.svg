@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16">
+<!-- From tower-together apps/client/public/rooms/retail3.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (12 cells x 1 floor) by one uniform scale of
+     upstream's 240x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Jewelry & beauty boutique - pink/gold luxury theme -->
+    <rect x="0" y="0" width="240" height="76" fill="#f0d8d8"/>
+
+    <!-- Decorative molding at top -->
+    <rect x="0" y="0" width="240" height="4" fill="#c89878"/>
+    <rect x="0" y="4" width="240" height="1" fill="#f8e8c8"/>
+    <rect x="0" y="6" width="240" height="1" fill="#a88058"/>
+
+    <!-- Baseboard with gold trim -->
+    <rect x="0" y="70" width="240" height="2" fill="#c8a868"/>
+    <rect x="0" y="72" width="240" height="4" fill="#8a5858"/>
+
+    <!-- Marble floor -->
+    <rect x="0" y="76" width="240" height="4" fill="#d8b8b8"/>
+    <rect x="20" y="77" width="30" height="1" fill="#e8c8c8"/>
+    <rect x="80" y="78" width="40" height="1" fill="#c8a0a0"/>
+    <rect x="150" y="77" width="36" height="1" fill="#e8c8c8"/>
+
+    <!-- Elegant sign -->
+    <rect x="74" y="10" width="92" height="18" fill="#3a2030" rx="2"/>
+    <rect x="76" y="12" width="88" height="14" fill="#5a3040" rx="1"/>
+    <rect x="78" y="14" width="84" height="1" fill="#e0b878"/>
+    <rect x="78" y="23" width="84" height="1" fill="#e0b878"/>
+    <!-- Cursive letter marks -->
+    <circle cx="90" cy="19" r="3" fill="#e0b878" opacity="0.9"/>
+    <circle cx="90" cy="19" r="1.5" fill="#5a3040"/>
+    <rect x="100" y="16" width="2" height="6" fill="#e0b878"/>
+    <rect x="108" y="16" width="2" height="6" fill="#e0b878"/>
+    <rect x="116" y="16" width="2" height="6" fill="#e0b878"/>
+    <rect x="124" y="16" width="2" height="6" fill="#e0b878"/>
+    <rect x="132" y="16" width="2" height="6" fill="#e0b878"/>
+    <rect x="140" y="16" width="2" height="6" fill="#e0b878"/>
+    <rect x="148" y="16" width="2" height="6" fill="#e0b878"/>
+
+    <!-- Jewelry display case (left) -->
+    <rect x="6" y="42" width="46" height="30" fill="#c8a870"/>
+    <rect x="8" y="44" width="42" height="26" fill="#f0e0b8"/>
+    <rect x="8" y="44" width="42" height="26" fill="#f8f0d8" opacity="0.6"/>
+    <!-- Display shelf lines -->
+    <rect x="8" y="54" width="42" height="1" fill="#c8a870"/>
+    <!-- Rings on top shelf -->
+    <circle cx="16" cy="49" r="2.5" fill="none" stroke="#e8c040" stroke-width="1.5"/>
+    <circle cx="16" cy="48" r="0.8" fill="#80d0f0"/>
+    <circle cx="26" cy="49" r="2.5" fill="none" stroke="#e0e0e0" stroke-width="1.5"/>
+    <circle cx="26" cy="48" r="0.8" fill="#f0c0e0"/>
+    <circle cx="36" cy="49" r="2.5" fill="none" stroke="#e8c040" stroke-width="1.5"/>
+    <circle cx="36" cy="48" r="0.8" fill="#e04040"/>
+    <circle cx="46" cy="49" r="2.5" fill="none" stroke="#e0e0e0" stroke-width="1.5"/>
+    <circle cx="46" cy="48" r="0.8" fill="#60e0a0"/>
+    <!-- Necklaces bottom shelf -->
+    <path d="M 12 58 Q 20 66 28 58" stroke="#e8c040" stroke-width="1" fill="none"/>
+    <circle cx="20" cy="64" r="1.5" fill="#80c0f0"/>
+    <path d="M 30 58 Q 38 66 46 58" stroke="#e0e0e0" stroke-width="1" fill="none"/>
+    <circle cx="38" cy="64" r="1.5" fill="#f0a0c0"/>
+    <!-- Case legs -->
+    <rect x="8" y="70" width="3" height="2" fill="#8a5830"/>
+    <rect x="47" y="70" width="3" height="2" fill="#8a5830"/>
+
+    <!-- Perfume / cosmetics shelf (center-left) -->
+    <rect x="58" y="36" width="38" height="36" fill="#d8a898"/>
+    <rect x="60" y="38" width="34" height="1" fill="#a07060"/>
+    <rect x="60" y="39" width="34" height="10" fill="#f0d8c8"/>
+    <rect x="60" y="49" width="34" height="1" fill="#a07060"/>
+    <rect x="60" y="50" width="34" height="10" fill="#f0d8c8"/>
+    <rect x="60" y="60" width="34" height="1" fill="#a07060"/>
+    <rect x="60" y="61" width="34" height="11" fill="#f0d8c8"/>
+    <!-- Perfume bottles top -->
+    <rect x="63" y="42" width="5" height="6" fill="#e090c0" opacity="0.8"/>
+    <rect x="64" y="40" width="3" height="3" fill="#c06090"/>
+    <rect x="70" y="42" width="5" height="7" fill="#80c0e0" opacity="0.8"/>
+    <rect x="71" y="40" width="3" height="3" fill="#5090b0"/>
+    <rect x="77" y="43" width="5" height="6" fill="#e0c060" opacity="0.8"/>
+    <rect x="78" y="41" width="3" height="3" fill="#b09040"/>
+    <rect x="84" y="42" width="5" height="7" fill="#c080e0" opacity="0.8"/>
+    <rect x="85" y="40" width="3" height="3" fill="#9060b0"/>
+    <!-- Lipsticks middle -->
+    <rect x="63" y="53" width="3" height="6" fill="#c04040"/>
+    <rect x="63" y="52" width="3" height="2" fill="#404040"/>
+    <rect x="68" y="53" width="3" height="6" fill="#a03070"/>
+    <rect x="68" y="52" width="3" height="2" fill="#404040"/>
+    <rect x="73" y="53" width="3" height="6" fill="#c04050"/>
+    <rect x="73" y="52" width="3" height="2" fill="#404040"/>
+    <rect x="78" y="53" width="3" height="6" fill="#e0a060"/>
+    <rect x="78" y="52" width="3" height="2" fill="#404040"/>
+    <rect x="83" y="53" width="3" height="6" fill="#902040"/>
+    <rect x="83" y="52" width="3" height="2" fill="#404040"/>
+    <rect x="88" y="53" width="3" height="6" fill="#b03060"/>
+    <rect x="88" y="52" width="3" height="2" fill="#404040"/>
+    <!-- Compacts bottom -->
+    <circle cx="66" cy="66" r="3" fill="#e0c060"/>
+    <circle cx="66" cy="66" r="2" fill="#f0e0a0"/>
+    <circle cx="74" cy="66" r="3" fill="#e0a0c0"/>
+    <circle cx="74" cy="66" r="2" fill="#f0c0d8"/>
+    <circle cx="82" cy="66" r="3" fill="#a080c0"/>
+    <circle cx="82" cy="66" r="2" fill="#c0a0e0"/>
+    <circle cx="90" cy="66" r="3" fill="#c0a080"/>
+    <circle cx="90" cy="66" r="2" fill="#e0c0a0"/>
+
+    <!-- Glass display pedestal (center) - featured piece -->
+    <rect x="108" y="44" width="22" height="28" fill="#e0c8a8" opacity="0.3"/>
+    <rect x="108" y="44" width="22" height="2" fill="#c8a870"/>
+    <rect x="108" y="70" width="22" height="2" fill="#c8a870"/>
+    <!-- Crown / featured jewelry -->
+    <polygon points="112,54 112,48 115,52 119,46 123,52 126,48 126,54" fill="#f0d060"/>
+    <circle cx="115" cy="52" r="1" fill="#e04040"/>
+    <circle cx="119" cy="50" r="1" fill="#4080d0"/>
+    <circle cx="123" cy="52" r="1" fill="#40c060"/>
+    <rect x="110" y="58" width="18" height="2" fill="#3a2020"/>
+    <!-- Spotlight -->
+    <polygon points="115,32 123,32 130,44 108,44" fill="#f8f0d0" opacity="0.3"/>
+
+    <!-- Watches display (right-center) -->
+    <rect x="140" y="46" width="40" height="26" fill="#8a5858"/>
+    <rect x="142" y="48" width="36" height="22" fill="#3a2030"/>
+    <!-- Watch faces -->
+    <circle cx="150" cy="54" r="3.5" fill="#e0c868"/>
+    <circle cx="150" cy="54" r="2.5" fill="#f0e0a0"/>
+    <rect x="149.5" y="52" width="1" height="2" fill="#3a2020"/>
+    <rect x="150" y="54" width="2" height="0.8" fill="#3a2020"/>
+    <circle cx="160" cy="54" r="3.5" fill="#c0c0c0"/>
+    <circle cx="160" cy="54" r="2.5" fill="#e0e0e0"/>
+    <rect x="159.5" y="52" width="1" height="2" fill="#3a2020"/>
+    <rect x="160" y="54" width="2" height="0.8" fill="#3a2020"/>
+    <circle cx="170" cy="54" r="3.5" fill="#d0a060"/>
+    <circle cx="170" cy="54" r="2.5" fill="#e8c080"/>
+    <rect x="169.5" y="52" width="1" height="2" fill="#3a2020"/>
+    <rect x="170" y="54" width="2" height="0.8" fill="#3a2020"/>
+    <circle cx="150" cy="64" r="3.5" fill="#c0a8a8"/>
+    <circle cx="150" cy="64" r="2.5" fill="#e0d0d0"/>
+    <rect x="149.5" y="62" width="1" height="2" fill="#3a2020"/>
+    <circle cx="160" cy="64" r="3.5" fill="#303038"/>
+    <circle cx="160" cy="64" r="2.5" fill="#505058"/>
+    <rect x="159.5" y="62" width="1" height="2" fill="#e0e0e0"/>
+    <circle cx="170" cy="64" r="3.5" fill="#e0c868"/>
+    <circle cx="170" cy="64" r="2.5" fill="#f0e0a0"/>
+    <rect x="169.5" y="62" width="1" height="2" fill="#3a2020"/>
+
+    <!-- Checkout counter (far right) -->
+    <rect x="188" y="54" width="46" height="4" fill="#e0c8a0"/>
+    <rect x="188" y="58" width="46" height="14" fill="#c8a880"/>
+    <rect x="190" y="60" width="42" height="10" fill="#d8b890" rx="1"/>
+    <rect x="190" y="58" width="42" height="1" fill="#e8d0a0"/>
+    <!-- Register -->
+    <rect x="198" y="42" width="16" height="12" fill="#3a2030" rx="1"/>
+    <rect x="199" y="43" width="14" height="7" fill="#b080a0"/>
+    <rect x="200" y="51" width="12" height="2" fill="#505058"/>
+    <!-- Gift bag -->
+    <rect x="220" y="44" width="12" height="10" fill="#e0a8c8"/>
+    <rect x="222" y="42" width="2" height="4" fill="#a060a0"/>
+    <rect x="228" y="42" width="2" height="4" fill="#a060a0"/>
+    <rect x="224" y="48" width="4" height="2" fill="#c080a0"/>
+
+    <!-- Mirror/frame on wall -->
+    <rect x="198" y="30" width="24" height="10" fill="#c8a058" rx="1"/>
+    <rect x="200" y="32" width="20" height="6" fill="#e0d0e0" opacity="0.7"/>
+    <rect x="200" y="32" width="20" height="6" fill="#f8e8f0" opacity="0.5"/>
+</g>
+</svg>

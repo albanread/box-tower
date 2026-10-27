@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 32x32 -->
+  <circle cx="24.6" cy="12" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="23.45" cy="16.3" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="20.3" cy="19.45" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="16" cy="20.6" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="11.7" cy="19.45" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="8.55" cy="16.3" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="7.4" cy="12" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="8.55" cy="7.7" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="11.7" cy="4.55" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="16" cy="3.4" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="20.3" cy="4.55" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="23.45" cy="7.7" r="0.39" fill="#ffd166" opacity="0.46"/>
+  <circle cx="14.4" cy="8" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="13.54" cy="11.2" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="11.2" cy="13.54" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="8" cy="14.4" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="4.8" cy="13.54" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="2.46" cy="11.2" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="1.6" cy="8" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="2.46" cy="4.8" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="4.8" cy="2.46" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="8" cy="1.6" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="11.2" cy="2.46" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="13.54" cy="4.8" r="0.51" fill="#7fd1ff" opacity="0.64"/>
+  <circle cx="28.2" cy="9" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="27.64" cy="11.1" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="26.1" cy="12.64" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="24" cy="13.2" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="21.9" cy="12.64" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="20.36" cy="11.1" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="19.8" cy="9" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="20.36" cy="6.9" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="21.9" cy="5.36" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="24" cy="4.8" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="26.1" cy="5.36" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="27.64" cy="6.9" r="0.63" fill="#b88cff" opacity="0.82"/>
+  <circle cx="24" cy="9" r="1" fill="#ffffff"/>
+</svg>

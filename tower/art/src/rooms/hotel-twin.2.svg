@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16" width="24" height="16">
+<!-- From tower-together apps/client/public/rooms/hotelTwin2.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (6 cells x 1 floor) by one uniform scale of
+     upstream's 480x320 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.05)">
+  <rect x="0" y="0" width="480" height="275" fill="#e89aae"/>
+  <rect x="0" y="275" width="480" height="10" fill="#9a4868"/>
+  <rect x="0" y="285" width="480" height="35" fill="#b86080"/>
+  <rect x="0" y="0" width="480" height="40" fill="#f4b8c8" opacity="0.5"/>
+  <rect x="0" y="265" width="480" height="10" fill="#c87898"/>
+  <line x1="0" y1="265" x2="480" y2="265" stroke="#7a3858" stroke-width="1"/>
+  <rect x="60" y="0" width="3" height="14" fill="#3a2828"/>
+  <polygon points="48,14 76,14 70,30 54,30" fill="#f8d860" stroke="#a07820" stroke-width="0.5"/>
+  <rect x="220" y="0" width="3" height="14" fill="#3a2828"/>
+  <polygon points="208,14 236,14 230,30 214,30" fill="#f8d860" stroke="#a07820" stroke-width="0.5"/>
+  <rect x="380" y="0" width="3" height="14" fill="#3a2828"/>
+  <polygon points="368,14 396,14 390,30 374,30" fill="#f8d860" stroke="#a07820" stroke-width="0.5"/>
+  <rect x="20" y="160" width="60" height="120" fill="#7a3848" rx="3"/>
+  <rect x="22" y="162" width="56" height="20" fill="#9a5868" rx="2"/>
+  <rect x="22" y="186" width="56" height="80" fill="#bf7888" rx="2"/>
+  <rect x="28" y="192" width="44" height="68" fill="#f4dde3" rx="2"/>
+  <rect x="32" y="200" width="36" height="8" fill="#f8e8ec" rx="1"/>
+  <rect x="32" y="215" width="36" height="8" fill="#f8e8ec" rx="1"/>
+  <rect x="32" y="230" width="36" height="8" fill="#f8e8ec" rx="1"/>
+  <rect x="32" y="245" width="36" height="8" fill="#f8e8ec" rx="1"/>
+  <rect x="22" y="266" width="56" height="14" fill="#9a5868" rx="2"/>
+  <rect x="100" y="200" width="60" height="80" fill="#5a3838" rx="3"/>
+  <rect x="102" y="202" width="56" height="76" fill="#7a4848" rx="2"/>
+  <rect x="106" y="206" width="48" height="68" fill="#3a2020" rx="2"/>
+  <rect x="112" y="216" width="36" height="20" fill="#5a4030" rx="1"/>
+  <rect x="116" y="220" width="28" height="3" fill="#bf8060"/>
+  <rect x="116" y="226" width="28" height="3" fill="#bf8060"/>
+  <rect x="116" y="232" width="28" height="3" fill="#bf8060"/>
+  <rect x="112" y="244" width="36" height="20" fill="#5a4030" rx="1"/>
+  <circle cx="120" cy="254" r="2" fill="#f8d860"/>
+  <circle cx="130" cy="254" r="2" fill="#f8d860"/>
+  <circle cx="140" cy="254" r="2" fill="#f8d860"/>
+  <rect x="180" y="170" width="200" height="110" fill="#8a4858" rx="3"/>
+  <rect x="186" y="176" width="188" height="98" fill="#bf7888" rx="2"/>
+  <rect x="186" y="176" width="188" height="22" fill="#9a5868" rx="2"/>
+  <rect x="200" y="200" width="80" height="68" fill="#f4dde3" rx="2"/>
+  <rect x="200" y="200" width="80" height="20" fill="#f8e8ec"/>
+  <rect x="206" y="206" width="68" height="10" fill="#bf6f80"/>
+  <circle cx="240" cy="210" r="3" fill="#f8d860"/>
+  <rect x="290" y="200" width="80" height="68" fill="#f4dde3" rx="2"/>
+  <rect x="290" y="200" width="80" height="20" fill="#f8e8ec"/>
+  <rect x="296" y="206" width="68" height="10" fill="#bf6f80"/>
+  <circle cx="330" cy="210" r="3" fill="#f8d860"/>
+  <polygon points="170,170 390,170 380,150 180,150" fill="#5a2838"/>
+  <rect x="180" y="148" width="200" height="6" fill="#7a3848"/>
+  <rect x="232" y="220" width="14" height="48" fill="#bf6f80"/>
+  <rect x="234" y="222" width="10" height="44" fill="#d99aaa"/>
+  <rect x="324" y="220" width="14" height="48" fill="#bf6f80"/>
+  <rect x="326" y="222" width="10" height="44" fill="#d99aaa"/>
+  <rect x="400" y="180" width="60" height="40" fill="#8a4030" rx="3"/>
+  <rect x="402" y="182" width="56" height="36" fill="#bf6040" rx="2"/>
+  <rect x="408" y="188" width="44" height="24" fill="#1a0808" rx="2"/>
+  <rect x="412" y="192" width="36" height="14" fill="#7af0d0" rx="1"/>
+  <rect x="426" y="208" width="8" height="6" fill="#7a3020" rx="1"/>
+  <rect x="400" y="228" width="60" height="42" fill="#634540" rx="3"/>
+  <rect x="402" y="230" width="56" height="38" fill="#9a7048" rx="2"/>
+  <rect x="406" y="234" width="48" height="14" fill="#bf8868" rx="1"/>
+  <rect x="406" y="252" width="22" height="14" fill="#bf8868" rx="1"/>
+  <rect x="432" y="252" width="22" height="14" fill="#bf8868" rx="1"/>
+  <circle cx="416" cy="241" r="1" fill="#3a2010"/>
+  <circle cx="445" cy="241" r="1" fill="#3a2010"/>
+  <rect x="404" y="266" width="52" height="14" fill="#5a3020" rx="1"/>
+  <circle cx="430" cy="240" r="6" fill="#f0d4da" opacity="0.6"/>
+  <rect x="270" y="240" width="20" height="28" fill="#634540" rx="2"/>
+  <rect x="272" y="242" width="16" height="14" fill="#9a7048" rx="1"/>
+  <rect x="274" y="248" width="12" height="6" fill="#bf8868"/>
+  <rect x="276" y="244" width="8" height="2" fill="#3a2010"/>
+  <rect x="290" y="252" width="6" height="14" fill="#3a2010"/>
+  <rect x="280" y="234" width="8" height="6" fill="#f0c84a" rx="1"/>
+</g>
+</svg>

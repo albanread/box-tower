@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 16" width="36" height="16">
+<!-- From tower-together apps/client/public/rooms/office.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (9 cells x 1 floor) by one uniform scale of
+     upstream's 180x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Back wall -->
+    <rect x="0" y="0" width="180" height="76" fill="#9aacbb"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="180" height="4" fill="#7a8c9c"/>
+
+    <!-- Floor -->
+    <rect x="0" y="76" width="180" height="4" fill="#8494a4" rx="1"/>
+
+    <!-- Ceiling light 1 -->
+    <rect x="26" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="30" y="3" width="8" height="2" fill="#ccdae4"/>
+
+    <!-- Ceiling light 2 -->
+    <rect x="140" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="144" y="3" width="8" height="2" fill="#ccdae4"/>
+
+    <!-- Window -->
+    <rect x="73" y="6" width="34" height="26" fill="#bdd0de" rx="2"/>
+    <rect x="74" y="7" width="15" height="11" fill="#cee0ec" rx="1"/>
+    <rect x="91" y="7" width="15" height="11" fill="#cee0ec" rx="1"/>
+    <rect x="74" y="20" width="15" height="11" fill="#c4d8e6" rx="1"/>
+    <rect x="91" y="20" width="15" height="11" fill="#c4d8e6" rx="1"/>
+
+    <!-- Whiteboard -->
+    <rect x="130" y="10" width="22" height="16" fill="#c5d0d8" rx="1"/>
+    <rect x="132" y="12" width="18" height="12" fill="#d8e2ea" rx="1"/>
+
+    <!-- Water cooler -->
+    <rect x="6" y="46" width="8" height="22" fill="#7e94a4" rx="1"/>
+    <rect x="5" y="43" width="10" height="5" fill="#90a8b8" rx="2"/>
+    <circle cx="10" cy="45" r="2" fill="#a0c0d8"/>
+
+    <!-- Desk 1 (left) -->
+    <rect x="16" y="54" width="38" height="4" fill="#6e8090" rx="1"/>
+    <rect x="18" y="58" width="4" height="14" fill="#5e7080"/>
+    <rect x="50" y="58" width="4" height="14" fill="#5e7080"/>
+    <!-- Monitor 1 -->
+    <rect x="27" y="40" width="18" height="14" fill="#4a5e6e" rx="1"/>
+    <rect x="28" y="41" width="16" height="11" fill="#6a8ea8" rx="1"/>
+    <rect x="33" y="54" width="6" height="2" fill="#4a5e6e"/>
+    <!-- Keyboard -->
+    <rect x="22" y="52" width="12" height="2" fill="#566a7a" rx="1"/>
+
+    <!-- Chair 1 -->
+    <rect x="31" y="68" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="27" y="71" width="12" height="2" fill="#4a5c6c" rx="1"/>
+    <rect x="27" y="58" width="12" height="11" fill="#506878" rx="2"/>
+    <rect x="28" y="55" width="10" height="5" fill="#485e6e" rx="2"/>
+
+    <!-- Desk 2 (center) -->
+    <rect x="70" y="56" width="40" height="4" fill="#6e8090" rx="1"/>
+    <rect x="72" y="60" width="4" height="12" fill="#5e7080"/>
+    <rect x="104" y="60" width="4" height="12" fill="#5e7080"/>
+    <!-- Monitor 2 -->
+    <rect x="82" y="42" width="18" height="14" fill="#4a5e6e" rx="1"/>
+    <rect x="83" y="43" width="16" height="11" fill="#6a8ea8" rx="1"/>
+    <rect x="88" y="56" width="6" height="2" fill="#4a5e6e"/>
+    <!-- Keyboard -->
+    <rect x="76" y="54" width="12" height="2" fill="#566a7a" rx="1"/>
+    <!-- Coffee mug -->
+    <rect x="100" y="53" width="5" height="4" fill="#7a6a5a" rx="1"/>
+
+    <!-- Chair 2 -->
+    <rect x="86" y="70" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="82" y="73" width="12" height="2" fill="#4a5c6c" rx="1"/>
+    <rect x="82" y="60" width="12" height="11" fill="#506878" rx="2"/>
+    <rect x="83" y="57" width="10" height="5" fill="#485e6e" rx="2"/>
+
+    <!-- Desk 3 (right) -->
+    <rect x="126" y="54" width="38" height="4" fill="#6e8090" rx="1"/>
+    <rect x="128" y="58" width="4" height="14" fill="#5e7080"/>
+    <rect x="158" y="58" width="4" height="14" fill="#5e7080"/>
+    <!-- Monitor 3 -->
+    <rect x="137" y="40" width="18" height="14" fill="#4a5e6e" rx="1"/>
+    <rect x="138" y="41" width="16" height="11" fill="#6a8ea8" rx="1"/>
+    <rect x="143" y="54" width="6" height="2" fill="#4a5e6e"/>
+    <!-- Keyboard -->
+    <rect x="132" y="52" width="12" height="2" fill="#566a7a" rx="1"/>
+
+    <!-- Chair 3 -->
+    <rect x="142" y="68" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="138" y="71" width="12" height="2" fill="#4a5c6c" rx="1"/>
+    <rect x="138" y="58" width="12" height="11" fill="#506878" rx="2"/>
+    <rect x="139" y="55" width="10" height="5" fill="#485e6e" rx="2"/>
+
+    <!-- Plant (right corner) -->
+    <rect x="170" y="52" width="4" height="20" fill="#5e7080"/>
+    <circle cx="172" cy="50" r="5" fill="#5a7a68"/>
+    <circle cx="168" cy="48" r="4" fill="#4e7060"/>
+    <circle cx="176" cy="49" r="3.5" fill="#5e8872"/>
+</g>
+</svg>

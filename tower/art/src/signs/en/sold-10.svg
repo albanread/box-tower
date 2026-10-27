@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 10x1 -->
+  <!-- sign sold (en): SOLD -->
+  <line x1="2.8" y1="0" x2="2.8" y2="3.4" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="37.2" y1="0" x2="37.2" y2="3.4" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <rect x="1.95" y="3.45" width="36.8" height="7" fill="#000000" rx="0.4" opacity="0.16"/>
+  <rect x="1.6" y="3" width="36.8" height="7" fill="#8a2030" rx="0.4"/>
+  <rect x="2.2" y="3.6" width="35.6" height="5.8" fill="#d04040" rx="0.1"/>
+  <polygon points="1.6,5.6 2.6,6.5 1.6,7.4" fill="#8a2030"/>
+  <polygon points="38.4,5.6 37.4,6.5 38.4,7.4" fill="#8a2030"/>
+  <path d="M15.81 4.913L14.476 4.913C14.038 4.913 13.682 5.269 13.682 5.707L13.682 5.707C13.682 6.145 14.038 6.5 14.476 6.5L15.017 6.5C15.455 6.5 15.81 6.855 15.81 7.293L15.81 7.293C15.81 7.731 15.455 8.086 15.017 8.086L13.682 8.086M17.159 6.129C17.159 5.458 17.704 4.913 18.375 4.913L18.375 4.913C19.047 4.913 19.591 5.458 19.591 6.129L19.591 6.87C19.591 7.542 19.047 8.086 18.375 8.086L18.375 8.086C17.704 8.086 17.159 7.542 17.159 6.87ZM20.941 4.913L20.941 8.086L22.764 8.086M24.113 4.913L25.101 4.913C25.773 4.913 26.317 5.458 26.317 6.13L26.317 6.87C26.317 7.542 25.773 8.086 25.101 8.086L24.113 8.086Z" fill="none" stroke="#f0f0e8" stroke-width="0.627" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

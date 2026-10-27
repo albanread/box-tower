@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 16" width="96" height="16">
+<!-- From tower-together apps/client/public/rooms/restaurant3.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (24 cells x 1 floor) by one uniform scale of
+     upstream's 480x80 drawing; preserveAspectRatio="none" removed.
+     Words removed: each lettered sign is now a text-free sign
+     (a pictogram of what is sold, or bars standing for lines of writing). -->
+<g transform="scale(0.2)">
+    <!-- Retro American diner - teal, red, chrome -->
+    <!-- Back wall - mint teal -->
+    <rect x="0" y="0" width="480" height="42" fill="#68b8b0"/>
+
+    <!-- White tile band with red stripe -->
+    <rect x="0" y="42" width="480" height="14" fill="#f0f0e8"/>
+    <rect x="0" y="42" width="480" height="2" fill="#3a3028"/>
+    <rect x="0" y="56" width="480" height="2" fill="#d82828"/>
+    <rect x="0" y="58" width="480" height="14" fill="#f0f0e8"/>
+    <rect x="0" y="72" width="480" height="2" fill="#3a3028"/>
+    <!-- Tile grout -->
+    <rect x="40" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="80" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="120" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="160" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="200" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="240" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="280" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="320" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="360" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="400" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="440" y="42" width="1" height="14" fill="#c0c0b0"/>
+    <rect x="0" y="49" width="480" height="1" fill="#c0c0b0"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="74" width="480" height="2" fill="#1a1010"/>
+
+    <!-- Checkered floor -->
+    <rect x="0" y="76" width="480" height="4" fill="#f0f0e8"/>
+    <rect x="0" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="40" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="80" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="120" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="160" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="200" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="240" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="280" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="320" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="360" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="400" y="76" width="20" height="4" fill="#1a1010"/>
+    <rect x="440" y="76" width="20" height="4" fill="#1a1010"/>
+
+    <!-- Neon "EATS" sign -->
+    <rect x="20" y="10" width="76" height="24" fill="#1a1010" rx="2"/>
+    <rect x="22" y="12" width="72" height="20" fill="#2a2018"/>
+    <!-- sign without words --><path d="M 48.9 21.3 A 9.1 5.6 0 0 1 67.1 21.3 Z" fill="#e0a040"/><rect x="48.2" y="21.3" width="19.6" height="1.4" fill="#60c040"/><rect x="48.9" y="22.7" width="18.2" height="2.52" fill="#ff4060" rx="1.12"/><rect x="48.9" y="25.5" width="18.2" height="2.8" fill="#e0a040" rx="1.4"/>
+    <rect x="20" y="10" width="76" height="2" fill="#ff80a0" opacity="0.7"/>
+    <rect x="20" y="32" width="76" height="2" fill="#ff80a0" opacity="0.7"/>
+
+    <!-- Clock -->
+    <circle cx="130" cy="22" r="12" fill="#f0f0e8"/>
+    <circle cx="130" cy="22" r="12" fill="none" stroke="#1a1010" stroke-width="2"/>
+    <rect x="129" y="14" width="2" height="8" fill="#1a1010"/>
+    <rect x="130" y="21" width="8" height="2" fill="#d82828"/>
+    <circle cx="130" cy="22" r="1.5" fill="#1a1010"/>
+    <rect x="129" y="12" width="2" height="1" fill="#1a1010"/>
+    <rect x="129" y="31" width="2" height="1" fill="#1a1010"/>
+    <rect x="120" y="21" width="1" height="2" fill="#1a1010"/>
+    <rect x="139" y="21" width="1" height="2" fill="#1a1010"/>
+
+    <!-- Jukebox poster -->
+    <rect x="160" y="10" width="40" height="30" fill="#1a1010" rx="2"/>
+    <rect x="162" y="12" width="36" height="26" fill="#d82828"/>
+    <rect x="166" y="16" width="28" height="10" fill="#f0e060" rx="1"/>
+    <circle cx="174" cy="30" r="2" fill="#1a1010"/>
+    <circle cx="186" cy="30" r="2" fill="#1a1010"/>
+    <rect x="170" y="34" width="20" height="2" fill="#f0e060"/>
+
+    <!-- Menu board with burger/fries -->
+    <rect x="220" y="8" width="80" height="32" fill="#1a1010" rx="1"/>
+    <rect x="222" y="10" width="76" height="28" fill="#2a2018"/>
+    <!-- sign without words --><rect x="234.78" y="15.66" width="18" height="3.5" fill="#f0e060" rx="1.75"/><rect x="255.22" y="15.66" width="30" height="3.5" fill="#f0e060" rx="1.75"/>
+    <!-- sign without words --><path d="M 241.45 27.45 A 4.55 2.8 0 0 1 250.55 27.45 Z" fill="#e0a040"/><rect x="241.1" y="27.45" width="9.8" height="0.7" fill="#60c040"/><rect x="241.45" y="28.15" width="9.1" height="1.26" fill="#8a4020" rx="0.56"/><rect x="241.45" y="29.55" width="9.1" height="1.4" fill="#e0a040" rx="0.7"/><rect x="266" y="26" width="9" height="6" fill="#d82828"/><rect x="267" y="22.5" width="1.2" height="4" fill="#f0e060"/><rect x="269" y="22.5" width="1.2" height="4" fill="#f0e060"/><rect x="271" y="22.5" width="1.2" height="4" fill="#f0e060"/><rect x="273" y="22.5" width="1.2" height="4" fill="#f0e060"/>
+    <!-- sign without words --><circle cx="260" cy="35" r="2.7" fill="#ff4060"/><circle cx="260" cy="35" r="1.5" fill="#2a2018"/>
+
+    <!-- Framed vintage car print -->
+    <rect x="320" y="12" width="50" height="26" fill="#1a1010" rx="1"/>
+    <rect x="322" y="14" width="46" height="22" fill="#88b8d8"/>
+    <rect x="324" y="28" width="42" height="6" fill="#2a3028"/>
+    <rect x="328" y="22" width="34" height="8" fill="#d82828"/>
+    <rect x="330" y="20" width="18" height="5" fill="#88b8d8"/>
+    <circle cx="330" cy="32" r="3" fill="#1a1010"/>
+    <circle cx="360" cy="32" r="3" fill="#1a1010"/>
+    <circle cx="330" cy="32" r="1.5" fill="#c0c0b8"/>
+    <circle cx="360" cy="32" r="1.5" fill="#c0c0b8"/>
+
+    <!-- soda sign -->
+    <rect x="390" y="12" width="70" height="24" fill="#d82828" rx="12"/>
+    <rect x="392" y="14" width="66" height="20" fill="#d82828" rx="10"/>
+    <!-- sign without words --><polygon points="421.1,20.25 428.9,20.25 427.96,30 422.04,30" fill="#f0f0e8"/><rect x="425.39" y="15.7" width="1.04" height="5.2" fill="#f0f0e8" transform="rotate(15 425 20.25)"/><rect x="420.32" y="19.21" width="9.36" height="1.3" fill="#f0f0e8" rx="0.65"/>
+    <rect x="390" y="12" width="70" height="2" fill="#f0e060" rx="1" opacity="0.4"/>
+
+    <!-- Diner booth 1 (red vinyl) -->
+    <rect x="10" y="58" width="90" height="10" fill="#d82828"/>
+    <rect x="10" y="56" width="90" height="4" fill="#a81818"/>
+    <rect x="10" y="58" width="90" height="2" fill="#f8a0a0" opacity="0.4"/>
+    <!-- Booth table -->
+    <rect x="28" y="62" width="56" height="3" fill="#f0f0e8"/>
+    <rect x="28" y="65" width="56" height="2" fill="#c0c0b0"/>
+    <rect x="54" y="67" width="4" height="5" fill="#8a8880"/>
+    <!-- Booth seat cushions -->
+    <rect x="12" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <rect x="86" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <!-- Burger and shake -->
+    <rect x="36" y="58" width="10" height="2" fill="#c8a060" rx="1"/>
+    <rect x="37" y="57" width="8" height="1" fill="#4a8030"/>
+    <rect x="37" y="56" width="8" height="1" fill="#882818"/>
+    <rect x="36" y="55" width="10" height="1" fill="#c8a060" rx="1"/>
+    <circle cx="41" cy="54" r="0.5" fill="#f0e060"/>
+    <!-- Milkshake -->
+    <rect x="52" y="54" width="6" height="8" fill="#f0e0d0"/>
+    <rect x="52" y="54" width="6" height="2" fill="#f0b8c8"/>
+    <rect x="54" y="50" width="2" height="4" fill="#d82828"/>
+    <!-- Fries -->
+    <rect x="64" y="56" width="10" height="6" fill="#d82828"/>
+    <rect x="66" y="52" width="1" height="6" fill="#f0c040"/>
+    <rect x="68" y="53" width="1" height="5" fill="#f0c040"/>
+    <rect x="70" y="51" width="1" height="7" fill="#f0c040"/>
+    <rect x="72" y="54" width="1" height="4" fill="#f0c040"/>
+
+    <!-- Diner booth 2 -->
+    <rect x="110" y="58" width="90" height="10" fill="#d82828"/>
+    <rect x="110" y="56" width="90" height="4" fill="#a81818"/>
+    <rect x="110" y="58" width="90" height="2" fill="#f8a0a0" opacity="0.4"/>
+    <rect x="128" y="62" width="56" height="3" fill="#f0f0e8"/>
+    <rect x="128" y="65" width="56" height="2" fill="#c0c0b0"/>
+    <rect x="154" y="67" width="4" height="5" fill="#8a8880"/>
+    <rect x="112" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <rect x="186" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <!-- Hot dog plate -->
+    <rect x="134" y="57" width="14" height="3" fill="#c8a060" rx="1"/>
+    <rect x="135" y="56" width="12" height="2" fill="#a85030"/>
+    <rect x="135" y="55" width="12" height="1" fill="#e8c040"/>
+    <!-- Coffee mug -->
+    <rect x="156" y="54" width="6" height="6" fill="#f0f0e8"/>
+    <rect x="162" y="56" width="2" height="2" fill="#f0f0e8"/>
+    <rect x="157" y="55" width="4" height="2" fill="#6a3020"/>
+    <!-- Pie slice -->
+    <polygon points="170,60 180,60 175,54" fill="#c8a060"/>
+    <polygon points="171,58 179,58 175,55" fill="#a85028"/>
+    <rect x="172" y="54" width="6" height="1" fill="#f0f0e8"/>
+
+    <!-- Diner booth 3 -->
+    <rect x="210" y="58" width="90" height="10" fill="#d82828"/>
+    <rect x="210" y="56" width="90" height="4" fill="#a81818"/>
+    <rect x="210" y="58" width="90" height="2" fill="#f8a0a0" opacity="0.4"/>
+    <rect x="228" y="62" width="56" height="3" fill="#f0f0e8"/>
+    <rect x="228" y="65" width="56" height="2" fill="#c0c0b0"/>
+    <rect x="254" y="67" width="4" height="5" fill="#8a8880"/>
+    <rect x="212" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <rect x="286" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <!-- Pancake stack -->
+    <ellipse cx="240" cy="60" rx="7" ry="1" fill="#c8a060"/>
+    <ellipse cx="240" cy="58" rx="7" ry="1" fill="#d8b070"/>
+    <ellipse cx="240" cy="56" rx="7" ry="1" fill="#d8b070"/>
+    <rect x="237" y="54" width="6" height="2" fill="#f0c040"/>
+    <!-- Orange juice -->
+    <rect x="252" y="54" width="5" height="7" fill="#f08040"/>
+    <rect x="252" y="54" width="5" height="2" fill="#f0a068" opacity="0.6"/>
+    <!-- Plate with eggs -->
+    <ellipse cx="272" cy="59" rx="7" ry="2" fill="#f0f0e8"/>
+    <ellipse cx="269" cy="58" rx="2.5" ry="1.5" fill="#f8f0d0"/>
+    <circle cx="269" cy="58" r="1" fill="#f0c040"/>
+    <ellipse cx="274" cy="58" rx="2.5" ry="1.5" fill="#f8f0d0"/>
+    <circle cx="274" cy="58" r="1" fill="#f0c040"/>
+
+    <!-- Diner booth 4 -->
+    <rect x="310" y="58" width="90" height="10" fill="#d82828"/>
+    <rect x="310" y="56" width="90" height="4" fill="#a81818"/>
+    <rect x="310" y="58" width="90" height="2" fill="#f8a0a0" opacity="0.4"/>
+    <rect x="328" y="62" width="56" height="3" fill="#f0f0e8"/>
+    <rect x="328" y="65" width="56" height="2" fill="#c0c0b0"/>
+    <rect x="354" y="67" width="4" height="5" fill="#8a8880"/>
+    <rect x="312" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <rect x="386" y="62" width="14" height="6" fill="#e84848" rx="2"/>
+    <!-- Sundae -->
+    <polygon points="336,62 350,62 344,52" fill="#d0e0e8" opacity="0.8"/>
+    <circle cx="343" cy="52" r="3" fill="#f0e0d0"/>
+    <circle cx="343" cy="50" r="1.5" fill="#c83020"/>
+    <!-- Burger basket -->
+    <rect x="356" y="56" width="14" height="6" fill="#d82828"/>
+    <rect x="358" y="56" width="10" height="2" fill="#c8a060"/>
+    <rect x="358" y="54" width="10" height="2" fill="#882818"/>
+    <rect x="358" y="52" width="10" height="2" fill="#c8a060" rx="1"/>
+
+    <!-- Counter stool (right) -->
+    <rect x="414" y="54" width="60" height="4" fill="#c0c0b8"/>
+    <rect x="414" y="58" width="60" height="12" fill="#f0f0e8"/>
+    <rect x="414" y="54" width="60" height="2" fill="#e8e8e0" opacity="0.6"/>
+    <rect x="414" y="70" width="60" height="2" fill="#1a1010"/>
+    <!-- Napkin dispenser -->
+    <rect x="420" y="46" width="8" height="8" fill="#c0c0b8"/>
+    <rect x="421" y="48" width="6" height="4" fill="#f0f0e8"/>
+    <!-- Ketchup/Mustard -->
+    <rect x="434" y="44" width="5" height="10" fill="#d82828" rx="1"/>
+    <rect x="435" y="42" width="3" height="3" fill="#f0f0e8"/>
+    <rect x="442" y="44" width="5" height="10" fill="#f0c020" rx="1"/>
+    <rect x="443" y="42" width="3" height="3" fill="#f0f0e8"/>
+    <!-- Salt and pepper -->
+    <rect x="452" y="48" width="4" height="6" fill="#f0f0e8"/>
+    <rect x="452" y="47" width="4" height="2" fill="#c0c0b8"/>
+    <rect x="460" y="48" width="4" height="6" fill="#2a2018"/>
+    <rect x="460" y="47" width="4" height="2" fill="#c0c0b8"/>
+</g>
+</svg>

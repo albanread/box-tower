@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16">
+  <!-- units: 32x16 -->
+  <!-- stairs, one floor's rise, left to right; redrawn from tower-together's stairs.svg (MIT, Patrick Hulin) to our grid -->
+  <polygon points="0,15 4,15 4,13 7,13 7,11 10,11 10,9 13,9 13,7 16,7 16,5 19,5 19,3 22,3 22,1 25,1 25,-1 28,-1 32,-1 32,2.5 8.5,16 0,16" fill="#cdc5b3"/>
+  <polygon points="4,16 32,3 32,2.5 8.5,16" fill="#aca390"/>
+  <rect x="4" y="13" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="7" y="11" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="10" y="9" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="13" y="7" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="16" y="5" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="19" y="3" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="22" y="1" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="25" y="0" width="3" height="0.45" fill="#e6dfcf"/>
+  <rect x="0" y="15" width="4" height="0.45" fill="#e6dfcf"/>
+  <polygon points="1,8.5 4,8.5 32,-10.167 32,-9.617 4,9.05 1,9.05" fill="#5d554a"/>
+  <rect x="1" y="8.5" width="0.6" height="6.5" fill="#7d7466"/>
+  <rect x="8.3" y="5.5" width="0.4" height="5.5" fill="#7d7466"/>
+  <rect x="14.3" y="1.5" width="0.4" height="5.5" fill="#7d7466"/>
+  <rect x="20.3" y="-2.5" width="0.4" height="5.5" fill="#7d7466"/>
+  <rect x="26.3" y="-6.5" width="0.4" height="5.5" fill="#7d7466"/>
+</svg>

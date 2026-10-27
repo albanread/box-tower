@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 9">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 16x9 -->
+  <!-- sign cafe (en): CAFE -->
+  <rect x="0" y="0" width="16" height="0.7" fill="#5a5650" rx="0.2"/>
+  <polygon points="0,0.7 2,0.7 2,3.2 0,3.2" fill="#4a8a4a"/>
+  <polygon points="2,0.7 4,0.7 4,3.2 2,3.2" fill="#f0e4c8"/>
+  <polygon points="4,0.7 6,0.7 6,3.2 4,3.2" fill="#4a8a4a"/>
+  <polygon points="6,0.7 8,0.7 8,3.2 6,3.2" fill="#f0e4c8"/>
+  <polygon points="8,0.7 10,0.7 10,3.2 8,3.2" fill="#4a8a4a"/>
+  <polygon points="10,0.7 12,0.7 12,3.2 10,3.2" fill="#f0e4c8"/>
+  <polygon points="12,0.7 14,0.7 14,3.2 12,3.2" fill="#4a8a4a"/>
+  <polygon points="14,0.7 16,0.7 16,3.2 14,3.2" fill="#f0e4c8"/>
+  <rect x="0" y="2.7" width="16" height="0.5" fill="#000000" opacity="0.12"/>
+  <rect x="0" y="3.2" width="16" height="4.6" fill="#3a6a3a"/>
+  <path d="M0 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M2 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M4 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M6 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M8 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M10 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M12 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M14 7.8 a1 0.769 0 0 0 2 0 z" fill="#3a6a3a"/>
+  <path d="M4.874 4.268L4.572 4.268C4.006 4.268 3.548 4.726 3.548 5.292L3.548 5.708C3.548 6.274 4.006 6.732 4.572 6.732L4.874 6.732M6.074 6.732L6.879 4.268L7.684 6.732M6.348 5.894L7.41 5.894M10.068 4.268L8.884 4.268L8.884 6.732M8.884 5.5L9.879 5.5M12.452 4.268L11.268 4.268L11.268 6.732L12.452 6.732M11.268 5.5L12.263 5.5" fill="none" stroke="#f0e4c8" stroke-width="0.736" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

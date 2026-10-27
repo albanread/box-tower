@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 12x1 -->
+  <!-- sign let (fr): LOUÉ -->
+  <line x1="2.8" y1="0" x2="2.8" y2="3.4" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="45.2" y1="0" x2="45.2" y2="3.4" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <rect x="1.95" y="3.45" width="44.8" height="7" fill="#000000" rx="0.4" opacity="0.16"/>
+  <rect x="1.6" y="3" width="44.8" height="7" fill="#265426" rx="0.4"/>
+  <rect x="2.2" y="3.6" width="43.6" height="5.8" fill="#4a8a4a" rx="0.1"/>
+  <polygon points="1.6,5.6 2.6,6.5 1.6,7.4" fill="#265426"/>
+  <polygon points="46.4,5.6 45.4,6.5 46.4,7.4" fill="#265426"/>
+  <path d="M17.91 5.267L17.91 8.44L19.734 8.44M20.855 6.483C20.855 5.811 21.4 5.267 22.072 5.267L22.072 5.267C22.743 5.267 23.287 5.811 23.287 6.483L23.287 7.224C23.287 7.896 22.743 8.44 22.072 8.44L22.072 8.44C21.4 8.44 20.855 7.896 20.855 7.224ZM24.636 5.267L24.636 7.338C24.636 7.947 25.13 8.44 25.738 8.44L25.738 8.44C26.347 8.44 26.84 7.947 26.84 7.338L26.84 5.267M30.089 5.267L28.189 5.267L28.189 8.44L30.089 8.44M28.189 6.854L29.785 6.854M28.835 4.823L29.481 4.315" fill="none" stroke="#f0f0e8" stroke-width="0.627" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

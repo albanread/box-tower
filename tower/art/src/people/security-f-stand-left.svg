@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 12" width="6" height="12">
+  <!-- units: 6x12 -->
+  <!-- security (woman) standing or waiting, facing left -->
+  <g transform="translate(6,0) scale(-1,1)">
+  <polygon points="3.286,5.285 1.501,7.57 1.028,7.201 2.814,4.915" fill="#59606a"/>
+  <circle cx="3.05" cy="5.1" r="0.3" fill="#59606a"/>
+  <circle cx="1.265" cy="7.385" r="0.36" fill="#c4936a"/>
+  <polygon points="3.389,8.02 3.196,11.715 2.417,11.675 2.611,7.98" fill="#2e3440"/>
+  <circle cx="3" cy="8" r="0.39" fill="#2e3440"/>
+  <rect x="2.356" y="11.545" width="1.15" height="0.5" rx="0.2" fill="#1f2226"/>
+  <polygon points="3.389,7.98 3.583,11.675 2.804,11.715 2.611,8.02" fill="#3b4250"/>
+  <circle cx="3" cy="8" r="0.39" fill="#3b4250"/>
+  <rect x="2.744" y="11.545" width="1.15" height="0.5" rx="0.2" fill="#1f2226"/>
+  <rect x="2.2" y="4.6" width="1.6" height="3.6" rx="0.6" fill="#6f7782"/>
+  <circle cx="3.55" cy="5.6" r="0.25" fill="#e3b64a"/>
+  <rect x="2.1" y="7.6" width="1.8" height="0.45" fill="#141b2e"/>
+  <ellipse cx="1.75" cy="3.7" rx="0.55" ry="1.0" fill="#3a2a20"/>
+  <rect x="2.75" y="4" width="0.6" height="0.7" fill="#d9a87a"/>
+  <circle cx="2.85" cy="2.95" r="1.15" fill="#3a2a20"/>
+  <circle cx="3.25" cy="3.25" r="0.98" fill="#d9a87a"/>
+  <rect x="4.05" y="3.2" width="0.3" height="0.35" rx="0.1" fill="#d9a87a"/>
+  <polygon points="1.8,2.5 4,2.2 4,1.6 2.2,1.5 1.8,2" fill="#1f2a44"/>
+  <polygon points="3.6,2.5 4.9,2.6 4.9,2.8 3.6,2.9" fill="#141b2e"/>
+  <circle cx="3.3" cy="1.95" r="0.22" fill="#e3b64a"/>
+  <polygon points="3.348,5.069 3.651,7.953 3.055,8.015 2.752,5.131" fill="#6f7782"/>
+  <circle cx="3.05" cy="5.1" r="0.3" fill="#6f7782"/>
+  <circle cx="3.353" cy="7.984" r="0.36" fill="#d9a87a"/>
+  </g>
+</svg>

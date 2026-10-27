@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 16" width="64" height="16">
+<!-- From tower-together apps/client/public/rooms/fastFood1.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (16 cells x 1 floor) by one uniform scale of
+     upstream's 320x80 drawing; preserveAspectRatio="none" removed.
+     Words removed: each lettered sign is now a text-free sign
+     (a pictogram of what is sold, or bars standing for lines of writing). -->
+<g transform="scale(0.2)">
+    <rect x="0" y="0" width="320" height="68" fill="#f4d8a4"/>
+    <rect x="0" y="48" width="320" height="20" fill="#c84030"/>
+    <rect x="0" y="46" width="320" height="2" fill="#7a2818"/>
+    <rect x="0" y="68" width="320" height="4" fill="#3a2010"/>
+    <rect x="0" y="72" width="320" height="8" fill="#5a3818"/>
+    <rect x="0" y="72" width="40" height="8" fill="#7a4828"/>
+    <rect x="80" y="72" width="40" height="8" fill="#7a4828"/>
+    <rect x="160" y="72" width="40" height="8" fill="#7a4828"/>
+    <rect x="240" y="72" width="40" height="8" fill="#7a4828"/>
+    <rect x="20" y="0" width="40" height="32" fill="#5a3010" rx="1"/>
+    <rect x="22" y="2" width="36" height="28" fill="#7a4818" rx="1"/>
+    <rect x="26" y="6" width="28" height="20" fill="#a06020" rx="1"/>
+    <polygon points="40,8 30,24 50,24" fill="#f06030"/>
+    <polygon points="40,12 32,22 48,22" fill="#f8a040"/>
+    <rect x="38" y="22" width="4" height="4" fill="#3a1010"/>
+    <circle cx="34" cy="14" r="1.5" fill="#e0c068" opacity="0.8"/>
+    <circle cx="46" cy="16" r="1.5" fill="#e0c068" opacity="0.8"/>
+    <rect x="80" y="6" width="120" height="22" fill="#3a2010" rx="2"/>
+    <rect x="82" y="8" width="116" height="18" fill="#1a1008" rx="1"/>
+    <!-- sign without words --><polygon points="104.5,11 115.5,11 110,21" fill="#f0c850"/><rect x="104" y="10" width="12" height="1.8" fill="#f0c850" rx="0.9"/><circle cx="108.35" cy="14" r="0.9" fill="#b83018"/><circle cx="111.65" cy="14.5" r="0.9" fill="#b83018"/><circle cx="110" cy="17" r="0.9" fill="#b83018"/><rect x="148" y="14.42" width="26" height="4.5" fill="#f0c850" rx="2.25"/><rect x="177.15" y="14.42" width="14" height="4.5" fill="#f0c850" rx="2.25"/>
+    <rect x="86" y="22" width="40" height="2" fill="#7a3010"/>
+    <rect x="130" y="22" width="60" height="2" fill="#7a3010"/>
+    <rect x="220" y="4" width="60" height="36" fill="#9a4030" rx="2"/>
+    <rect x="224" y="8" width="52" height="28" fill="#7a3020" rx="1"/>
+    <rect x="226" y="10" width="48" height="2" fill="#bf6048"/>
+    <rect x="226" y="14" width="38" height="1.5" fill="#e8a060"/>
+    <rect x="226" y="18" width="42" height="1.5" fill="#e8a060"/>
+    <rect x="226" y="22" width="34" height="1.5" fill="#e8a060"/>
+    <rect x="226" y="26" width="40" height="1.5" fill="#e8a060"/>
+    <rect x="226" y="30" width="36" height="1.5" fill="#e8a060"/>
+    <rect x="40" y="40" width="240" height="6" fill="#e8d4a8" rx="1"/>
+    <rect x="42" y="46" width="236" height="20" fill="#bf4030" rx="1"/>
+    <rect x="42" y="46" width="236" height="2" fill="#9a3020"/>
+    <rect x="50" y="50" width="6" height="6" fill="#3a2010"/>
+    <rect x="52" y="48" width="2" height="4" fill="#3a2010"/>
+    <circle cx="60" cy="36" r="5" fill="#f0e0a8"/>
+    <circle cx="60" cy="36" r="4.5" fill="#c84030"/>
+    <circle cx="58" cy="35" r="0.8" fill="#f8e070"/>
+    <circle cx="62" cy="36" r="0.8" fill="#5a8030"/>
+    <circle cx="60" cy="38" r="0.8" fill="#f8e070"/>
+    <rect x="80" y="36" width="16" height="6" fill="#3a2010" rx="1"/>
+    <polygon points="84,30 92,30 92,36 84,36" fill="#f8e0a8"/>
+    <rect x="86" y="32" width="4" height="2" fill="#bf4030"/>
+    <circle cx="120" cy="36" r="5" fill="#f0e0a8"/>
+    <circle cx="120" cy="36" r="4.5" fill="#bf4030"/>
+    <polygon points="115,36 120,30 125,36 120,42" fill="#f8e0a8" opacity="0.7"/>
+    <circle cx="118" cy="34" r="0.8" fill="#5a8030"/>
+    <circle cx="122" cy="37" r="0.8" fill="#5a8030"/>
+    <rect x="142" y="36" width="20" height="8" fill="#a08068" rx="1"/>
+    <rect x="146" y="32" width="3" height="6" fill="#f8c060" rx="0.5"/>
+    <rect x="151" y="30" width="3" height="8" fill="#f8c060" rx="0.5"/>
+    <rect x="156" y="32" width="3" height="6" fill="#f8c060" rx="0.5"/>
+    <rect x="170" y="30" width="14" height="14" fill="#a0a098" rx="1"/>
+    <rect x="172" y="32" width="10" height="3" fill="#bf4030" rx="0.5"/>
+    <rect x="172" y="36" width="10" height="6" fill="#3a2010" rx="0.5"/>
+    <rect x="190" y="34" width="22" height="10" fill="#707068" rx="1"/>
+    <rect x="192" y="36" width="18" height="6" fill="#3a1810" rx="0.5"/>
+    <rect x="195" y="38" width="3" height="3" fill="#f8c040"/>
+    <rect x="200" y="38" width="3" height="3" fill="#f8c040"/>
+    <rect x="205" y="38" width="3" height="3" fill="#f8c040"/>
+    <rect x="220" y="44" width="56" height="22" fill="#7a4828" rx="1"/>
+    <rect x="222" y="46" width="52" height="18" fill="#a06848" rx="1"/>
+    <rect x="226" y="50" width="22" height="14" fill="#7a4828" rx="1"/>
+    <rect x="252" y="50" width="22" height="14" fill="#7a4828" rx="1"/>
+    <circle cx="237" cy="57" r="1.5" fill="#d4a04a"/>
+    <circle cx="263" cy="57" r="1.5" fill="#d4a04a"/>
+    <rect x="68" y="62" width="2" height="10" fill="#3a2010"/>
+    <rect x="62" y="62" width="14" height="3" fill="#5a3818" rx="1"/>
+    <rect x="100" y="62" width="2" height="10" fill="#3a2010"/>
+    <rect x="94" y="62" width="14" height="3" fill="#5a3818" rx="1"/>
+    <rect x="132" y="62" width="2" height="10" fill="#3a2010"/>
+    <rect x="126" y="62" width="14" height="3" fill="#5a3818" rx="1"/>
+    <rect x="172" y="62" width="2" height="10" fill="#3a2010"/>
+    <rect x="166" y="62" width="14" height="3" fill="#5a3818" rx="1"/>
+    <rect x="294" y="56" width="6" height="14" fill="#7a4828"/>
+    <ellipse cx="297" cy="50" rx="8" ry="6" fill="#5aa068"/>
+    <ellipse cx="293" cy="48" rx="5" ry="4" fill="#3a8848"/>
+    <ellipse cx="301" cy="48" rx="5" ry="4" fill="#5aa068"/>
+    <circle cx="295" cy="46" r="1" fill="#f8d040"/>
+    <circle cx="300" cy="50" r="1" fill="#f8d040"/>
+</g>
+</svg>

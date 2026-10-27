@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- empty built floor, plain -->
+  <rect x="0" y="0" width="4" height="15" fill="#4c5157"/>
+  <rect x="0" y="0" width="4" height="1.4" fill="#5d6268"/>
+  <rect x="0" y="1.4" width="4" height="0.4" fill="#41454a"/>
+  <rect x="0" y="2.6" width="4" height="0.5" fill="#41454a"/>
+  <rect x="0" y="12.6" width="4" height="2.4" fill="#41454a" opacity="0.55"/>
+  <rect x="0" y="15" width="4" height="1" fill="#575b60"/>
+  <rect x="0" y="15" width="4" height="0.3" fill="#72777d"/>
+  <rect x="0" y="15.75" width="4" height="0.25" fill="#45494d"/>
+</svg>

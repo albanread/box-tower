@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- fire, the cell at the right end of the span; frame 5 of 6 -->
+  <g transform="translate(4 0) scale(-1 1)">
+  <path d="M 1.69 15.2 Q 1.54 13.03 1.83 11.25 Q 2.78 13.03 2.92 15.2 Z" fill="#d9452b"/>
+  <path d="M 2.69 15.2 Q 2.69 10.76 3.42 7.12 Q 4.12 10.76 4.12 15.2 Z" fill="#d9452b"/>
+  <rect x="0" y="13.3" width="4" height="1.9" fill="#d9452b"/>
+  <path d="M 1.86 15.2 Q 1.75 13.51 1.93 12.12 Q 2.64 13.51 2.75 15.2 Z" fill="#f17a2b"/>
+  <path d="M 2.89 15.2 Q 2.89 11.73 3.42 8.9 Q 3.92 11.73 3.92 15.2 Z" fill="#f17a2b"/>
+  <path d="M 2.01 15.2 Q 1.93 14.01 2.04 13.03 Q 2.52 14.01 2.6 15.2 Z" fill="#ffb43f"/>
+  <path d="M 3.06 15.2 Q 3.06 12.76 3.41 10.76 Q 3.75 12.76 3.75 15.2 Z" fill="#ffb43f"/>
+  <path d="M 2.14 15.2 Q 2.1 14.55 2.16 14.02 Q 2.42 14.55 2.47 15.2 Z" fill="#ffe48e"/>
+  <path d="M 3.22 15.2 Q 3.22 13.87 3.41 12.78 Q 3.59 13.87 3.59 15.2 Z" fill="#ffe48e"/>
+  </g>
+</svg>

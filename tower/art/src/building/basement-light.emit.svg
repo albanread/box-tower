@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <ellipse cx="2" cy="3.4" rx="1.9" ry="0.9" fill="#e6f2ff" opacity="0.15"/>
+  <rect x="0.7" y="2.55" width="2.6" height="0.55" fill="#e6f2ff" rx="0.25"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 7">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 24x7 -->
+  <!-- sign hotel (en): HOTEL -->
+  <path d="M3.48 1.58L3.48 4.92M5.8 1.58L5.8 4.92M3.48 3.25L5.8 3.25M7.22 2.86C7.22 2.153 7.793 1.58 8.5 1.58L8.5 1.58C9.207 1.58 9.78 2.153 9.78 2.86L9.78 3.64C9.78 4.347 9.207 4.92 8.5 4.92L8.5 4.92C7.793 4.92 7.22 4.347 7.22 3.64ZM10.96 1.58L13.36 1.58M12.16 1.58L12.16 4.92M16.78 1.58L14.78 1.58L14.78 4.92L16.78 4.92M14.78 3.25L16.46 3.25M18.2 1.58L18.2 4.92L20.12 4.92" fill="none" stroke="#ffe8b0" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round" opacity="0.18"/>
+  <path d="M3.48 1.58L3.48 4.92M5.8 1.58L5.8 4.92M3.48 3.25L5.8 3.25M7.22 2.86C7.22 2.153 7.793 1.58 8.5 1.58L8.5 1.58C9.207 1.58 9.78 2.153 9.78 2.86L9.78 3.64C9.78 4.347 9.207 4.92 8.5 4.92L8.5 4.92C7.793 4.92 7.22 4.347 7.22 3.64ZM10.96 1.58L13.36 1.58M12.16 1.58L12.16 4.92M16.78 1.58L14.78 1.58L14.78 4.92L16.78 4.92M14.78 3.25L16.46 3.25M18.2 1.58L18.2 4.92L20.12 4.92" fill="none" stroke="#ffe8b0" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

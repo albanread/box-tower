@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 16" width="64" height="16">
+<!-- From tower-together apps/client/public/rooms/fastFood3.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (16 cells x 1 floor) by one uniform scale of
+     upstream's 320x80 drawing; preserveAspectRatio="none" removed.
+     Words removed: each lettered sign is now a text-free sign
+     (a pictogram of what is sold, or bars standing for lines of writing). -->
+<g transform="scale(0.2)">
+    <rect x="0" y="0" width="320" height="68" fill="#2a1818"/>
+    <rect x="0" y="60" width="320" height="8" fill="#5a2818"/>
+    <rect x="0" y="58" width="320" height="2" fill="#1a0808"/>
+    <rect x="0" y="68" width="320" height="4" fill="#1a0808"/>
+    <rect x="0" y="72" width="320" height="8" fill="#3a2010"/>
+    <rect x="0" y="0" width="320" height="14" fill="#7a1818"/>
+    <rect x="0" y="14" width="320" height="2" fill="#1a0808"/>
+    <rect x="20" y="2" width="40" height="10" fill="#1a0808" rx="1"/>
+    <!-- sign without words --><path d="M 35.45 7 A 4.55 3.5 0 0 0 44.55 7 Z" fill="#f8c878"/><line x1="39.09" y1="6.65" x2="43.19" y2="3.15" stroke="#f8c878" stroke-width="0.56"/><line x1="40.18" y1="6.65" x2="44.28" y2="3.5" stroke="#f8c878" stroke-width="0.56"/>
+    <rect x="80" y="2" width="40" height="10" fill="#1a0808" rx="1"/>
+    <!-- sign without words --><path d="M 95.8 8.6 Q 100 2 104.2 8.6 Z" fill="#f8c878"/><rect x="98.74" y="5.6" width="0.36" height="1.2" fill="#1a0808" opacity="0.5"/><rect x="100" y="5.6" width="0.36" height="1.2" fill="#1a0808" opacity="0.5"/><rect x="101.26" y="5.6" width="0.36" height="1.2" fill="#1a0808" opacity="0.5"/>
+    <rect x="140" y="2" width="40" height="10" fill="#1a0808" rx="1"/>
+    <!-- sign without words --><rect x="155.8" y="6.5" width="8.4" height="2.7" fill="#f8c878" rx="0.9"/><rect x="155.5" y="4.1" width="9" height="2.52" fill="#e86040" rx="1.08"/>
+    <rect x="200" y="2" width="40" height="10" fill="#1a0808" rx="1"/>
+    <!-- sign without words --><ellipse cx="219.23" cy="7" rx="3.65" ry="1.8" fill="#f8c878"/><polygon points="222.4,7 224.8,4.9 224.8,9.1" fill="#e86040"/>
+    <circle cx="270" cy="6" r="4" fill="#f08040" opacity="0.9"/>
+    <circle cx="280" cy="8" r="3" fill="#f06040" opacity="0.9"/>
+    <circle cx="290" cy="6" r="4" fill="#f08040" opacity="0.9"/>
+    <circle cx="300" cy="8" r="3" fill="#f06040" opacity="0.9"/>
+    <line x1="266" y1="2" x2="304" y2="2" stroke="#3a1010" stroke-width="0.5"/>
+    <line x1="270" y1="2" x2="270" y2="6" stroke="#3a1010" stroke-width="0.4"/>
+    <line x1="280" y1="2" x2="280" y2="8" stroke="#3a1010" stroke-width="0.4"/>
+    <line x1="290" y1="2" x2="290" y2="6" stroke="#3a1010" stroke-width="0.4"/>
+    <line x1="300" y1="2" x2="300" y2="8" stroke="#3a1010" stroke-width="0.4"/>
+    <rect x="20" y="20" width="60" height="34" fill="#5a3010" rx="1"/>
+    <rect x="22" y="22" width="56" height="30" fill="#7a4010" rx="1"/>
+    <rect x="22" y="22" width="56" height="3" fill="#3a1808"/>
+    <rect x="26" y="28" width="48" height="6" fill="#1a0808" rx="0.5"/>
+    <!-- sign without words --><path d="M 32.66 31.5 A 2.34 1.8 0 0 0 37.34 31.5 Z" fill="#f8c878"/><line x1="34.53" y1="31.32" x2="36.64" y2="29.52" stroke="#f8c878" stroke-width="0.29"/><line x1="35.09" y1="31.32" x2="37.2" y2="29.7" stroke="#f8c878" stroke-width="0.29"/><rect x="54" y="30.21" width="12" height="2.25" fill="#f8c878" rx="1.12"/><rect x="67.58" y="30.21" width="14" height="2.25" fill="#f8c878" rx="1.12"/>
+    <rect x="26" y="36" width="20" height="3" fill="#3a1808"/>
+    <rect x="48" y="36" width="20" height="3" fill="#3a1808"/>
+    <rect x="26" y="41" width="20" height="3" fill="#3a1808"/>
+    <rect x="48" y="41" width="20" height="3" fill="#3a1808"/>
+    <rect x="26" y="46" width="48" height="3" fill="#3a1808"/>
+    <rect x="100" y="48" width="200" height="6" fill="#a08068" rx="1"/>
+    <rect x="100" y="54" width="200" height="14" fill="#3a2010" rx="1"/>
+    <rect x="100" y="48" width="200" height="2" fill="#705048"/>
+    <line x1="120" y1="48" x2="120" y2="54" stroke="#5a3818" stroke-width="0.3"/>
+    <line x1="160" y1="48" x2="160" y2="54" stroke="#5a3818" stroke-width="0.3"/>
+    <line x1="200" y1="48" x2="200" y2="54" stroke="#5a3818" stroke-width="0.3"/>
+    <line x1="240" y1="48" x2="240" y2="54" stroke="#5a3818" stroke-width="0.3"/>
+    <line x1="280" y1="48" x2="280" y2="54" stroke="#5a3818" stroke-width="0.3"/>
+    <ellipse cx="115" cy="44" rx="10" ry="3" fill="#1a0808"/>
+    <ellipse cx="115" cy="42" rx="10" ry="3" fill="#f4ecd0"/>
+    <ellipse cx="115" cy="42" rx="8" ry="2" fill="#d4a040" opacity="0.7"/>
+    <path d="M 110 41 Q 115 40 120 41" stroke="#3a1808" stroke-width="0.4" fill="none"/>
+    <path d="M 109 42 Q 115 41 121 42" stroke="#3a1808" stroke-width="0.4" fill="none"/>
+    <circle cx="113" cy="41" r="0.8" fill="#5a8030"/>
+    <circle cx="117" cy="41" r="0.8" fill="#bf4030"/>
+    <ellipse cx="155" cy="44" rx="10" ry="3" fill="#1a0808"/>
+    <ellipse cx="155" cy="42" rx="10" ry="3" fill="#f4ecd0"/>
+    <ellipse cx="155" cy="42" rx="8" ry="2" fill="#a06040" opacity="0.6"/>
+    <rect x="151" y="40" width="2" height="2" fill="#bf6048"/>
+    <rect x="155" y="40" width="2" height="2" fill="#7a3010"/>
+    <rect x="159" y="40" width="2" height="2" fill="#bf6048"/>
+    <ellipse cx="195" cy="44" rx="6" ry="3" fill="#5a3010"/>
+    <ellipse cx="195" cy="42" rx="6" ry="2" fill="#bf8048"/>
+    <ellipse cx="193" cy="40" rx="2" ry="3" fill="#f4ecd0"/>
+    <ellipse cx="197" cy="40" rx="2" ry="3" fill="#f4ecd0"/>
+    <ellipse cx="193" cy="40" rx="1" ry="2" fill="#3a1808"/>
+    <ellipse cx="197" cy="40" rx="1" ry="2" fill="#3a1808"/>
+    <rect x="222" y="36" width="16" height="14" fill="#1a0808" rx="0.5"/>
+    <rect x="223" y="37" width="14" height="12" fill="#5a3010" rx="0.5"/>
+    <rect x="224" y="38" width="12" height="2" fill="#a06040"/>
+    <ellipse cx="230" cy="42" rx="5" ry="2" fill="#f4ecd0"/>
+    <ellipse cx="230" cy="42" rx="3" ry="1" fill="#bf4030"/>
+    <rect x="252" y="34" width="14" height="16" fill="#1a0808" rx="0.5"/>
+    <rect x="253" y="35" width="12" height="14" fill="#5a3010" rx="0.5"/>
+    <ellipse cx="259" cy="36" rx="5" ry="1.5" fill="#f8e0a8"/>
+    <path d="M 254 36 L 259 32 L 264 36" stroke="#a08068" stroke-width="0.4" fill="none"/>
+    <ellipse cx="259" cy="40" rx="5" ry="1" fill="#7a4818"/>
+    <rect x="278" y="40" width="16" height="10" fill="#a0a098" rx="1"/>
+    <rect x="280" y="42" width="12" height="6" fill="#1a0808" rx="0.5"/>
+    <rect x="282" y="44" width="2" height="2" fill="#f8c040"/>
+    <rect x="286" y="44" width="2" height="2" fill="#f8c040"/>
+    <rect x="290" y="44" width="2" height="2" fill="#f8c040"/>
+    <rect x="100" y="20" width="40" height="20" fill="#3a2818" rx="1"/>
+    <rect x="102" y="22" width="36" height="16" fill="#1a1008" rx="0.5"/>
+    <rect x="104" y="24" width="32" height="2" fill="#f8c878" rx="0.5"/>
+    <rect x="104" y="28" width="20" height="1.5" fill="#bf8048"/>
+    <rect x="126" y="28" width="10" height="1.5" fill="#f06040"/>
+    <rect x="104" y="31" width="22" height="1.5" fill="#bf8048"/>
+    <rect x="128" y="31" width="8" height="1.5" fill="#f06040"/>
+    <rect x="104" y="34" width="18" height="1.5" fill="#bf8048"/>
+    <rect x="124" y="34" width="12" height="1.5" fill="#f06040"/>
+    <rect x="160" y="20" width="40" height="20" fill="#3a2818" rx="1"/>
+    <rect x="162" y="22" width="36" height="16" fill="#1a1008" rx="0.5"/>
+    <rect x="164" y="24" width="32" height="2" fill="#f8c878" rx="0.5"/>
+    <rect x="164" y="28" width="14" height="1.5" fill="#bf8048"/>
+    <rect x="180" y="28" width="16" height="1.5" fill="#f06040"/>
+    <rect x="164" y="31" width="20" height="1.5" fill="#bf8048"/>
+    <rect x="186" y="31" width="10" height="1.5" fill="#f06040"/>
+    <rect x="164" y="34" width="16" height="1.5" fill="#bf8048"/>
+    <rect x="182" y="34" width="14" height="1.5" fill="#f06040"/>
+    <rect x="105" y="60" width="2" height="12" fill="#1a0808"/>
+    <ellipse cx="106" cy="58" rx="5" ry="2" fill="#5a3010"/>
+    <rect x="135" y="60" width="2" height="12" fill="#1a0808"/>
+    <ellipse cx="136" cy="58" rx="5" ry="2" fill="#5a3010"/>
+    <rect x="170" y="60" width="2" height="12" fill="#1a0808"/>
+    <ellipse cx="171" cy="58" rx="5" ry="2" fill="#5a3010"/>
+    <rect x="205" y="60" width="2" height="12" fill="#1a0808"/>
+    <ellipse cx="206" cy="58" rx="5" ry="2" fill="#5a3010"/>
+    <rect x="240" y="60" width="2" height="12" fill="#1a0808"/>
+    <ellipse cx="241" cy="58" rx="5" ry="2" fill="#5a3010"/>
+    <rect x="275" y="60" width="2" height="12" fill="#1a0808"/>
+    <ellipse cx="276" cy="58" rx="5" ry="2" fill="#5a3010"/>
+    <rect x="0" y="22" width="14" height="40" fill="#5a2010" rx="1"/>
+    <rect x="2" y="24" width="10" height="36" fill="#7a3010" rx="0.5"/>
+    <rect x="4" y="28" width="6" height="6" fill="#1a0808" rx="0.5"/>
+    <rect x="4" y="38" width="6" height="6" fill="#1a0808" rx="0.5"/>
+    <rect x="4" y="48" width="6" height="6" fill="#1a0808" rx="0.5"/>
+    <!-- sign without words --><circle cx="7" cy="31.8" r="1.4" fill="#f8c878"/>
+    <!-- sign without words --><circle cx="7" cy="41.8" r="1.4" fill="#f8c878"/>
+    <!-- sign without words --><circle cx="7" cy="51.8" r="1.4" fill="#f8c878"/>
+</g>
+</svg>

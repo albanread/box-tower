@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 16" width="28" height="16">
+  <!-- units: 28x16 -->
+  <!-- platform floodlight and amber beacons -->
+  <rect x="12.8" y="1.8" width="2.4" height="0.6" rx="0.3" fill="#fff3d6"/>
+  <polygon points="12.8,2.4 15.2,2.4 21,15 7,15" fill="#fff3d6" fill-opacity="0.18"/>
+  <circle cx="1.6" cy="0.6" r="0.6" fill="#ffa82a"/>
+  <circle cx="26.4" cy="0.6" r="0.6" fill="#ffa82a"/>
+</svg>

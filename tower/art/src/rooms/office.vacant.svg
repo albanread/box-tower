@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 16" width="36" height="16">
+<!-- Drawn for this port (no upstream file): office, vacant. The shell of
+     office.0 (tower-together's office palette) with the furniture gone and the
+     lights off: closed blinds, a bare whiteboard, floor sockets, a few boxes.
+     The program draws the to-let label; no words here. -->
+<g transform="scale(0.2)">
+  <rect x="0" y="0" width="180" height="76" fill="#7b8da8"/>
+  <rect x="0" y="72" width="180" height="4" fill="#62738c"/>
+  <rect x="0" y="76" width="180" height="4" fill="#6a7994" rx="1"/>
+  <rect x="26" y="0" width="16" height="3" fill="#8695af" rx="1"/>
+  <rect x="30" y="3" width="8" height="2" fill="#8e9cb4"/>
+  <rect x="140" y="0" width="16" height="3" fill="#8695af" rx="1"/>
+  <rect x="144" y="3" width="8" height="2" fill="#8e9cb4"/>
+  <rect x="73" y="6" width="34" height="26" fill="#97abc8" rx="2"/>
+  <rect x="74" y="7" width="32" height="24" fill="#a5b8d4" rx="1"/>
+  <rect x="74" y="8" width="32" height="2" fill="#8b9db8"/>
+  <rect x="74" y="11" width="32" height="2" fill="#8b9db8"/>
+  <rect x="74" y="14" width="32" height="2" fill="#8b9db8"/>
+  <rect x="74" y="17" width="32" height="2" fill="#8b9db8"/>
+  <rect x="74" y="20" width="32" height="2" fill="#8b9db8"/>
+  <rect x="74" y="23" width="32" height="2" fill="#8b9db8"/>
+  <rect x="74" y="26" width="32" height="1" fill="#6e809a"/>
+  <rect x="130" y="10" width="22" height="16" fill="#9eabc2" rx="1"/>
+  <rect x="132" y="12" width="18" height="12" fill="#adb9d3" rx="1"/>
+  <rect x="34" y="69" width="5" height="3" fill="#586982" rx="0.5"/>
+  <rect x="35" y="70" width="1" height="1" fill="#3e4d61"/>
+  <rect x="37" y="70" width="1" height="1" fill="#3e4d61"/>
+  <rect x="92" y="69" width="5" height="3" fill="#586982" rx="0.5"/>
+  <rect x="93" y="70" width="1" height="1" fill="#3e4d61"/>
+  <rect x="95" y="70" width="1" height="1" fill="#3e4d61"/>
+  <rect x="150" y="69" width="5" height="3" fill="#586982" rx="0.5"/>
+  <rect x="151" y="70" width="1" height="1" fill="#3e4d61"/>
+  <rect x="153" y="70" width="1" height="1" fill="#3e4d61"/>
+  <rect x="8" y="58" width="16" height="14" fill="#93795f" rx="1"/>
+  <rect x="8" y="58" width="16" height="1.6" fill="#a0866e"/>
+  <rect x="14.5" y="58" width="3" height="14" fill="#ad9d8b"/>
+  <rect x="26" y="62" width="12" height="10" fill="#93795f" rx="1"/>
+  <rect x="26" y="62" width="12" height="1.6" fill="#a0866e"/>
+  <rect x="30.5" y="62" width="3" height="10" fill="#ad9d8b"/>
+  <rect x="11" y="47" width="11" height="11" fill="#93795f" rx="1"/>
+  <rect x="11" y="47" width="11" height="1.6" fill="#a0866e"/>
+  <rect x="15" y="47" width="3" height="11" fill="#ad9d8b"/>
+  <rect x="112" y="70" width="30" height="2" fill="#5e708b" rx="1"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 2x1 -->
+  <!-- roof with a plant room; two cells -->
+  <rect x="0" y="12.8" width="8" height="3.2" fill="#6f7780"/>
+  <rect x="0" y="12.3" width="8" height="0.8" fill="#8f98a1"/>
+  <rect x="0" y="13.1" width="8" height="0.35" fill="#59606a"/>
+  <rect x="0" y="15.4" width="8" height="0.6" fill="#59606a"/>
+  <rect x="0.8" y="6.6" width="6.4" height="5.8" fill="#7b838c"/>
+  <rect x="0.8" y="6.6" width="6.4" height="0.7" fill="#929aa3"/>
+  <circle cx="2.6" cy="9.5" r="1.5" fill="#5f666e"/>
+  <circle cx="2.6" cy="9.5" r="0.5" fill="#7b838c"/>
+  <circle cx="5.4" cy="9.5" r="1.5" fill="#5f666e"/>
+  <circle cx="5.4" cy="9.5" r="0.5" fill="#7b838c"/>
+</svg>

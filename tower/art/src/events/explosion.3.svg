@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 32">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 4x2 -->
+  <!-- the bomb going off, centred on the bomb's cell; bottom floor is the bomb's; frame 3 of 4, 8 a second -->
+  <circle cx="5" cy="8" r="5" fill="#6c6662" opacity="0.9"/>
+  <circle cx="10.5" cy="6" r="5" fill="#857f7a" opacity="0.9"/>
+  <circle cx="8" cy="3" r="5" fill="#6c6662" opacity="0.9"/>
+  <circle cx="4" cy="24" r="2.5" fill="#5e5956" opacity="0.85"/>
+  <circle cx="8" cy="21" r="2.5" fill="#77716d" opacity="0.85"/>
+  <circle cx="12" cy="24" r="2.5" fill="#5e5956" opacity="0.85"/>
+  <circle cx="8" cy="26" r="2.5" fill="#8f8985" opacity="0.85"/>
+</svg>

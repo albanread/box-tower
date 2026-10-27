@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16" width="24" height="16">
+  <!-- units: 24x16 -->
+  <!-- rail marker lights -->
+  <circle cx="1.5" cy="5.3" r="0.45" fill="#7fb8ff"/>
+  <circle cx="22.5" cy="5.3" r="0.45" fill="#7fb8ff"/>
+</svg>

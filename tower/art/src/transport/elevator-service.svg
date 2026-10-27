@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- units: 16x16 -->
+  <!-- elevator-service shaft, one floor; repeat for every floor of the run -->
+  <rect x="0" y="0" width="16" height="16" fill="#7a7264"/>
+  <rect x="0" y="2" width="16" height="0.25" fill="#6f6759"/>
+  <rect x="4" y="2" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="12" y="2" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="0" y="6" width="16" height="0.25" fill="#6f6759"/>
+  <rect x="0" y="6" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="8" y="6" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="16" y="6" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="0" y="10" width="16" height="0.25" fill="#6f6759"/>
+  <rect x="4" y="10" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="12" y="10" width="0.25" height="4" fill="#6f6759"/>
+  <rect x="0" y="14.2" width="16" height="0.8" fill="#e8a33a"/>
+  <polygon points="-0.8,15 0,14.2 0.8,14.2 0,15" fill="#2e2d2b"/>
+  <polygon points="0.8,15 1.6,14.2 2.4,14.2 1.6,15" fill="#2e2d2b"/>
+  <polygon points="2.4,15 3.2,14.2 4,14.2 3.2,15" fill="#2e2d2b"/>
+  <polygon points="4,15 4.8,14.2 5.6,14.2 4.8,15" fill="#2e2d2b"/>
+  <polygon points="5.6,15 6.4,14.2 7.2,14.2 6.4,15" fill="#2e2d2b"/>
+  <polygon points="7.2,15 8,14.2 8.8,14.2 8,15" fill="#2e2d2b"/>
+  <polygon points="8.8,15 9.6,14.2 10.4,14.2 9.6,15" fill="#2e2d2b"/>
+  <polygon points="10.4,15 11.2,14.2 12,14.2 11.2,15" fill="#2e2d2b"/>
+  <polygon points="12,15 12.8,14.2 13.6,14.2 12.8,15" fill="#2e2d2b"/>
+  <polygon points="13.6,15 14.4,14.2 15.2,14.2 14.4,15" fill="#2e2d2b"/>
+  <polygon points="15.2,15 16,14.2 16.8,14.2 16,15" fill="#2e2d2b"/>
+  <rect x="1.2" y="0" width="0.6" height="16" fill="#4a453c"/>
+  <rect x="0.8" y="5" width="1.4" height="0.6" fill="#4a453c"/>
+  <rect x="14.2" y="0" width="0.6" height="16" fill="#4a453c"/>
+  <rect x="13.8" y="5" width="1.4" height="0.6" fill="#4a453c"/>
+  <rect x="7.32" y="0" width="0.16" height="16" fill="#2f2c28"/>
+  <rect x="7.92" y="0" width="0.16" height="16" fill="#2f2c28"/>
+  <rect x="8.52" y="0" width="0.16" height="16" fill="#2f2c28"/>
+</svg>

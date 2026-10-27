@@ -1,0 +1,8 @@
+| !Tower: the tower game (ROSAPPS)
+Set Tower$Dir <Obey$Dir>
+IconSprites <Tower$Dir>.!Sprites
+Set File$Type_A9D Tower
+Set Alias$@RunType_A9D Run <Tower$Dir>.!Run %%*0
+IfThere <Tower$Dir>.!RunImage Then Else Mojo <Tower$Dir>.Tower/mojo -o <Tower$Dir>.!RunImage
+WimpSlot -min 4000K
+Run <Tower$Dir>.!RunImage %*0

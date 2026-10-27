@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- fire escape, top, left end of the floors, in cell -->
+  <g transform="translate(-4 0)">
+  <rect x="7.55" y="8.5" width="0.45" height="7.5" fill="#2c3238"/>
+  <rect x="0.25" y="9.2" width="0.4" height="6.8" fill="#3e454d"/>
+  <rect x="0" y="14.6" width="8" height="0.55" fill="#4c545d"/>
+  <rect x="0" y="15.15" width="8" height="0.3" fill="#2c3238"/>
+  <rect x="0" y="9.6" width="7.6" height="0.3" fill="#5b646d"/>
+  <rect x="0" y="12.3" width="7.6" height="0.22" fill="#5b646d"/>
+  <rect x="2.4" y="9.6" width="0.22" height="5" fill="#5b646d"/>
+  <rect x="4.6" y="9.6" width="0.22" height="5" fill="#5b646d"/>
+  </g>
+</svg>

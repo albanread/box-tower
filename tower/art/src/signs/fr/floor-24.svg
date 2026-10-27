@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 5">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 8x5 -->
+  <!-- sign floor-above (fr): 24 -->
+  <rect x="0" y="0" width="8" height="5" fill="#18181c" rx="0.6"/>
+  <rect x="0.4" y="0.4" width="7.2" height="4.2" fill="#303038" rx="0.2"/>
+  <path d="M2.145 1.268L2.76 1.268C3.101 1.268 3.376 1.544 3.376 1.884L3.376 1.884C3.376 2.224 3.101 2.5 2.761 2.5L2.761 2.5C2.421 2.5 2.145 2.776 2.145 3.116L2.145 3.732L3.376 3.732M5.524 3.732L5.524 1.268L4.576 2.944L5.855 2.944" fill="none" stroke="#f0f0e8" stroke-width="0.736" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

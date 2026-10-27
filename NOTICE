@@ -1,0 +1,18 @@
+BOX Tower
+
+A port to the BOX (a RISC OS application environment that runs on Linux) of
+tower-together, https://github.com/phulin/tower-together, commit 073c0e4,
+Copyright 2026 Patrick Hulin, under the MIT licence (tower/UPSTREAM-LICENSE.md,
+unchanged).
+
+tower/sim is upstream's simulation (apps/worker/src/sim) translated from
+TypeScript to Rust; the BOX's additions to it are in tower/sim/src/box_ext
+and each hook into the translated files is marked "BOX:".  The pictures in
+tower/art derived from upstream's apps/client/public/rooms are listed in
+tower/art/PROVENANCE.md and say so in their first lines.
+
+This is a modified version of tower-together.  It is not made, endorsed or
+supported by the makers or publishers of the 1994 game, and it does not use
+that game's name.
+
+The BOX's changes and additions are under the MIT licence: LICENSE.md.

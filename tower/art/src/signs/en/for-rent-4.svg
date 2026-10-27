@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 4x1 -->
+  <!-- sign for-rent (en): FOR RENT -->
+  <line x1="8" y1="0.2" x2="2.7" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="8" y1="0.2" x2="13.3" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <circle cx="8" cy="0.4" r="0.45" fill="#4a4448"/>
+  <rect x="1.85" y="3.05" width="13" height="10.6" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="1.5" y="2.6" width="13" height="10.6" fill="#d04040" rx="0.6"/>
+  <rect x="2.2" y="3.3" width="11.6" height="9.2" fill="#f0f0e8" rx="0.1"/>
+  <path d="M5.74 4.21L4.421 4.21L4.421 6.955M4.421 5.583L5.529 5.583M7.077 5.054C7.077 4.588 7.455 4.21 7.921 4.21L7.921 4.21C8.387 4.21 8.765 4.588 8.765 5.054L8.765 6.111C8.765 6.577 8.387 6.955 7.921 6.955L7.921 6.955C7.455 6.955 7.077 6.577 7.077 6.111ZM10.102 6.955L10.102 4.21L10.838 4.21C11.248 4.21 11.579 4.542 11.579 4.951L11.579 4.951C11.579 5.361 11.248 5.692 10.838 5.692L10.102 5.692M10.788 5.692L11.579 6.955" fill="none" stroke="#d04040" stroke-width="0.82" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.013 11.59L3.013 8.845L3.75 8.845C4.159 8.845 4.491 9.177 4.491 9.586L4.491 9.586C4.491 9.995 4.159 10.327 3.75 10.327L3.013 10.327M3.699 10.327L4.491 11.59M7.147 8.845L5.828 8.845L5.828 11.59L7.147 11.59M5.828 10.217L6.936 10.217M8.484 11.59L8.484 8.845L10.067 11.59L10.067 8.845M11.404 8.845L12.987 8.845M12.195 8.845L12.195 11.59" fill="none" stroke="#d04040" stroke-width="0.82" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

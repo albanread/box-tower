@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16" width="24" height="16">
+  <!-- units: 24x16 -->
+  <!-- hall lantern and call button -->
+  <rect x="11" y="0.65" width="2" height="0.7" rx="0.3" fill="#ffc95a"/>
+  <circle cx="23.4" cy="8.7" r="0.22" fill="#ffc95a"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 13" width="20" height="13">
+  <!-- units: 20x13 -->
+  <!-- car interior, full; the back layer of the car -->
+  <rect x="0" y="0" width="20" height="13" fill="#dce6f2"/>
+  <rect x="0" y="2.4" width="20" height="6" fill="#c8d6ea"/>
+  <rect x="0" y="7.4" width="20" height="0.35" fill="#2f5590"/>
+  <rect x="1.6" y="1.4" width="16.8" height="0.4" fill="#fff1c8"/>
+  <rect x="0" y="11.4" width="20" height="0.6" fill="#40506a"/>
+  <rect x="6.315" y="8.01" width="0.54" height="3.24" fill="#3a3a3e"/>
+  <rect x="7.125" y="8.01" width="0.54" height="3.24" fill="#3a3a3e"/>
+  <rect x="6" y="4.77" width="1.98" height="3.51" rx="0.54" fill="#3f6e6a"/>
+  <circle cx="6.99" cy="4.095" r="0.855" fill="#c7a27c"/>
+  <rect x="12.315" y="8.01" width="0.54" height="3.24" fill="#3a3a3e"/>
+  <rect x="13.125" y="8.01" width="0.54" height="3.24" fill="#3a3a3e"/>
+  <rect x="12" y="4.77" width="1.98" height="3.51" rx="0.54" fill="#7a6b52"/>
+  <circle cx="12.99" cy="4.095" r="0.855" fill="#c7a27c"/>
+  <rect x="1.536" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="2.436" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="1.186" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#4a5f7c"/>
+  <circle cx="2.286" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="4.107" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="5.007" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="3.757" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#6e5a78"/>
+  <circle cx="4.857" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="6.679" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="7.579" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="6.329" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#3f6e6a"/>
+  <circle cx="7.429" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="9.25" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="10.15" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="8.9" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#7a6b52"/>
+  <circle cx="10" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="11.821" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="12.721" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="11.471" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#4a5f7c"/>
+  <circle cx="12.571" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="14.393" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="15.293" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="14.043" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#6e5a78"/>
+  <circle cx="15.143" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="16.964" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="17.864" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="16.614" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#3f6e6a"/>
+  <circle cx="17.714" cy="3.9" r="0.95" fill="#c7a27c"/>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16">
+  <!-- Drawn for the BOX port of tower-together by art/src/rooms/amenities.py. -->
+  <!-- slot: 12x1 -->
+  <!-- laundry, in its hours, people in it -->
+  <rect x="0" y="0" width="48" height="16" fill="#b8c8d0"/>
+  <rect x="0" y="14.4" width="48" height="0.8" fill="#8a9aa4"/>
+  <rect x="0" y="15.2" width="48" height="0.8" fill="#9aa8b0"/>
+  <rect x="4.5" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="5" y="0.5" width="2" height="0.35" fill="#d8d4c0"/>
+  <rect x="16.5" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="17" y="0.5" width="2" height="0.35" fill="#d8d4c0"/>
+  <rect x="28.5" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="29" y="0.5" width="2" height="0.35" fill="#d8d4c0"/>
+  <rect x="40.5" y="0" width="3" height="0.5" fill="#7a7a72"/>
+  <rect x="41" y="0.5" width="2" height="0.35" fill="#d8d4c0"/>
+  <rect x="2" y="2" width="14" height="0.4" fill="#7a8a94"/>
+  <rect x="2" y="5.2" width="14" height="0.4" fill="#7a8a94"/>
+  <rect x="2.6" y="0.9" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="2.6" y="4.1" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="5.3" y="0.9" width="2.3" height="1.1" fill="#e8d0d4" rx="0.2"/>
+  <rect x="5.3" y="4.1" width="2.3" height="1.1" fill="#e8d0d4" rx="0.2"/>
+  <rect x="8" y="0.9" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="8" y="4.1" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="10.7" y="0.9" width="2.3" height="1.1" fill="#d8e4ec" rx="0.2"/>
+  <rect x="10.7" y="4.1" width="2.3" height="1.1" fill="#d8e4ec" rx="0.2"/>
+  <rect x="13.4" y="0.9" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="13.4" y="4.1" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="30" y="2" width="14" height="0.4" fill="#7a8a94"/>
+  <rect x="30" y="5.2" width="14" height="0.4" fill="#7a8a94"/>
+  <rect x="30.6" y="0.9" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="30.6" y="4.1" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="33.3" y="0.9" width="2.3" height="1.1" fill="#e8d0d4" rx="0.2"/>
+  <rect x="33.3" y="4.1" width="2.3" height="1.1" fill="#e8d0d4" rx="0.2"/>
+  <rect x="36" y="0.9" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="36" y="4.1" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="38.7" y="0.9" width="2.3" height="1.1" fill="#d8e4ec" rx="0.2"/>
+  <rect x="38.7" y="4.1" width="2.3" height="1.1" fill="#d8e4ec" rx="0.2"/>
+  <rect x="41.4" y="0.9" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="41.4" y="4.1" width="2.3" height="1.1" fill="#f4f4ee" rx="0.2"/>
+  <rect x="2" y="8.6" width="4.6" height="5.8" fill="#eef2f4" rx="0.4"/>
+  <rect x="2" y="8.6" width="4.6" height="1" fill="#d4dce0" rx="0.3"/>
+  <circle cx="4.3" cy="11.9" r="1.6" fill="#5a6a74"/>
+  <circle cx="4.3" cy="11.9" r="1.2" fill="#3a8ac0"/>
+  <ellipse cx="4.3" cy="12.4" rx="0.9" ry="0.35" fill="#e8f4fa" opacity="0.8"/>
+  <circle cx="5.8" cy="9.1" r="0.25" fill="#60c060"/>
+  <rect x="7.2" y="8.6" width="4.6" height="5.8" fill="#eef2f4" rx="0.4"/>
+  <rect x="7.2" y="8.6" width="4.6" height="1" fill="#d4dce0" rx="0.3"/>
+  <circle cx="9.5" cy="11.9" r="1.6" fill="#5a6a74"/>
+  <circle cx="9.5" cy="11.9" r="1.2" fill="#c8d4da"/>
+  <circle cx="11" cy="9.1" r="0.25" fill="#60c060"/>
+  <rect x="12.4" y="8.6" width="4.6" height="5.8" fill="#eef2f4" rx="0.4"/>
+  <rect x="12.4" y="8.6" width="4.6" height="1" fill="#d4dce0" rx="0.3"/>
+  <circle cx="14.7" cy="11.9" r="1.6" fill="#5a6a74"/>
+  <circle cx="14.7" cy="11.9" r="1.2" fill="#3a8ac0"/>
+  <ellipse cx="14.7" cy="12.4" rx="0.9" ry="0.35" fill="#e8f4fa" opacity="0.8"/>
+  <circle cx="16.2" cy="9.1" r="0.25" fill="#60c060"/>
+  <rect x="17.6" y="8.6" width="4.6" height="5.8" fill="#eef2f4" rx="0.4"/>
+  <rect x="17.6" y="8.6" width="4.6" height="1" fill="#d4dce0" rx="0.3"/>
+  <circle cx="19.9" cy="11.9" r="1.6" fill="#5a6a74"/>
+  <circle cx="19.9" cy="11.9" r="1.2" fill="#c8d4da"/>
+  <circle cx="21.4" cy="9.1" r="0.25" fill="#60c060"/>
+  <rect x="25" y="10.4" width="12" height="0.7" fill="#c8b088"/>
+  <rect x="25.6" y="11.1" width="0.5" height="3.3" fill="#8a7458"/>
+  <rect x="36" y="11.1" width="0.5" height="3.3" fill="#8a7458"/>
+  <rect x="39.5" y="10.2" width="6.5" height="3.6" fill="#5a7a9a" rx="0.4"/>
+  <rect x="39.8" y="9.4" width="5.9" height="1" fill="#f4f4ee" rx="0.4"/>
+  <circle cx="40.3" cy="14.1" r="0.45" fill="#2a2a2a"/>
+  <circle cx="45.2" cy="14.1" r="0.45" fill="#2a2a2a"/>
+  <rect x="27" y="9.6" width="2.6" height="0.8" fill="#f4f4ee" rx="0.2"/>
+  <rect x="31" y="9.6" width="2.6" height="0.8" fill="#d8e4ec" rx="0.2"/>
+  <rect x="39.8" y="8.4" width="5.9" height="1.2" fill="#e8d0d4" rx="0.4"/>
+  <rect x="30.25" y="11.1" width="0.65" height="4.1" fill="#3b4250" rx="0.25"/>
+  <rect x="31.1" y="11.1" width="0.65" height="4.1" fill="#3b4250" rx="0.25"/>
+  <rect x="30" y="7" width="2" height="4.4" fill="#b9a3d6" rx="0.6"/>
+  <rect x="29.55" y="7.3" width="0.5" height="3.2" fill="#b9a3d6" rx="0.25"/>
+  <rect x="31.95" y="7.3" width="0.5" height="3.2" fill="#b9a3d6" rx="0.25"/>
+  <circle cx="31" cy="5.9" r="0.98" fill="#f0c9a6"/>
+  <polygon points="30,5.7 30.3,4.9 31.6,4.85 32,5.5" fill="#5a5a5a"/>
+  <polygon points="22.7,11.1 23.3,11.1 22,15.2 21.4,15.2" fill="#3b4250"/>
+  <polygon points="22.7,11.1 23.3,11.1 24.6,15.2 24,15.2" fill="#3b4250"/>
+  <rect x="22" y="7" width="2" height="4.4" fill="#b9a3d6" rx="0.6"/>
+  <circle cx="23" cy="5.9" r="0.98" fill="#f0c9a6"/>
+  <polygon points="22,5.7 22.3,4.9 23.6,4.85 24,5.5" fill="#b08850"/>
+</svg>

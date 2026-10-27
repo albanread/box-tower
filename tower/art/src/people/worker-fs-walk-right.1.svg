@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 12" width="6" height="12">
+  <!-- units: 6x12 -->
+  <!-- worker (woman, shorter) walking, facing right, frame 1 of 4 -->
+  <g transform="translate(3 12) scale(0.9) translate(-3 -12)">
+  <polygon points="3.286,5.285 1.501,7.57 1.028,7.201 2.814,4.915" fill="#59606a"/>
+  <circle cx="3.05" cy="5.1" r="0.3" fill="#59606a"/>
+  <circle cx="1.265" cy="7.385" r="0.36" fill="#c4936a"/>
+  <polygon points="3.389,8.027 3.131,11.718 2.353,11.664 2.611,7.973" fill="#2e3440"/>
+  <circle cx="3" cy="8" r="0.39" fill="#2e3440"/>
+  <rect x="2.292" y="11.541" width="1.15" height="0.5" rx="0.2" fill="#1f2226"/>
+  <polygon points="3.388,7.959 3.775,11.639 2.999,11.72 2.612,8.041" fill="#3b4250"/>
+  <circle cx="3" cy="8" r="0.39" fill="#3b4250"/>
+  <rect x="2.937" y="11.53" width="1.15" height="0.5" rx="0.2" fill="#1f2226"/>
+  <polygon points="2.15,7.6 3.95,7.6 4.55,10.1 1.55,10.1" fill="#3b4250"/>
+  <rect x="2.2" y="4.6" width="1.6" height="3.6" rx="0.6" fill="#6f7782"/>
+  <polygon points="3.55,4.6 3.95,4.6 3.95,5.6" fill="#f2f2ee"/>
+  <rect x="3.6" y="5.1" width="0.3" height="2" fill="#7a2f36"/>
+  <polygon points="1.75,2.9 2.3,1.85 3.5,1.75 3.95,2.5 3.35,5.6 1.95,5.7" fill="#3a2a20"/>
+  <rect x="2.75" y="4" width="0.6" height="0.7" fill="#d9a87a"/>
+  <circle cx="2.85" cy="2.95" r="1.15" fill="#3a2a20"/>
+  <circle cx="3.25" cy="3.25" r="0.98" fill="#d9a87a"/>
+  <rect x="4.05" y="3.2" width="0.3" height="0.35" rx="0.1" fill="#d9a87a"/>
+  <polygon points="3.349,5.126 3.096,8.015 2.498,7.963 2.751,5.074" fill="#6f7782"/>
+  <circle cx="3.05" cy="5.1" r="0.3" fill="#6f7782"/>
+  <circle cx="2.797" cy="7.989" r="0.36" fill="#d9a87a"/>
+  <rect x="2.647" y="7.939" width="0.3" height="0.35" fill="#2b2018"/>
+  <rect x="1.997" y="8.239" width="1.6" height="1.2" rx="0.2" fill="#5a3a26"/>
+  </g>
+</svg>

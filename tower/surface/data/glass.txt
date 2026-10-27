@@ -1,0 +1,11 @@
+# The panes that look out: windows in a room's back wall, which show the sky
+# in smooth and rich (graphics-design.md 6.3, 10.2: material 2, glass).
+# Until the art has material layers (name.mat.svg) towerpack finds them by
+# their colours in the day picture; art/src/glass.txt, when the art supplies
+# one, is read instead, in this format.  A name ending in * is a prefix.
+#
+# picture              pane colours
+rooms/office.0         cee0ec c4d8e6
+rooms/condo.0          a8c8d8 98b8c8
+rooms/restaurant.4     4880a8
+rooms/recycling.*      6088a0

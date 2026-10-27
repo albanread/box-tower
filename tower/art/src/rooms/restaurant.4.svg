@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 16" width="96" height="16">
+<!-- From tower-together apps/client/public/rooms/restaurant4.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (24 cells x 1 floor) by one uniform scale of
+     upstream's 480x80 drawing; preserveAspectRatio="none" removed.
+     Words removed: each lettered sign is now a text-free sign
+     (a pictogram of what is sold, or bars standing for lines of writing). -->
+<g transform="scale(0.2)">
+    <!-- Coastal seafood bistro - navy & white nautical -->
+    <!-- Back wall - soft sky -->
+    <rect x="0" y="0" width="480" height="44" fill="#c8e0e8"/>
+
+    <!-- White shiplap band -->
+    <rect x="0" y="44" width="480" height="26" fill="#f0f0e8"/>
+    <rect x="0" y="48" width="480" height="1" fill="#b8c0b8"/>
+    <rect x="0" y="54" width="480" height="1" fill="#b8c0b8"/>
+    <rect x="0" y="60" width="480" height="1" fill="#b8c0b8"/>
+    <rect x="0" y="66" width="480" height="1" fill="#b8c0b8"/>
+
+    <!-- Navy chair rail -->
+    <rect x="0" y="70" width="480" height="4" fill="#182848"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="74" width="480" height="2" fill="#0a1020"/>
+
+    <!-- Floor - weathered wood planks -->
+    <rect x="0" y="76" width="480" height="4" fill="#98a0a8"/>
+    <rect x="60" y="76" width="1" height="4" fill="#687078"/>
+    <rect x="140" y="76" width="1" height="4" fill="#687078"/>
+    <rect x="220" y="76" width="1" height="4" fill="#687078"/>
+    <rect x="300" y="76" width="1" height="4" fill="#687078"/>
+    <rect x="380" y="76" width="1" height="4" fill="#687078"/>
+
+    <!-- Rope garland ceiling -->
+    <path d="M 0 8 Q 60 14 120 8 T 240 8 T 360 8 T 480 8" stroke="#c8a878" stroke-width="2" fill="none"/>
+
+    <!-- Pendant lights with rope -->
+    <g>
+      <rect x="79" y="8" width="2" height="6" fill="#c8a878"/>
+      <path d="M 74 14 L 80 22 L 86 14 Z" fill="#182848"/>
+      <rect x="74" y="14" width="12" height="2" fill="#2a3858"/>
+      <circle cx="80" cy="20" r="2" fill="#f8e8a0"/>
+    </g>
+    <g>
+      <rect x="239" y="8" width="2" height="6" fill="#c8a878"/>
+      <path d="M 234 14 L 240 22 L 246 14 Z" fill="#182848"/>
+      <rect x="234" y="14" width="12" height="2" fill="#2a3858"/>
+      <circle cx="240" cy="20" r="2" fill="#f8e8a0"/>
+    </g>
+    <g>
+      <rect x="399" y="8" width="2" height="6" fill="#c8a878"/>
+      <path d="M 394 14 L 400 22 L 406 14 Z" fill="#182848"/>
+      <rect x="394" y="14" width="12" height="2" fill="#2a3858"/>
+      <circle cx="400" cy="20" r="2" fill="#f8e8a0"/>
+    </g>
+
+    <!-- Porthole window (left) -->
+    <circle cx="34" cy="26" r="14" fill="#c8a878"/>
+    <circle cx="34" cy="26" r="12" fill="#f0e0c0"/>
+    <circle cx="34" cy="26" r="10" fill="#4880a8"/>
+    <rect x="24" y="24" width="20" height="4" fill="#5890b8" opacity="0.7"/>
+    <rect x="24" y="30" width="20" height="2" fill="#5890b8" opacity="0.5"/>
+    <circle cx="28" cy="20" r="2" fill="#6898c0"/>
+    <circle cx="30" cy="18" r="1.5" fill="#6898c0"/>
+    <circle cx="34" cy="16" r="2" fill="#f0f0e8"/>
+    <circle cx="39" cy="18" r="1.5" fill="#f0f0e8"/>
+    <!-- Rivets -->
+    <circle cx="24" cy="16" r="1" fill="#8a7050"/>
+    <circle cx="44" cy="16" r="1" fill="#8a7050"/>
+    <circle cx="24" cy="36" r="1" fill="#8a7050"/>
+    <circle cx="44" cy="36" r="1" fill="#8a7050"/>
+
+    <!-- Wooden ship wheel -->
+    <g>
+      <circle cx="90" cy="26" r="14" fill="#8a5830"/>
+      <circle cx="90" cy="26" r="10" fill="#c8e0e8"/>
+      <circle cx="90" cy="26" r="3" fill="#6a3820"/>
+      <rect x="89" y="10" width="2" height="6" fill="#8a5830"/>
+      <rect x="89" y="36" width="2" height="6" fill="#8a5830"/>
+      <rect x="74" y="25" width="6" height="2" fill="#8a5830"/>
+      <rect x="100" y="25" width="6" height="2" fill="#8a5830"/>
+      <rect x="78" y="14" width="5" height="2" fill="#8a5830" transform="rotate(-45 80 16)"/>
+      <rect x="97" y="14" width="5" height="2" fill="#8a5830" transform="rotate(45 100 16)"/>
+      <rect x="78" y="37" width="5" height="2" fill="#8a5830" transform="rotate(45 80 37)"/>
+      <rect x="97" y="37" width="5" height="2" fill="#8a5830" transform="rotate(-45 100 37)"/>
+    </g>
+
+    <!-- Painted lobster sign -->
+    <rect x="120" y="12" width="80" height="28" fill="#f0e8d0" rx="1"/>
+    <rect x="120" y="12" width="80" height="28" fill="none" stroke="#8a5830" stroke-width="2" rx="1"/>
+    <ellipse cx="160" cy="28" rx="18" ry="6" fill="#c83020"/>
+    <rect x="142" y="27" width="4" height="4" fill="#c83020"/>
+    <rect x="174" y="27" width="4" height="4" fill="#c83020"/>
+    <!-- Claws -->
+    <ellipse cx="142" cy="22" rx="4" ry="3" fill="#a82020"/>
+    <ellipse cx="178" cy="22" rx="4" ry="3" fill="#a82020"/>
+    <!-- Antennae -->
+    <rect x="139" y="14" width="1" height="8" fill="#8a1818"/>
+    <rect x="181" y="14" width="1" height="8" fill="#8a1818"/>
+    <!-- Tail -->
+    <polygon points="148,28 144,32 152,32" fill="#a82020"/>
+    <polygon points="172,28 168,32 176,32" fill="#a82020"/>
+    <!-- sign without words --><ellipse cx="151.2" cy="36.3" rx="2.64" ry="1.28" fill="#2a1808"/><polygon points="153.44,36.3 155.36,35.1 155.36,37.5" fill="#2a1808"/><circle cx="149.6" cy="36.06" r="0.28" fill="#f0e8c0"/><ellipse cx="169.2" cy="36.3" rx="2.64" ry="1.28" fill="#2a1808"/><polygon points="171.44,36.3 173.36,35.1 173.36,37.5" fill="#2a1808"/><circle cx="167.6" cy="36.06" r="0.28" fill="#f0e8c0"/>
+
+    <!-- Anchor on wall -->
+    <g transform="translate(230 18)">
+      <rect x="6" y="0" width="2" height="4" fill="#3a3830"/>
+      <circle cx="7" cy="1" r="2" fill="none" stroke="#3a3830" stroke-width="1"/>
+      <rect x="6" y="4" width="2" height="16" fill="#3a3830"/>
+      <path d="M 0 14 Q 7 24 14 14" stroke="#3a3830" stroke-width="2" fill="none"/>
+      <polygon points="0,14 -2,12 0,18" fill="#3a3830"/>
+      <polygon points="14,14 16,12 14,18" fill="#3a3830"/>
+      <rect x="2" y="8" width="10" height="1" fill="#3a3830"/>
+    </g>
+
+    <!-- Fishing net with starfish -->
+    <g>
+      <path d="M 272 12 L 320 12 L 316 40 L 276 40 Z" stroke="#c8a878" stroke-width="0.5" fill="#e8d8b0" opacity="0.4"/>
+      <path d="M 272 12 L 316 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 280 12 L 316 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 288 12 L 316 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 296 12 L 316 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 304 12 L 316 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 312 12 L 316 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 320 12 L 276 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 320 18 L 276 40" stroke="#c8a878" stroke-width="0.5"/>
+      <path d="M 320 26 L 276 40" stroke="#c8a878" stroke-width="0.5"/>
+      <!-- Starfish -->
+      <g transform="translate(290 24)">
+        <polygon points="0,-4 1.2,-1.2 4,0 1.2,1.2 0,4 -1.2,1.2 -4,0 -1.2,-1.2" fill="#e88040"/>
+      </g>
+      <g transform="translate(305 30)">
+        <polygon points="0,-3 0.9,-0.9 3,0 0.9,0.9 0,3 -0.9,0.9 -3,0 -0.9,-0.9" fill="#f0a060"/>
+      </g>
+      <!-- Shells -->
+      <ellipse cx="282" cy="32" rx="3" ry="2" fill="#f0d8a0"/>
+      <path d="M 279 32 L 285 32 M 280 30 L 284 33 M 282 30 L 282 34" stroke="#c8a070" stroke-width="0.3"/>
+    </g>
+
+    <!-- Chalkboard menu -->
+    <rect x="340" y="12" width="60" height="28" fill="#8a5830" rx="1"/>
+    <rect x="342" y="14" width="56" height="24" fill="#1a2818"/>
+    <!-- sign without words --><rect x="360" y="16.9" width="20" height="2.5" fill="#f0f0e8" rx="1.25"/>
+    <rect x="346" y="22" width="48" height="0.5" fill="#f0f0e8" opacity="0.6"/>
+    <!-- sign without words --><rect x="346" y="25.52" width="8" height="2" fill="#f0e8c0" rx="1"/><rect x="355.4" y="25.52" width="14" height="2" fill="#f0e8c0" rx="1"/>
+    <!-- sign without words --><rect x="346" y="29.52" width="14" height="2" fill="#f0e8c0" rx="1"/><rect x="361.4" y="29.52" width="12" height="2" fill="#f0e8c0" rx="1"/>
+    <!-- sign without words --><rect x="346" y="33.52" width="14" height="2" fill="#f0e8c0" rx="1"/>
+
+    <!-- Model sailboat -->
+    <g transform="translate(420 16)">
+      <rect x="0" y="20" width="30" height="4" fill="#8a5830"/>
+      <polygon points="0,24 30,24 26,28 4,28" fill="#6a3820"/>
+      <rect x="14" y="0" width="1" height="22" fill="#4a3020"/>
+      <polygon points="14,2 14,20 2,20" fill="#f0f0e8"/>
+      <polygon points="15,4 15,20 26,20" fill="#f0f0e8"/>
+    </g>
+
+    <!-- Dining table 1 - blue tablecloth -->
+    <rect x="28" y="58" width="60" height="3" fill="#3860a0"/>
+    <rect x="28" y="58" width="60" height="1" fill="#4878b8"/>
+    <rect x="28" y="61" width="60" height="3" fill="#2a4878"/>
+    <rect x="54" y="64" width="4" height="10" fill="#3a2818"/>
+    <rect x="40" y="72" width="32" height="2" fill="#3a2818"/>
+    <!-- Shell centerpiece -->
+    <ellipse cx="58" cy="56" rx="4" ry="2" fill="#f0d8a0"/>
+    <path d="M 54 56 L 62 56 M 55 54 L 61 58 M 58 54 L 58 58" stroke="#c8a070" stroke-width="0.3"/>
+    <!-- Plates with fish -->
+    <ellipse cx="40" cy="58" rx="6" ry="1.5" fill="#f0f0e8"/>
+    <ellipse cx="40" cy="57" rx="3" ry="1" fill="#88a0b0"/>
+    <polygon points="42,57 44,56 44,58" fill="#88a0b0"/>
+    <ellipse cx="76" cy="58" rx="6" ry="1.5" fill="#f0f0e8"/>
+    <ellipse cx="76" cy="57" rx="3" ry="1" fill="#e89050"/>
+    <!-- Chairs - white painted wood -->
+    <rect x="28" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="20" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="20" y="56" width="4" height="6" fill="#d8d8d0"/>
+    <rect x="88" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="92" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="92" y="56" width="4" height="6" fill="#d8d8d0"/>
+
+    <!-- Dining table 2 -->
+    <rect x="120" y="58" width="60" height="3" fill="#3860a0"/>
+    <rect x="120" y="58" width="60" height="1" fill="#4878b8"/>
+    <rect x="120" y="61" width="60" height="3" fill="#2a4878"/>
+    <rect x="146" y="64" width="4" height="10" fill="#3a2818"/>
+    <rect x="132" y="72" width="32" height="2" fill="#3a2818"/>
+    <!-- Candle in hurricane jar -->
+    <rect x="147" y="48" width="6" height="10" fill="#d0e0e8" opacity="0.5"/>
+    <rect x="149" y="52" width="2" height="5" fill="#f0e8d0"/>
+    <rect x="149" y="48" width="2" height="4" fill="#f0c040"/>
+    <circle cx="150" cy="47" r="1.5" fill="#ffe8a0"/>
+    <!-- Lobster on plate -->
+    <ellipse cx="132" cy="58" rx="6" ry="1.5" fill="#f0f0e8"/>
+    <ellipse cx="132" cy="57" rx="4" ry="1.5" fill="#c83020"/>
+    <rect x="128" y="56" width="2" height="2" fill="#c83020"/>
+    <rect x="134" y="56" width="2" height="2" fill="#c83020"/>
+    <!-- Oysters -->
+    <ellipse cx="170" cy="58" rx="6" ry="1.5" fill="#f0f0e8"/>
+    <ellipse cx="166" cy="57" rx="2" ry="1" fill="#a8b0a8"/>
+    <ellipse cx="170" cy="57" rx="2" ry="1" fill="#a8b0a8"/>
+    <ellipse cx="174" cy="57" rx="2" ry="1" fill="#a8b0a8"/>
+    <!-- Wine glass -->
+    <rect x="155" y="52" width="3" height="6" fill="#d0e0e8" opacity="0.8"/>
+    <rect x="155" y="53" width="3" height="3" fill="#e0d090" opacity="0.7"/>
+    <rect x="120" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="112" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="112" y="56" width="4" height="6" fill="#d8d8d0"/>
+    <rect x="180" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="184" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="184" y="56" width="4" height="6" fill="#d8d8d0"/>
+
+    <!-- Dining table 3 -->
+    <rect x="212" y="58" width="60" height="3" fill="#3860a0"/>
+    <rect x="212" y="58" width="60" height="1" fill="#4878b8"/>
+    <rect x="212" y="61" width="60" height="3" fill="#2a4878"/>
+    <rect x="238" y="64" width="4" height="10" fill="#3a2818"/>
+    <rect x="224" y="72" width="32" height="2" fill="#3a2818"/>
+    <!-- Chowder bowl -->
+    <ellipse cx="224" cy="58" rx="6" ry="2" fill="#1a2848"/>
+    <ellipse cx="224" cy="57" rx="5" ry="1.5" fill="#f0e8c0"/>
+    <rect x="221" y="54" width="6" height="3" fill="#f0e8c0" opacity="0.4"/>
+    <!-- Crackers -->
+    <rect x="234" y="56" width="3" height="3" fill="#e8c880"/>
+    <rect x="238" y="55" width="3" height="3" fill="#e8c880"/>
+    <!-- Scallops plate -->
+    <ellipse cx="260" cy="58" rx="6" ry="1.5" fill="#f0f0e8"/>
+    <circle cx="256" cy="57" r="1.5" fill="#f0d0a0"/>
+    <circle cx="260" cy="57" r="1.5" fill="#f0d0a0"/>
+    <circle cx="264" cy="57" r="1.5" fill="#f0d0a0"/>
+    <rect x="246" y="52" width="3" height="6" fill="#d0e0e8" opacity="0.8"/>
+    <rect x="246" y="53" width="3" height="3" fill="#e0d090" opacity="0.7"/>
+    <rect x="212" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="204" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="204" y="56" width="4" height="6" fill="#d8d8d0"/>
+    <rect x="272" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="276" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="276" y="56" width="4" height="6" fill="#d8d8d0"/>
+
+    <!-- Dining table 4 -->
+    <rect x="300" y="58" width="60" height="3" fill="#3860a0"/>
+    <rect x="300" y="58" width="60" height="1" fill="#4878b8"/>
+    <rect x="300" y="61" width="60" height="3" fill="#2a4878"/>
+    <rect x="326" y="64" width="4" height="10" fill="#3a2818"/>
+    <rect x="312" y="72" width="32" height="2" fill="#3a2818"/>
+    <!-- Mason jar with flowers -->
+    <rect x="327" y="52" width="6" height="6" fill="#d0e0e8" opacity="0.6"/>
+    <rect x="327" y="52" width="6" height="1" fill="#c8a878"/>
+    <circle cx="328" cy="50" r="1.5" fill="#f0f060"/>
+    <circle cx="332" cy="48" r="1.5" fill="#f0a0b0"/>
+    <circle cx="330" cy="46" r="1.5" fill="#f0f0e8"/>
+    <rect x="329" y="48" width="1" height="4" fill="#4a8030"/>
+    <!-- Salmon plate -->
+    <ellipse cx="314" cy="58" rx="6" ry="1.5" fill="#f0f0e8"/>
+    <ellipse cx="314" cy="57" rx="4" ry="1.5" fill="#e89050"/>
+    <rect x="311" y="56" width="6" height="0.5" fill="#f0b080"/>
+    <!-- Mussels -->
+    <ellipse cx="346" cy="58" rx="6" ry="1.5" fill="#1a2848"/>
+    <ellipse cx="344" cy="57" rx="1.5" ry="0.8" fill="#302820"/>
+    <ellipse cx="347" cy="57" rx="1.5" ry="0.8" fill="#302820"/>
+    <ellipse cx="349" cy="57" rx="1.5" ry="0.8" fill="#302820"/>
+    <rect x="300" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="292" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="292" y="56" width="4" height="6" fill="#d8d8d0"/>
+    <rect x="360" y="58" width="4" height="14" fill="#e8e8e0"/>
+    <rect x="364" y="60" width="4" height="12" fill="#f0f0e8" rx="1"/>
+    <rect x="364" y="56" width="4" height="6" fill="#d8d8d0"/>
+
+    <!-- Raw bar / oyster station (right) -->
+    <rect x="390" y="52" width="70" height="4" fill="#c8a878"/>
+    <rect x="390" y="56" width="70" height="16" fill="#f0f0e8"/>
+    <rect x="392" y="58" width="66" height="12" fill="#e0e0d8"/>
+    <!-- Ice bed -->
+    <rect x="394" y="60" width="62" height="8" fill="#c8dce0" opacity="0.8"/>
+    <circle cx="398" cy="62" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <circle cx="404" cy="64" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <circle cx="414" cy="62" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <circle cx="424" cy="65" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <circle cx="434" cy="62" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <circle cx="444" cy="64" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <circle cx="452" cy="62" r="1" fill="#f0f0e8" opacity="0.8"/>
+    <!-- Oysters on ice -->
+    <ellipse cx="400" cy="63" rx="3" ry="1.5" fill="#a8b0a8"/>
+    <ellipse cx="400" cy="62" rx="2" ry="1" fill="#f0e8c8"/>
+    <ellipse cx="410" cy="65" rx="3" ry="1.5" fill="#a8b0a8"/>
+    <ellipse cx="410" cy="64" rx="2" ry="1" fill="#f0e8c8"/>
+    <ellipse cx="420" cy="63" rx="3" ry="1.5" fill="#a8b0a8"/>
+    <ellipse cx="420" cy="62" rx="2" ry="1" fill="#f0e8c8"/>
+    <ellipse cx="432" cy="65" rx="3" ry="1.5" fill="#a8b0a8"/>
+    <ellipse cx="432" cy="64" rx="2" ry="1" fill="#f0e8c8"/>
+    <!-- Lemon wedges -->
+    <polygon points="442,62 446,62 444,66" fill="#f0e060"/>
+    <polygon points="448,64 452,64 450,68" fill="#f0e060"/>
+</g>
+</svg>

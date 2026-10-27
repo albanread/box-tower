@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- the slab under every built cell, drawn over the room; top of slab y=15 -->
+  <rect x="0" y="15" width="4" height="1" fill="#575b60"/>
+  <rect x="0" y="15" width="4" height="0.3" fill="#72777d"/>
+  <rect x="0" y="15.75" width="4" height="0.25" fill="#45494d"/>
+</svg>

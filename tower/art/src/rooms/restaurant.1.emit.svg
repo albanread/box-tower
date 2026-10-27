@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 16" width="96" height="16">
+<!-- Night layer for restaurant.1.svg (lit interior): the day picture itself under warm
+     interior light, at 0.6 strength, so the room reads as lit from inside
+     when the presenters darken the scene.  It refers to the day picture,
+     so it follows any change to it.  See STYLE.md, "Night layers". -->
+<defs>
+  <filter id="warm" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+    <feColorMatrix type="matrix" values="1 0 0 0 0  0 0.9 0 0 0  0 0 0.68 0 0  0 0 0 1 0"/>
+  </filter>
+</defs>
+<image href="restaurant.1.svg" x="0" y="0" width="96" height="16" filter="url(#warm)" opacity="0.6"/>
+</svg>

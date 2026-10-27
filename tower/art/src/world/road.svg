@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- road surface (in front of the parking ramp and beyond the pavement) -->
+  <rect x="0" y="14.4" width="4" height="1.6" fill="#4e5156"/>
+  <rect x="0" y="14.4" width="4" height="0.3" fill="#62666b"/>
+  <rect x="0.6" y="15.1" width="2.2" height="0.35" fill="#d8d2c2"/>
+</svg>

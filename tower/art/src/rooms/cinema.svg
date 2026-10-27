@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 32" width="124" height="32">
+<!-- From tower-together apps/client/public/rooms/cinema.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (31 cells x 2 floors) by one uniform scale of
+     upstream's 620x160 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Back wall - deep theater red -->
+    <rect x="0" y="0" width="620" height="152" fill="#481018"/>
+
+    <!-- Ceiling darker band -->
+    <rect x="0" y="0" width="620" height="20" fill="#300810"/>
+    <rect x="0" y="20" width="620" height="2" fill="#200408"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="144" width="620" height="4" fill="#280808"/>
+
+    <!-- Floor - dark aisle -->
+    <rect x="0" y="148" width="620" height="12" fill="#3a1818"/>
+    <rect x="0" y="152" width="620" height="2" fill="#280808"/>
+
+    <!-- Ceiling recessed lights -->
+    <circle cx="80" cy="10" r="3" fill="#ffe098"/>
+    <circle cx="80" cy="10" r="1.5" fill="#fff8d0"/>
+    <circle cx="200" cy="10" r="3" fill="#ffe098"/>
+    <circle cx="200" cy="10" r="1.5" fill="#fff8d0"/>
+    <circle cx="310" cy="10" r="3" fill="#ffe098"/>
+    <circle cx="310" cy="10" r="1.5" fill="#fff8d0"/>
+    <circle cx="420" cy="10" r="3" fill="#ffe098"/>
+    <circle cx="420" cy="10" r="1.5" fill="#fff8d0"/>
+    <circle cx="540" cy="10" r="3" fill="#ffe098"/>
+    <circle cx="540" cy="10" r="1.5" fill="#fff8d0"/>
+
+    <!-- Decorative ceiling molding -->
+    <rect x="0" y="24" width="620" height="2" fill="#6a0c18"/>
+    <rect x="0" y="28" width="620" height="1" fill="#8a1020"/>
+
+    <!-- Screen proscenium (large center) -->
+    <rect x="150" y="36" width="320" height="80" fill="#1a1818" rx="2"/>
+    <rect x="156" y="42" width="308" height="68" fill="#2a2828"/>
+
+    <!-- Movie scene on screen -->
+    <!-- Sky -->
+    <rect x="156" y="42" width="308" height="34" fill="#3a4868"/>
+    <!-- Horizon / ground -->
+    <rect x="156" y="76" width="308" height="34" fill="#58382a"/>
+    <!-- Silhouette mountains -->
+    <path d="M 156 76 L 200 52 L 240 68 L 290 46 L 330 66 L 380 54 L 420 70 L 450 56 L 464 64 L 464 76 Z" fill="#20283a"/>
+    <!-- Sun/moon -->
+    <circle cx="380" cy="58" r="6" fill="#f8d868"/>
+    <!-- Figure silhouette -->
+    <rect x="304" y="64" width="6" height="20" fill="#10141c"/>
+    <circle cx="307" cy="62" r="3" fill="#10141c"/>
+    <!-- Horse silhouette -->
+    <rect x="316" y="72" width="16" height="8" fill="#10141c"/>
+    <rect x="330" y="68" width="4" height="6" fill="#10141c"/>
+    <rect x="317" y="80" width="2" height="6" fill="#10141c"/>
+    <rect x="321" y="80" width="2" height="6" fill="#10141c"/>
+    <rect x="326" y="80" width="2" height="6" fill="#10141c"/>
+    <rect x="329" y="80" width="2" height="6" fill="#10141c"/>
+    <!-- Title text bar -->
+    <rect x="236" y="94" width="148" height="8" fill="#d8c048"/>
+    <rect x="244" y="96" width="52" height="4" fill="#2a1a18"/>
+    <rect x="300" y="96" width="38" height="4" fill="#2a1a18"/>
+    <rect x="342" y="96" width="36" height="4" fill="#2a1a18"/>
+
+    <!-- Red velvet curtains on sides of screen -->
+    <path d="M 124 30 L 150 30 L 150 116 Q 138 110 124 116 Z" fill="#8a1020"/>
+    <rect x="124" y="30" width="3" height="86" fill="#a82028"/>
+    <rect x="130" y="30" width="3" height="86" fill="#6a0c18"/>
+    <rect x="136" y="30" width="3" height="86" fill="#a82028"/>
+    <rect x="142" y="30" width="3" height="86" fill="#6a0c18"/>
+
+    <path d="M 470 30 L 496 30 L 496 116 Q 482 110 470 116 Z" fill="#8a1020"/>
+    <rect x="472" y="30" width="3" height="86" fill="#a82028"/>
+    <rect x="478" y="30" width="3" height="86" fill="#6a0c18"/>
+    <rect x="484" y="30" width="3" height="86" fill="#a82028"/>
+    <rect x="490" y="30" width="3" height="86" fill="#6a0c18"/>
+
+    <!-- Curtain rod/valance across top -->
+    <rect x="122" y="28" width="376" height="6" fill="#6a0c18"/>
+    <rect x="122" y="26" width="376" height="2" fill="#8a1020"/>
+    <!-- Valance scallops -->
+    <path d="M 122 34 Q 138 42 154 34 Q 170 42 186 34 Q 202 42 218 34 Q 234 42 250 34 Q 266 42 282 34 Q 298 42 314 34 Q 330 42 346 34 Q 362 42 378 34 Q 394 42 410 34 Q 426 42 442 34 Q 458 42 474 34 Q 490 42 498 34 L 498 28 L 122 28 Z" fill="#6a0c18"/>
+
+    <!-- Sconce wall lights (left) -->
+    <rect x="54" y="56" width="6" height="3" fill="#a89048"/>
+    <path d="M 48 59 L 66 59 L 63 72 L 51 72 Z" fill="#e0c868"/>
+    <circle cx="57" cy="66" r="3" fill="#ffe098"/>
+    <!-- Soft glow -->
+    <circle cx="57" cy="66" r="10" fill="#ffe098" opacity="0.15"/>
+
+    <rect x="54" y="96" width="6" height="3" fill="#a89048"/>
+    <path d="M 48 99 L 66 99 L 63 112 L 51 112 Z" fill="#e0c868"/>
+    <circle cx="57" cy="106" r="3" fill="#ffe098"/>
+    <circle cx="57" cy="106" r="10" fill="#ffe098" opacity="0.15"/>
+
+    <!-- Sconce wall lights (right) -->
+    <rect x="560" y="56" width="6" height="3" fill="#a89048"/>
+    <path d="M 554 59 L 572 59 L 569 72 L 557 72 Z" fill="#e0c868"/>
+    <circle cx="563" cy="66" r="3" fill="#ffe098"/>
+    <circle cx="563" cy="66" r="10" fill="#ffe098" opacity="0.15"/>
+
+    <rect x="560" y="96" width="6" height="3" fill="#a89048"/>
+    <path d="M 554 99 L 572 99 L 569 112 L 557 112 Z" fill="#e0c868"/>
+    <circle cx="563" cy="106" r="3" fill="#ffe098"/>
+    <circle cx="563" cy="106" r="10" fill="#ffe098" opacity="0.15"/>
+
+    <!-- Exit signs -->
+    <rect x="18" y="118" width="18" height="8" fill="#40100c"/>
+    <rect x="20" y="120" width="14" height="4" fill="#e04028"/>
+    <rect x="584" y="118" width="18" height="8" fill="#40100c"/>
+    <rect x="586" y="120" width="14" height="4" fill="#e04028"/>
+
+    <!-- Audience rows of seats (tiered) -->
+    <!-- Back row tier (far edges) -->
+    <g>
+      <rect x="24" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="40" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="56" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="72" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="88" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <circle cx="31" cy="124" r="3.5" fill="#a87858"/>
+      <circle cx="47" cy="124" r="3.5" fill="#d8b090"/>
+      <circle cx="63" cy="124" r="3.5" fill="#8a6848"/>
+      <circle cx="79" cy="124" r="3.5" fill="#c89878"/>
+      <circle cx="95" cy="124" r="3.5" fill="#e0b898"/>
+    </g>
+
+    <!-- Middle seating (front) -->
+    <g>
+      <rect x="112" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="128" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="144" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="160" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="176" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="192" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="208" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="224" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <circle cx="119" cy="132" r="3.5" fill="#c89878"/>
+      <circle cx="135" cy="132" r="3.5" fill="#e0b898"/>
+      <circle cx="151" cy="132" r="3.5" fill="#8a6848"/>
+      <circle cx="167" cy="132" r="3.5" fill="#d8b090"/>
+      <circle cx="183" cy="132" r="3.5" fill="#a87858"/>
+      <circle cx="199" cy="132" r="3.5" fill="#c89878"/>
+      <circle cx="215" cy="132" r="3.5" fill="#8a6848"/>
+      <circle cx="231" cy="132" r="3.5" fill="#e0b898"/>
+    </g>
+
+    <g>
+      <rect x="252" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="268" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="284" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="300" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="316" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="332" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="348" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <circle cx="259" cy="132" r="3.5" fill="#d8b090"/>
+      <circle cx="275" cy="132" r="3.5" fill="#8a6848"/>
+      <circle cx="291" cy="132" r="3.5" fill="#e0b898"/>
+      <circle cx="307" cy="132" r="3.5" fill="#c89878"/>
+      <circle cx="323" cy="132" r="3.5" fill="#a87858"/>
+      <circle cx="339" cy="132" r="3.5" fill="#d8b090"/>
+      <circle cx="355" cy="132" r="3.5" fill="#8a6848"/>
+    </g>
+
+    <g>
+      <rect x="376" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="392" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="408" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="424" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="440" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="456" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="472" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <rect x="488" y="132" width="14" height="18" fill="#8a2030" rx="2"/>
+      <circle cx="383" cy="132" r="3.5" fill="#8a6848"/>
+      <circle cx="399" cy="132" r="3.5" fill="#c89878"/>
+      <circle cx="415" cy="132" r="3.5" fill="#d8b090"/>
+      <circle cx="431" cy="132" r="3.5" fill="#e0b898"/>
+      <circle cx="447" cy="132" r="3.5" fill="#a87858"/>
+      <circle cx="463" cy="132" r="3.5" fill="#c89878"/>
+      <circle cx="479" cy="132" r="3.5" fill="#8a6848"/>
+      <circle cx="495" cy="132" r="3.5" fill="#d8b090"/>
+    </g>
+
+    <g>
+      <rect x="516" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="532" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="548" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="564" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <rect x="580" y="124" width="14" height="16" fill="#6a1828" rx="2"/>
+      <circle cx="523" cy="124" r="3.5" fill="#d8b090"/>
+      <circle cx="539" cy="124" r="3.5" fill="#8a6848"/>
+      <circle cx="555" cy="124" r="3.5" fill="#c89878"/>
+      <circle cx="571" cy="124" r="3.5" fill="#e0b898"/>
+      <circle cx="587" cy="124" r="3.5" fill="#a87858"/>
+    </g>
+
+    <!-- Projector beam from back -->
+    <path d="M 310 0 L 200 116 L 420 116 Z" fill="#f8f0b8" opacity="0.06"/>
+</g>
+</svg>

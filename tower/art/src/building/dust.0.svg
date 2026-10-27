@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- demolition dust over a cell; frame 0 of 3 -->
+  <circle cx="1.88" cy="9.37" r="0.92" fill="#b5aea6" opacity="0.9"/>
+  <circle cx="1.39" cy="8.91" r="1.23" fill="#a39b92" opacity="0.9"/>
+  <circle cx="0.96" cy="12.28" r="1.34" fill="#c8c2bb" opacity="0.9"/>
+  <circle cx="1.83" cy="14.04" r="1.35" fill="#b5aea6" opacity="0.9"/>
+  <circle cx="0.96" cy="10.67" r="1.21" fill="#a39b92" opacity="0.9"/>
+  <circle cx="1.89" cy="8.91" r="0.99" fill="#c8c2bb" opacity="0.9"/>
+  <circle cx="2.29" cy="13.58" r="1.38" fill="#b5aea6" opacity="0.9"/>
+</svg>

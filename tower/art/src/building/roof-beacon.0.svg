@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- aviation beacon; frame 0 of 2 -->
+  <rect x="0" y="12.8" width="4" height="3.2" fill="#6f7780"/>
+  <rect x="0" y="12.3" width="4" height="0.8" fill="#8f98a1"/>
+  <rect x="0" y="13.1" width="4" height="0.35" fill="#59606a"/>
+  <rect x="0" y="15.4" width="4" height="0.6" fill="#59606a"/>
+  <rect x="1.75" y="3.5" width="0.5" height="9" fill="#5a6168"/>
+  <polygon points="1.88,5.98 0.68,12.28 0.92,12.32 2.12,6.02" fill="#5a6168"/>
+  <polygon points="1.88,6.02 3.08,12.32 3.32,12.28 2.12,5.98" fill="#5a6168"/>
+  <circle cx="2" cy="3.2" r="0.85" fill="#c8402f"/>
+</svg>

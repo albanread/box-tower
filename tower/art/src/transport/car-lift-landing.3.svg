@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16">
+  <!-- units: 32x16 -->
+  <!-- car lift landing on a served basement floor, frame 3 (open); in front of the platform -->
+  <rect x="0" y="0" width="32" height="2.6" fill="#7c8288"/>
+  <rect x="0" y="2.2" width="32" height="0.4" fill="#5f656b"/>
+  <rect x="0" y="0" width="1.6" height="15" fill="#7c8288"/>
+  <rect x="30.4" y="0" width="1.6" height="15" fill="#7c8288"/>
+  <rect x="1.3" y="2.6" width="0.3" height="12.4" fill="#5f656b"/>
+  <rect x="30.4" y="2.6" width="0.3" height="12.4" fill="#5f656b"/>
+  <rect x="0" y="14.6" width="32" height="0.4" fill="#5f656b"/>
+  <circle cx="31.2" cy="8.5" r="0.35" fill="#ffb43c"/>
+  <rect x="14.5" y="0.8" width="3" height="0.9" rx="0.4" fill="#ffb43c"/>
+</svg>

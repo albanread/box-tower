@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 16" width="36" height="16">
+<!-- From tower-together apps/client/public/rooms/office2.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (9 cells x 1 floor) by one uniform scale of
+     upstream's 180x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Reception area -->
+
+    <!-- Back wall -->
+    <rect x="0" y="0" width="180" height="76" fill="#9aacbb"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="180" height="4" fill="#7a8c9c"/>
+
+    <!-- Floor -->
+    <rect x="0" y="76" width="180" height="4" fill="#8494a4" rx="1"/>
+
+    <!-- Ceiling lights -->
+    <rect x="40" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="44" y="3" width="8" height="2" fill="#ccdae4"/>
+    <rect x="124" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="128" y="3" width="8" height="2" fill="#ccdae4"/>
+
+    <!-- Company sign / logo on back wall -->
+    <rect x="102" y="10" width="58" height="18" fill="#3a4654" rx="2"/>
+    <rect x="104" y="12" width="54" height="14" fill="#556676" rx="1"/>
+    <!-- Logo letters as blocks -->
+    <rect x="110" y="16" width="4" height="6" fill="#dfe8f0"/>
+    <rect x="117" y="16" width="4" height="6" fill="#dfe8f0"/>
+    <rect x="124" y="16" width="4" height="6" fill="#dfe8f0"/>
+    <rect x="131" y="16" width="4" height="6" fill="#dfe8f0"/>
+    <rect x="138" y="16" width="4" height="6" fill="#dfe8f0"/>
+    <rect x="145" y="16" width="4" height="6" fill="#dfe8f0"/>
+    <rect x="152" y="16" width="4" height="6" fill="#dfe8f0"/>
+
+    <!-- Framed artwork on left wall area -->
+    <rect x="18" y="14" width="22" height="18" fill="#3a4654" rx="1"/>
+    <rect x="20" y="16" width="18" height="14" fill="#6a8ea8" rx="1"/>
+    <rect x="22" y="22" width="14" height="6" fill="#5a7a68"/>
+
+    <!-- Waiting-area sofa (left side) -->
+    <!-- Sofa base -->
+    <rect x="8" y="58" width="62" height="12" fill="#4a5c6c" rx="2"/>
+    <!-- Seat cushions -->
+    <rect x="12" y="56" width="16" height="6" fill="#5e7080" rx="2"/>
+    <rect x="30" y="56" width="16" height="6" fill="#5e7080" rx="2"/>
+    <rect x="48" y="56" width="16" height="6" fill="#5e7080" rx="2"/>
+    <!-- Arm rests -->
+    <rect x="8" y="52" width="4" height="10" fill="#405060" rx="1"/>
+    <rect x="66" y="52" width="4" height="10" fill="#405060" rx="1"/>
+    <!-- Back cushions -->
+    <rect x="12" y="44" width="16" height="12" fill="#506878" rx="2"/>
+    <rect x="30" y="44" width="16" height="12" fill="#506878" rx="2"/>
+    <rect x="48" y="44" width="16" height="12" fill="#506878" rx="2"/>
+    <!-- Sofa feet -->
+    <rect x="10" y="70" width="3" height="2" fill="#2e3a46"/>
+    <rect x="66" y="70" width="3" height="2" fill="#2e3a46"/>
+
+    <!-- Coffee table in front of sofa -->
+    <rect x="22" y="70" width="36" height="3" fill="#6e8090" rx="1"/>
+    <rect x="24" y="73" width="2" height="3" fill="#5e7080"/>
+    <rect x="54" y="73" width="2" height="3" fill="#5e7080"/>
+    <!-- Magazines on table -->
+    <rect x="28" y="67" width="10" height="3" fill="#7a6a5a" rx="1"/>
+    <rect x="42" y="67" width="10" height="3" fill="#8a6e6e" rx="1"/>
+
+    <!-- Reception counter (right side) -->
+    <!-- Counter front panel -->
+    <rect x="90" y="46" width="76" height="26" fill="#5a6e7e" rx="1"/>
+    <!-- Counter top -->
+    <rect x="88" y="42" width="80" height="5" fill="#8a9cac" rx="1"/>
+    <rect x="88" y="42" width="80" height="2" fill="#a0b2c0" rx="1"/>
+    <!-- Counter paneling -->
+    <rect x="94" y="50" width="14" height="18" fill="#6e8090" rx="1"/>
+    <rect x="112" y="50" width="14" height="18" fill="#6e8090" rx="1"/>
+    <rect x="130" y="50" width="14" height="18" fill="#6e8090" rx="1"/>
+    <rect x="148" y="50" width="14" height="18" fill="#6e8090" rx="1"/>
+    <!-- Monitor on counter -->
+    <rect x="130" y="32" width="16" height="10" fill="#4a5e6e" rx="1"/>
+    <rect x="131" y="33" width="14" height="8" fill="#6a8ea8" rx="1"/>
+    <!-- Phone on counter -->
+    <rect x="108" y="38" width="10" height="4" fill="#3a4654" rx="1"/>
+    <rect x="110" y="36" width="6" height="3" fill="#2a3440" rx="1"/>
+
+    <!-- Plant in corner -->
+    <rect x="172" y="54" width="4" height="18" fill="#5e7080"/>
+    <circle cx="174" cy="52" r="5" fill="#5a7a68"/>
+    <circle cx="170" cy="50" r="4" fill="#4e7060"/>
+    <circle cx="178" cy="51" r="3.5" fill="#5e8872"/>
+
+    <!-- Potted plant next to sofa -->
+    <rect x="75" y="62" width="5" height="10" fill="#5e7080"/>
+    <circle cx="77.5" cy="60" r="4" fill="#5a7a68"/>
+    <circle cx="75" cy="58" r="3" fill="#4e7060"/>
+</g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+  <!-- units: 10x10 -->
+  <!-- pickup headlamps by night -->
+  <rect x="0.9" y="5.9" width="1.6" height="0.9" rx="0.3" fill="#fff4cf"/>
+  <rect x="7.5" y="5.9" width="1.6" height="0.9" rx="0.3" fill="#fff4cf"/>
+</svg>

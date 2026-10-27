@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- rock, variant a; strata at y=5.2 and y=11.6 run on across variants -->
+  <rect x="0" y="0" width="4" height="16" fill="#5b5753"/>
+  <rect x="0" y="5.2" width="4" height="0.5" fill="#4f4b47"/>
+  <rect x="0" y="11.6" width="4" height="0.4" fill="#66625d"/>
+  <ellipse cx="2.49" cy="13.47" rx="0.91" ry="0.69" fill="#4a4743"/>
+  <ellipse cx="2.34" cy="13.27" rx="0.77" ry="0.55" fill="#625e58"/>
+  <circle cx="1.96" cy="9.63" r="0.3" fill="#4a4743"/>
+</svg>

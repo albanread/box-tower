@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 7">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 24x7 -->
+  <!-- sign hotel (fr): HÔTEL -->
+  <rect x="0.35" y="0.45" width="23.6" height="6.5" fill="#000000" rx="0.5" opacity="0.16"/>
+  <rect x="0" y="0" width="23.6" height="6.5" fill="#2a2a30" rx="0.5"/>
+  <rect x="0.5" y="0.5" width="22.6" height="5.5" fill="#3a1a24" rx="0.1"/>
+  <path d="M3.826 2.183L3.826 5.384M6.05 2.183L6.05 5.384M3.826 3.783L6.05 3.783M7.41 3.409C7.41 2.732 7.96 2.183 8.637 2.183L8.637 2.183C9.315 2.183 9.864 2.732 9.864 3.409L9.864 4.157C9.864 4.835 9.315 5.384 8.637 5.384L8.637 5.384C7.96 5.384 7.41 4.835 7.41 4.157ZM7.986 1.734L8.637 1.222L9.289 1.734M10.995 2.183L13.295 2.183M12.145 2.183L12.145 5.384M16.573 2.183L14.656 2.183L14.656 5.384L16.573 5.384M14.656 3.783L16.266 3.783M17.934 2.183L17.934 5.384L19.774 5.384" fill="none" stroke="#ecc070" stroke-width="0.633" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

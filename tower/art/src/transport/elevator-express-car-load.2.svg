@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 13" width="20" height="13">
+  <!-- units: 20x13 -->
+  <!-- car interior, about half full; the back layer of the car -->
+  <rect x="0" y="0" width="20" height="13" fill="#dce6f2"/>
+  <rect x="0" y="2.4" width="20" height="6" fill="#c8d6ea"/>
+  <rect x="0" y="7.4" width="20" height="0.35" fill="#2f5590"/>
+  <rect x="1.6" y="1.4" width="16.8" height="0.4" fill="#fff1c8"/>
+  <rect x="0" y="11.4" width="20" height="0.6" fill="#40506a"/>
+  <rect x="2.05" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="2.95" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="1.7" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#4a5f7c"/>
+  <circle cx="2.8" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="5.65" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="6.55" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="5.3" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#6e5a78"/>
+  <circle cx="6.4" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="9.25" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="10.15" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="8.9" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#3f6e6a"/>
+  <circle cx="10" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="12.85" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="13.75" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="12.5" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#7a6b52"/>
+  <circle cx="13.6" cy="3.9" r="0.95" fill="#c7a27c"/>
+  <rect x="16.45" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="17.35" y="8.25" width="0.6" height="3.6" fill="#3a3a3e"/>
+  <rect x="16.1" y="4.65" width="2.2" height="3.9" rx="0.6" fill="#4a5f7c"/>
+  <circle cx="17.2" cy="3.9" r="0.95" fill="#c7a27c"/>
+</svg>

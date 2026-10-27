@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 13" width="36" height="13">
+  <!-- units: 36x13 -->
+  <!-- fire-pumper beacons facing left, frame 2 of 4; drawn over the body -->
+  <g transform="translate(36,0) scale(-1,1)">
+  <rect x="30.5" y="0.8" width="1.9" height="0.8" rx="0.25" fill="#ff3a2e"/>
+  <rect x="1" y="1" width="1" height="0.9" rx="0.25" fill="#ff3a2e"/>
+  </g>
+</svg>

@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 16" width="104" height="16">
+<!-- From tower-together apps/client/public/rooms/medical.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (26 cells x 1 floor) by one uniform scale of
+     upstream's 520x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Back wall - clean clinical mint -->
+    <rect x="0" y="0" width="520" height="76" fill="#c8dcd0"/>
+
+    <!-- Horizontal wall stripe -->
+    <rect x="0" y="34" width="520" height="2" fill="#98b4a8"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="520" height="4" fill="#88a498"/>
+
+    <!-- Floor - polished vinyl -->
+    <rect x="0" y="76" width="520" height="4" fill="#a8c0b4"/>
+
+    <!-- Fluorescent ceiling lights -->
+    <rect x="40" y="0" width="28" height="4" fill="#eaf0e8"/>
+    <rect x="42" y="4" width="24" height="2" fill="#c8d0c4"/>
+    <rect x="160" y="0" width="28" height="4" fill="#eaf0e8"/>
+    <rect x="162" y="4" width="24" height="2" fill="#c8d0c4"/>
+    <rect x="280" y="0" width="28" height="4" fill="#eaf0e8"/>
+    <rect x="282" y="4" width="24" height="2" fill="#c8d0c4"/>
+    <rect x="400" y="0" width="28" height="4" fill="#eaf0e8"/>
+    <rect x="402" y="4" width="24" height="2" fill="#c8d0c4"/>
+
+    <!-- Reception desk (left) -->
+    <rect x="8" y="50" width="56" height="22" fill="#a86048" rx="1"/>
+    <rect x="8" y="48" width="56" height="4" fill="#d8e8dc"/>
+    <rect x="10" y="54" width="24" height="14" fill="#884830" rx="1"/>
+    <rect x="38" y="54" width="24" height="14" fill="#884830" rx="1"/>
+    <!-- Monitor on desk -->
+    <rect x="16" y="38" width="16" height="12" fill="#404848" rx="1"/>
+    <rect x="17" y="39" width="14" height="9" fill="#60a080" rx="1"/>
+    <!-- Phone -->
+    <rect x="42" y="44" width="12" height="6" fill="#d8d0c8" rx="1"/>
+    <rect x="44" y="42" width="8" height="3" fill="#b8b0a8" rx="1"/>
+
+    <!-- Medical cross sign above reception -->
+    <rect x="20" y="10" width="32" height="20" fill="#d0d8d0" rx="2"/>
+    <rect x="28" y="14" width="16" height="12" fill="#e8ecea"/>
+    <rect x="34" y="14" width="4" height="12" fill="#d04040"/>
+    <rect x="28" y="18" width="16" height="4" fill="#d04040"/>
+
+    <!-- Waiting bench -->
+    <rect x="76" y="56" width="56" height="10" fill="#6a7880" rx="2"/>
+    <rect x="76" y="52" width="56" height="6" fill="#8090a0" rx="2"/>
+    <rect x="78" y="66" width="3" height="6" fill="#484848"/>
+    <rect x="127" y="66" width="3" height="6" fill="#484848"/>
+
+    <!-- Poster on wall above bench -->
+    <rect x="84" y="14" width="22" height="16" fill="#e8e8d8" rx="1"/>
+    <rect x="86" y="16" width="18" height="6" fill="#80a8d0"/>
+    <rect x="86" y="23" width="12" height="1" fill="#303030"/>
+    <rect x="86" y="25" width="14" height="1" fill="#303030"/>
+    <rect x="86" y="27" width="10" height="1" fill="#303030"/>
+
+    <!-- Hospital curtain divider -->
+    <rect x="140" y="32" width="2" height="40" fill="#808078"/>
+    <rect x="142" y="32" width="2" height="40" fill="#c8a8d0"/>
+    <rect x="144" y="32" width="2" height="40" fill="#a888b0"/>
+    <rect x="146" y="32" width="2" height="40" fill="#c8a8d0"/>
+    <rect x="148" y="32" width="2" height="40" fill="#a888b0"/>
+
+    <!-- Patient bed 1 -->
+    <rect x="156" y="54" width="70" height="16" fill="#e8e8e0" rx="2"/>
+    <rect x="156" y="50" width="70" height="6" fill="#c0c0b8" rx="2"/>
+    <!-- Pillow -->
+    <rect x="160" y="52" width="18" height="8" fill="#f8f8f0" rx="2"/>
+    <!-- Sheet -->
+    <rect x="180" y="58" width="44" height="10" fill="#a8c0d8" rx="1"/>
+    <!-- Headboard -->
+    <rect x="156" y="38" width="4" height="20" fill="#888078"/>
+    <rect x="222" y="38" width="4" height="20" fill="#888078"/>
+    <!-- Wheels -->
+    <circle cx="162" cy="72" r="2" fill="#404040"/>
+    <circle cx="222" cy="72" r="2" fill="#404040"/>
+    <!-- IV stand -->
+    <rect x="229" y="36" width="2" height="34" fill="#a8a8a0"/>
+    <rect x="227" y="36" width="6" height="2" fill="#808078"/>
+    <rect x="225" y="42" width="10" height="10" fill="#d8e8f0" rx="1"/>
+    <rect x="228" y="44" width="4" height="6" fill="#d04040"/>
+    <rect x="229" y="52" width="2" height="8" fill="#808078"/>
+
+    <!-- Monitor on stand next to bed -->
+    <rect x="238" y="40" width="16" height="14" fill="#484048" rx="1"/>
+    <rect x="239" y="41" width="14" height="10" fill="#202830"/>
+    <path d="M 240 47 L 242 47 L 243 44 L 244 49 L 245 47 L 252 47" stroke="#30d080" stroke-width="1" fill="none"/>
+    <rect x="244" y="54" width="4" height="14" fill="#484048"/>
+    <rect x="240" y="68" width="12" height="4" fill="#484048" rx="1"/>
+
+    <!-- Curtain divider 2 -->
+    <rect x="266" y="32" width="2" height="40" fill="#808078"/>
+    <rect x="268" y="32" width="2" height="40" fill="#c8a8d0"/>
+    <rect x="270" y="32" width="2" height="40" fill="#a888b0"/>
+    <rect x="272" y="32" width="2" height="40" fill="#c8a8d0"/>
+    <rect x="274" y="32" width="2" height="40" fill="#a888b0"/>
+
+    <!-- Patient bed 2 -->
+    <rect x="282" y="54" width="70" height="16" fill="#e8e8e0" rx="2"/>
+    <rect x="282" y="50" width="70" height="6" fill="#c0c0b8" rx="2"/>
+    <rect x="286" y="52" width="18" height="8" fill="#f8f8f0" rx="2"/>
+    <rect x="306" y="58" width="44" height="10" fill="#c8b0a0" rx="1"/>
+    <rect x="282" y="38" width="4" height="20" fill="#888078"/>
+    <rect x="348" y="38" width="4" height="20" fill="#888078"/>
+    <circle cx="288" cy="72" r="2" fill="#404040"/>
+    <circle cx="348" cy="72" r="2" fill="#404040"/>
+
+    <!-- Cabinet with supplies -->
+    <rect x="360" y="40" width="30" height="32" fill="#e0e0d8" rx="1"/>
+    <rect x="362" y="42" width="26" height="8" fill="#f0f0e8"/>
+    <rect x="362" y="52" width="26" height="8" fill="#f0f0e8"/>
+    <rect x="362" y="62" width="26" height="8" fill="#f0f0e8"/>
+    <!-- Bottles on shelf -->
+    <rect x="364" y="44" width="3" height="5" fill="#d04040"/>
+    <rect x="369" y="44" width="3" height="5" fill="#4080c0"/>
+    <rect x="374" y="44" width="3" height="5" fill="#60a040"/>
+    <rect x="379" y="44" width="3" height="5" fill="#d04040"/>
+    <rect x="364" y="54" width="4" height="5" fill="#f0d8a8"/>
+    <rect x="370" y="54" width="4" height="5" fill="#f0d8a8"/>
+    <rect x="376" y="54" width="4" height="5" fill="#f0d8a8"/>
+    <!-- Drawer handles -->
+    <rect x="372" y="65" width="6" height="2" fill="#888078"/>
+
+    <!-- Doctor / scale / equipment area -->
+    <!-- X-ray light box on wall -->
+    <rect x="400" y="14" width="32" height="22" fill="#c8d0c8" rx="1"/>
+    <rect x="402" y="16" width="28" height="18" fill="#e8ecea"/>
+    <!-- X-ray of ribs -->
+    <path d="M 408 20 Q 416 18 424 20 M 408 24 Q 416 22 424 24 M 408 28 Q 416 26 424 28" stroke="#404858" stroke-width="1" fill="none"/>
+    <rect x="414" y="18" width="4" height="14" fill="#606870" opacity="0.5"/>
+
+    <!-- Weighing scale -->
+    <rect x="402" y="58" width="20" height="14" fill="#7a8878" rx="1"/>
+    <rect x="404" y="56" width="16" height="4" fill="#8a9888" rx="1"/>
+    <rect x="408" y="50" width="8" height="8" fill="#303840" rx="1"/>
+    <rect x="409" y="51" width="6" height="5" fill="#60a080"/>
+
+    <!-- Rolling stool -->
+    <circle cx="436" cy="62" r="4" fill="#404848"/>
+    <rect x="435" y="62" width="2" height="8" fill="#808078"/>
+    <rect x="432" y="70" width="8" height="2" fill="#606060"/>
+
+    <!-- Eye chart -->
+    <rect x="448" y="14" width="20" height="26" fill="#f8f8f0" rx="1"/>
+    <rect x="452" y="16" width="12" height="4" fill="#202020"/>
+    <rect x="453" y="22" width="10" height="2" fill="#303030"/>
+    <rect x="454" y="26" width="8" height="2" fill="#303030"/>
+    <rect x="455" y="30" width="6" height="1" fill="#404040"/>
+    <rect x="456" y="33" width="4" height="1" fill="#404040"/>
+    <rect x="456" y="36" width="4" height="1" fill="#404040"/>
+
+    <!-- Water dispenser -->
+    <rect x="476" y="44" width="14" height="28" fill="#c0c0b8" rx="1"/>
+    <rect x="478" y="40" width="10" height="8" fill="#a8d0d8" rx="2"/>
+    <rect x="480" y="58" width="4" height="3" fill="#4080c0" rx="1"/>
+    <rect x="484" y="58" width="4" height="3" fill="#d04040" rx="1"/>
+
+    <!-- Plant -->
+    <rect x="500" y="56" width="4" height="16" fill="#8a6a40"/>
+    <circle cx="502" cy="54" r="5" fill="#4a8a58"/>
+    <circle cx="498" cy="52" r="4" fill="#388048"/>
+    <circle cx="506" cy="53" r="3.5" fill="#58a068"/>
+</g>
+</svg>

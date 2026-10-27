@@ -1,0 +1,16 @@
+[package]
+name = "tower-sim"
+version = "0.1.0"
+edition = "2021"
+description = "tower-together's tower simulation (a clean-room reimplementation of the 1994 game), translated from TypeScript"
+license = "MIT"
+publish = false
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+indexmap = { version = "2", features = ["serde"] }
+
+[profile.release]
+opt-level = 3
+debug = 1

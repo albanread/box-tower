@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+<!-- From tower-together apps/client/public/rooms/hotelSingle1.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (4 cells x 1 floor) by one uniform scale of
+     upstream's 320x320 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.05)">
+  <rect x="0" y="0" width="320" height="275" fill="#c47788"/>
+  <rect x="0" y="275" width="320" height="10" fill="#9a4f60"/>
+  <rect x="0" y="285" width="320" height="35" fill="#a86878"/>
+  <rect x="60" y="0" width="3" height="22" fill="#634040"/>
+  <polygon points="49,22 74,22 67,32 56,32" fill="#f4e078"/>
+  <rect x="56" y="32" width="11" height="2" fill="#d4b850" rx="1"/>
+  <rect x="220" y="0" width="3" height="22" fill="#634040"/>
+  <polygon points="209,22 234,22 227,32 216,32" fill="#f4e078"/>
+  <rect x="216" y="32" width="11" height="2" fill="#d4b850" rx="1"/>
+  <rect x="20" y="50" width="92" height="48" fill="#7a3a4a" rx="3"/>
+  <rect x="24" y="54" width="84" height="40" fill="#1a1410" rx="2"/>
+  <rect x="30" y="60" width="34" height="6" fill="#e8e8e8" rx="1"/>
+  <rect x="68" y="60" width="34" height="6" fill="#e8e8e8" rx="1"/>
+  <rect x="30" y="70" width="34" height="6" fill="#aabbcc" rx="1"/>
+  <rect x="68" y="70" width="34" height="6" fill="#aabbcc" rx="1"/>
+  <rect x="30" y="80" width="34" height="6" fill="#aabbcc" rx="1"/>
+  <rect x="68" y="80" width="34" height="6" fill="#aabbcc" rx="1"/>
+  <circle cx="170" cy="68" r="22" fill="#f0d4da"/>
+  <circle cx="170" cy="68" r="20" fill="#f8e5e9"/>
+  <circle cx="170" cy="68" r="2" fill="#3a2a2e"/>
+  <line x1="170" y1="68" x2="170" y2="52" stroke="#3a2a2e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="170" y1="68" x2="184" y2="68" stroke="#3a2a2e" stroke-width="2" stroke-linecap="round"/>
+  <rect x="220" y="40" width="80" height="60" fill="#8a4b5a" rx="4"/>
+  <rect x="226" y="46" width="68" height="48" fill="#f0d4da" rx="2"/>
+  <rect x="232" y="52" width="56" height="3" fill="#bf6f80" rx="1"/>
+  <rect x="232" y="58" width="40" height="3" fill="#d9a1ae" rx="1"/>
+  <rect x="232" y="64" width="48" height="3" fill="#d9a1ae" rx="1"/>
+  <rect x="232" y="70" width="36" height="3" fill="#d9a1ae" rx="1"/>
+  <rect x="232" y="78" width="56" height="14" fill="#bf6f80" rx="1"/>
+  <rect x="22" y="160" width="50" height="120" fill="#7a4252" rx="3"/>
+  <rect x="22" y="160" width="50" height="20" fill="#5a3040" rx="3"/>
+  <rect x="22" y="200" width="50" height="6" fill="#5a3040"/>
+  <rect x="22" y="240" width="50" height="6" fill="#5a3040"/>
+  <rect x="65" y="190" width="4" height="4" fill="#d4b860"/>
+  <rect x="65" y="220" width="4" height="4" fill="#d4b860"/>
+  <rect x="65" y="260" width="4" height="4" fill="#d4b860"/>
+  <rect x="80" y="240" width="170" height="50" fill="#c8a878" rx="3"/>
+  <rect x="80" y="232" width="170" height="10" fill="#a08660"/>
+  <rect x="84" y="244" width="80" height="42" fill="#f8eddc" rx="2"/>
+  <rect x="86" y="246" width="76" height="6" fill="#d9c4a4"/>
+  <rect x="172" y="244" width="74" height="42" fill="#f8eddc" rx="2"/>
+  <rect x="174" y="246" width="70" height="6" fill="#d9c4a4"/>
+  <circle cx="124" cy="265" r="4" fill="#a08660"/>
+  <circle cx="208" cy="265" r="4" fill="#a08660"/>
+  <rect x="78" y="290" width="174" height="3" fill="#7a5a3a"/>
+  <rect x="220" y="195" width="40" height="80" fill="#634540" rx="2"/>
+  <rect x="222" y="197" width="36" height="50" fill="#e8d4a8"/>
+  <rect x="222" y="247" width="36" height="2" fill="#7a5a3a"/>
+  <rect x="222" y="249" width="36" height="22" fill="#9a7a5a"/>
+  <rect x="226" y="253" width="6" height="6" fill="#7a5a3a" rx="1"/>
+  <rect x="248" y="253" width="6" height="6" fill="#7a5a3a" rx="1"/>
+  <rect x="226" y="263" width="6" height="6" fill="#7a5a3a" rx="1"/>
+  <rect x="248" y="263" width="6" height="6" fill="#7a5a3a" rx="1"/>
+  <rect x="278" y="245" width="32" height="46" fill="#9a5a6a" rx="2"/>
+  <rect x="282" y="251" width="24" height="14" fill="#c8d5e0" rx="1"/>
+  <rect x="282" y="269" width="24" height="14" fill="#c8d5e0" rx="1"/>
+  <polygon points="294,210 286,242 302,242" fill="#3a7048"/>
+  <polygon points="294,222 282,247 306,247" fill="#4a8858"/>
+  <rect x="290" y="245" width="8" height="6" fill="#7a5a3a"/>
+  <rect x="276" y="60" width="34" height="34" fill="#bf6f80" rx="2"/>
+  <rect x="278" y="62" width="30" height="30" fill="#f3c3cf" rx="1"/>
+  <rect x="284" y="68" width="18" height="18" fill="#d9a1ae" rx="1"/>
+  <rect x="288" y="70" width="10" height="14" fill="#bf6f80"/>
+</g>
+</svg>

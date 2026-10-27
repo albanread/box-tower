@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 10" width="24" height="10">
+  <!-- units: 24x10 -->
+  <!-- police beacon glow, frame 2 of 4 -->
+  <g transform="translate(24,0) scale(-1,1)">
+  <rect x="12.1" y="1" width="2.8" height="1.5" rx="0.5" fill="#ff6a5a"/>
+  <rect x="11.2" y="0.3" width="4.6" height="2.9" rx="1" fill="#ff6a5a" fill-opacity="0.35"/>
+  </g>
+</svg>

@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 80" width="112" height="80">
+<!-- Drawn for this port (no upstream file): the cathedral, 28 cells x 5 floors,
+     placed on the tower's roof (floors 103 down to 99). An exterior seen
+     against the sky, which shows through: a nave each side of a west tower
+     with a rose window, great door, belfry and spire; stained glass in flat
+     panes. Our own design, in the flat style and palette of the rooms.
+     Night layer: the glass lit from inside, door lanterns, the belfry and the cross. -->
+  <!-- Glass lit from inside, lanterns, a wash on the spire -->
+  <path d="M 8.5 67 V 51.125 A 6.75 6.75 0 0 1 12.25 45.5 A 6.75 6.75 0 0 1 16 51.125 V 67 Z" fill="none"/>
+  <path d="M 9 67 V 50.875 A 5.85 5.85 0 0 1 12.25 46 A 5.85 5.85 0 0 1 15.5 50.875 V 67 Z" fill="none"/>
+  <rect x="9.4" y="51.075" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="12.65" y="51.075" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="9.4" y="53.3786" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="12.65" y="53.3786" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="9.4" y="55.6821" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="12.65" y="55.6821" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="9.4" y="57.9857" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="12.65" y="57.9857" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="9.4" y="60.2893" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="12.65" y="60.2893" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="9.4" y="62.5929" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="12.65" y="62.5929" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="9.4" y="64.8964" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="12.65" y="64.8964" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <path d="M 9.6 51.675 V 50.775 A 4.77 4.77 0 0 1 12.25 46.8 A 4.77 4.77 0 0 1 14.9 50.775 V 51.675 Z" fill="#3a6ab0"/>
+  <path d="M 21 67 V 51.125 A 6.75 6.75 0 0 1 24.75 45.5 A 6.75 6.75 0 0 1 28.5 51.125 V 67 Z" fill="none"/>
+  <path d="M 21.5 67 V 50.875 A 5.85 5.85 0 0 1 24.75 46 A 5.85 5.85 0 0 1 28 50.875 V 67 Z" fill="none"/>
+  <rect x="21.9" y="51.075" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="25.15" y="51.075" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="21.9" y="53.3786" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="25.15" y="53.3786" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="21.9" y="55.6821" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="25.15" y="55.6821" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="21.9" y="57.9857" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="25.15" y="57.9857" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="21.9" y="60.2893" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="25.15" y="60.2893" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="21.9" y="62.5929" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="25.15" y="62.5929" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="21.9" y="64.8964" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="25.15" y="64.8964" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <path d="M 22.1 51.675 V 50.775 A 4.77 4.77 0 0 1 24.75 46.8 A 4.77 4.77 0 0 1 27.4 50.775 V 51.675 Z" fill="#c04050"/>
+  <path d="M 33.5 67 V 51.125 A 6.75 6.75 0 0 1 37.25 45.5 A 6.75 6.75 0 0 1 41 51.125 V 67 Z" fill="none"/>
+  <path d="M 34 67 V 50.875 A 5.85 5.85 0 0 1 37.25 46 A 5.85 5.85 0 0 1 40.5 50.875 V 67 Z" fill="none"/>
+  <rect x="34.4" y="51.075" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="37.65" y="51.075" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="34.4" y="53.3786" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="37.65" y="53.3786" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="34.4" y="55.6821" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="37.65" y="55.6821" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="34.4" y="57.9857" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="37.65" y="57.9857" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="34.4" y="60.2893" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="37.65" y="60.2893" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="34.4" y="62.5929" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="37.65" y="62.5929" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="34.4" y="64.8964" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="37.65" y="64.8964" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <path d="M 34.6 51.675 V 50.775 A 4.77 4.77 0 0 1 37.25 46.8 A 4.77 4.77 0 0 1 39.9 50.775 V 51.675 Z" fill="#e0b040"/>
+  <path d="M 71 67 V 51.125 A 6.75 6.75 0 0 1 74.75 45.5 A 6.75 6.75 0 0 1 78.5 51.125 V 67 Z" fill="none"/>
+  <path d="M 71.5 67 V 50.875 A 5.85 5.85 0 0 1 74.75 46 A 5.85 5.85 0 0 1 78 50.875 V 67 Z" fill="none"/>
+  <rect x="71.9" y="51.075" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="75.15" y="51.075" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="71.9" y="53.3786" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="75.15" y="53.3786" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="71.9" y="55.6821" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="75.15" y="55.6821" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="71.9" y="57.9857" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="75.15" y="57.9857" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="71.9" y="60.2893" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="75.15" y="60.2893" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="71.9" y="62.5929" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="75.15" y="62.5929" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="71.9" y="64.8964" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="75.15" y="64.8964" width="2.45" height="1.90357" fill="#c04050"/>
+  <path d="M 72.1 51.675 V 50.775 A 4.77 4.77 0 0 1 74.75 46.8 A 4.77 4.77 0 0 1 77.4 50.775 V 51.675 Z" fill="#3a9a6a"/>
+  <path d="M 83.5 67 V 51.125 A 6.75 6.75 0 0 1 87.25 45.5 A 6.75 6.75 0 0 1 91 51.125 V 67 Z" fill="none"/>
+  <path d="M 84 67 V 50.875 A 5.85 5.85 0 0 1 87.25 46 A 5.85 5.85 0 0 1 90.5 50.875 V 67 Z" fill="none"/>
+  <rect x="84.4" y="51.075" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="87.65" y="51.075" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="84.4" y="53.3786" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="87.65" y="53.3786" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="84.4" y="55.6821" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="87.65" y="55.6821" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="84.4" y="57.9857" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="87.65" y="57.9857" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="84.4" y="60.2893" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="87.65" y="60.2893" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="84.4" y="62.5929" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="87.65" y="62.5929" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="84.4" y="64.8964" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="87.65" y="64.8964" width="2.45" height="1.90357" fill="#e0b040"/>
+  <path d="M 84.6 51.675 V 50.775 A 4.77 4.77 0 0 1 87.25 46.8 A 4.77 4.77 0 0 1 89.9 50.775 V 51.675 Z" fill="#7a4aa0"/>
+  <path d="M 96 67 V 51.125 A 6.75 6.75 0 0 1 99.75 45.5 A 6.75 6.75 0 0 1 103.5 51.125 V 67 Z" fill="none"/>
+  <path d="M 96.5 67 V 50.875 A 5.85 5.85 0 0 1 99.75 46 A 5.85 5.85 0 0 1 103 50.875 V 67 Z" fill="none"/>
+  <rect x="96.9" y="51.075" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="100.15" y="51.075" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="96.9" y="53.3786" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="100.15" y="53.3786" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="96.9" y="55.6821" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="100.15" y="55.6821" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="96.9" y="57.9857" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="100.15" y="57.9857" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="96.9" y="60.2893" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <rect x="100.15" y="60.2893" width="2.45" height="1.90357" fill="#7a4aa0"/>
+  <rect x="96.9" y="62.5929" width="2.45" height="1.90357" fill="#3a6ab0"/>
+  <rect x="100.15" y="62.5929" width="2.45" height="1.90357" fill="#c04050"/>
+  <rect x="96.9" y="64.8964" width="2.45" height="1.90357" fill="#e0b040"/>
+  <rect x="100.15" y="64.8964" width="2.45" height="1.90357" fill="#3a9a6a"/>
+  <path d="M 97.1 51.675 V 50.775 A 4.77 4.77 0 0 1 99.75 46.8 A 4.77 4.77 0 0 1 102.4 50.775 V 51.675 Z" fill="#3a6ab0"/>
+  <circle cx="56" cy="45" r="7.2" fill="none"/>
+  <circle cx="56" cy="45" r="6.4" fill="none"/>
+  <polygon points="56,45 61.7496,45.3454 60.3098,48.8214" fill="#3a6ab0"/>
+  <polygon points="56,45 59.8214,49.3098 56.3454,50.7496" fill="#c04050"/>
+  <polygon points="56,45 55.6546,50.7496 52.1786,49.3098" fill="#e0b040"/>
+  <polygon points="56,45 51.6902,48.8214 50.2504,45.3454" fill="#3a9a6a"/>
+  <polygon points="56,45 50.2504,44.6546 51.6902,41.1786" fill="#7a4aa0"/>
+  <polygon points="56,45 52.1786,40.6902 55.6546,39.2504" fill="#3a6ab0"/>
+  <polygon points="56,45 56.3454,39.2504 59.8214,40.6902" fill="#c04050"/>
+  <polygon points="56,45 60.3098,41.1786 61.7496,44.6546" fill="#e0b040"/>
+  <circle cx="56" cy="45" r="1.92" fill="#d8b040"/>
+  <rect x="47.4" y="60.5" width="1" height="1.6" fill="#fff0b0" rx="0.2"/>
+  <circle cx="47.9" cy="61.3" r="3" fill="#ffd890" opacity="0.25"/>
+  <rect x="64.4" y="60.5" width="1" height="1.6" fill="#fff0b0" rx="0.2"/>
+  <circle cx="64.9" cy="61.3" r="3" fill="#ffd890" opacity="0.25"/>
+  <path opacity="0.22" d="M 50 73 V 65.5 A 10.8 10.8 0 0 1 56 56.5 A 10.8 10.8 0 0 1 62 65.5 V 73 Z" fill="#ffd890"/>
+  <path opacity="0.35" d="M 49 31 V 22 A 5.4 5.4 0 0 1 52 17.5 A 5.4 5.4 0 0 1 55 22 V 31 Z" fill="#ffd890"/>
+  <path opacity="0.35" d="M 57 31 V 22 A 5.4 5.4 0 0 1 60 17.5 A 5.4 5.4 0 0 1 63 22 V 31 Z" fill="#ffd890"/>
+  <path d="M 52 25 a 2 2 0 0 1 4 0 v 1 h -4 Z M 58 25 a 2 2 0 0 1 4 0 v 1 h -4 Z" fill="#ffe080"/>
+  <rect x="55.5" y="0" width="1" height="3.4" fill="#ffe080"/>
+  <rect x="54.4" y="0.8" width="3.2" height="0.8" fill="#ffe080"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 12" width="6" height="12">
+  <!-- units: 6x12 -->
+  <!-- medical-s kneeling by a patient, facing right -->
+  <g transform="translate(3 12) scale(0.9) translate(-3 -12)">
+  <polygon points="2.4,8.2 3.3,8.2 2.9,11.4 2,11.4" fill="#2e3440"/>
+  <rect x="0.3" y="11" width="2.6" height="0.8" rx="0.35" fill="#2e3440"/>
+  <rect x="0" y="11.3" width="0.8" height="0.6" rx="0.2" fill="#1f2226"/>
+  <rect x="2.6" y="7.8" width="2.6" height="0.85" rx="0.4" fill="#3b4250"/>
+  <rect x="4.4" y="8.2" width="0.8" height="3.5" rx="0.35" fill="#3b4250"/>
+  <rect x="4.3" y="11.5" width="1.4" height="0.5" rx="0.2" fill="#1f2226"/>
+  <g transform="translate(0.6 3.0) rotate(18 3 8)">
+  <rect x="2.1" y="4.5" width="1.8" height="3.9" rx="0.55" fill="#6f7782"/>
+  <rect x="3.6" y="4.6" width="0.35" height="3.8" fill="#d9dee2"/>
+  <polygon points="2.9,4.7 3.3,6.2 3.6,6.2 3.2,4.7" fill="#3a3f45"/>
+  <rect x="2.75" y="4" width="0.6" height="0.7" fill="#d9a87a"/>
+  <circle cx="2.85" cy="2.95" r="1.15" fill="#3a2a20"/>
+  <circle cx="3.25" cy="3.25" r="0.98" fill="#d9a87a"/>
+  <rect x="4.05" y="3.2" width="0.3" height="0.35" rx="0.1" fill="#d9a87a"/>
+  <polygon points="1.8,2.6 2,1.8 4.1,1.8 4.2,2.5" fill="#f4f6f7"/>
+  <rect x="2.85" y="1.85" width="0.3" height="0.7" fill="#c8302b"/>
+  <rect x="2.65" y="2.05" width="0.7" height="0.3" fill="#c8302b"/>
+  </g>
+  <polygon points="3.3,8.4 3.9,8.4 5.9,10.6 5.3,10.6" fill="#59606a"/>
+  <circle cx="5.6" cy="10.6" r="0.36" fill="#c4936a"/>
+  <polygon points="3.5,8.6 4.1,8.6 6.2,11 5.6,11" fill="#6f7782"/>
+  <circle cx="5.9" cy="11" r="0.36" fill="#d9a87a"/>
+  </g>
+</svg>

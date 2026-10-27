@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- units: 16x16 -->
+  <!-- landing door, frame 3 (open); drawn in front of the car -->
+  <rect x="0" y="0.3" width="16" height="1.5" fill="#aeb3b8"/>
+  <rect x="0" y="1.5" width="16" height="0.3" fill="#8c9298"/>
+  <rect x="0" y="0.3" width="1.2" height="14.7" fill="#aeb3b8"/>
+  <rect x="14.8" y="0.3" width="1.2" height="14.7" fill="#aeb3b8"/>
+  <rect x="0.9" y="1.8" width="0.3" height="13.2" fill="#8c9298"/>
+  <rect x="14.8" y="1.8" width="0.3" height="13.2" fill="#8c9298"/>
+  <rect x="0" y="14.65" width="16" height="0.35" fill="#8c9298"/>
+  <rect x="15.1" y="8" width="0.6" height="1.4" rx="0.2" fill="#8c9298"/>
+  <circle cx="15.4" cy="8.7" r="0.22" fill="#f4f1e6"/>
+  <rect x="7" y="0.65" width="2" height="0.7" rx="0.3" fill="#f4f1e6"/>
+</svg>

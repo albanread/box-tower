@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 32">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 4x2 -->
+  <circle cx="8" cy="22" r="7.65" fill="#ff8a3a" opacity="0.35"/>
+  <polygon points="11.55,22.29 9.31,22.64 9.94,24.4 8.19,23.21 6.86,24.71 6.93,22.88 4.64,22.98 6.48,21.88 4.95,20.51 7.17,20.97 7.56,19.17 8.49,20.84 10.49,19.96 9.44,21.58" fill="#ffe080"/>
+  <circle cx="8" cy="22" r="1.53" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- a cell the fire has gutted; stays until rebuilt -->
+  <rect x="0" y="0" width="4" height="15" fill="#2f2a27"/>
+  <rect x="0" y="0" width="4" height="1.4" fill="#1f1b19"/>
+  <polygon points="0,1.4 4,1.4 4,4.2 2.8,3 1.6,5 0,3.4" fill="#1f1b19"/>
+  <rect x="0.6" y="6" width="2.8" height="4.6" fill="#3d3633"/>
+  <polygon points="0.6,6 3.4,6 3.4,7.2 2.2,8.8 1.4,7 0.6,8.2" fill="#252120"/>
+  <rect x="0.6" y="6" width="0.25" height="4.6" fill="#4a4340"/>
+  <rect x="3.15" y="6" width="0.25" height="4.6" fill="#4a4340"/>
+  <polygon points="0,15 0,13.8 1.5,13.2 2.6,13.9 4,13.4 4,15" fill="#4a4441"/>
+  <circle cx="1.2" cy="14.2" r="0.35" fill="#6a2f22"/>
+  <circle cx="3.1" cy="14.3" r="0.3" fill="#6a2f22"/>
+  <rect x="0" y="15" width="4" height="1" fill="#575b60"/>
+  <rect x="0" y="15" width="4" height="0.3" fill="#72777d"/>
+  <rect x="0" y="15.75" width="4" height="0.25" fill="#45494d"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 6x1 -->
+  <!-- sign let (en): LET -->
+  <line x1="2.142" y1="0" x2="2.142" y2="9.315" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="19.499" y1="0" x2="19.499" y2="1.587" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <g transform="translate(12 7.8) rotate(-24)">
+  <rect x="-10.15" y="-2.45" width="21" height="5.8" fill="#000000" rx="0.4" opacity="0.16"/>
+  <rect x="-10.5" y="-2.9" width="21" height="5.8" fill="#265426" rx="0.4"/>
+  <rect x="-9.9" y="-2.3" width="19.8" height="4.6" fill="#4a8a4a" rx="0.1"/>
+  <path d="M-3.263 -1.309L-3.263 1.309L-2.055 1.309M0.478 -1.309L-0.78 -1.309L-0.78 1.309L0.478 1.309M-0.78 0L0.277 0M1.753 -1.309L3.263 -1.309M2.508 -1.309L2.508 1.309" fill="none" stroke="#f0f0e8" stroke-width="0.782" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

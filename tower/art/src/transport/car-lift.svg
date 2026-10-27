@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16">
+  <!-- units: 32x16 -->
+  <!-- car lift shaft, one floor; repeat for every floor of the run, the street floor included -->
+  <rect x="0" y="0" width="32" height="16" fill="#6b6760"/>
+  <rect x="0" y="0" width="2" height="16" fill="#4e4b46"/>
+  <rect x="30" y="0" width="2" height="16" fill="#4e4b46"/>
+  <rect x="2" y="4" width="28" height="0.25" fill="#5d5952"/>
+  <rect x="2" y="8" width="28" height="0.25" fill="#5d5952"/>
+  <rect x="2" y="12" width="28" height="0.25" fill="#5d5952"/>
+  <rect x="2" y="0" width="28" height="1.4" fill="#3b3a38"/>
+  <rect x="2" y="0" width="1.6" height="16" fill="#3b3a38"/>
+  <rect x="2.5" y="0" width="0.6" height="16" fill="#5d5952"/>
+  <rect x="28.4" y="0" width="1.6" height="16" fill="#3b3a38"/>
+  <rect x="28.9" y="0" width="0.6" height="16" fill="#5d5952"/>
+  <rect x="7.65" y="0" width="0.25" height="16" fill="#2a2928"/>
+  <rect x="8.1" y="0" width="0.25" height="16" fill="#2a2928"/>
+  <rect x="15.65" y="0" width="0.25" height="16" fill="#2a2928"/>
+  <rect x="16.1" y="0" width="0.25" height="16" fill="#2a2928"/>
+  <rect x="23.65" y="0" width="0.25" height="16" fill="#2a2928"/>
+  <rect x="24.1" y="0" width="0.25" height="16" fill="#2a2928"/>
+  <rect x="2" y="1.4" width="28" height="0.6" fill="#e8a33a"/>
+  <polygon points="1.4,2 2,1.4 3,1.4 2.4,2" fill="#2e2d2b"/>
+  <polygon points="3.4,2 4,1.4 5,1.4 4.4,2" fill="#2e2d2b"/>
+  <polygon points="5.4,2 6,1.4 7,1.4 6.4,2" fill="#2e2d2b"/>
+  <polygon points="7.4,2 8,1.4 9,1.4 8.4,2" fill="#2e2d2b"/>
+  <polygon points="9.4,2 10,1.4 11,1.4 10.4,2" fill="#2e2d2b"/>
+  <polygon points="11.4,2 12,1.4 13,1.4 12.4,2" fill="#2e2d2b"/>
+  <polygon points="13.4,2 14,1.4 15,1.4 14.4,2" fill="#2e2d2b"/>
+  <polygon points="15.4,2 16,1.4 17,1.4 16.4,2" fill="#2e2d2b"/>
+  <polygon points="17.4,2 18,1.4 19,1.4 18.4,2" fill="#2e2d2b"/>
+  <polygon points="19.4,2 20,1.4 21,1.4 20.4,2" fill="#2e2d2b"/>
+  <polygon points="21.4,2 22,1.4 23,1.4 22.4,2" fill="#2e2d2b"/>
+  <polygon points="23.4,2 24,1.4 25,1.4 24.4,2" fill="#2e2d2b"/>
+  <polygon points="25.4,2 26,1.4 27,1.4 26.4,2" fill="#2e2d2b"/>
+  <polygon points="27.4,2 28,1.4 29,1.4 28.4,2" fill="#2e2d2b"/>
+  <polygon points="29.4,2 30,1.4 31,1.4 30.4,2" fill="#2e2d2b"/>
+</svg>

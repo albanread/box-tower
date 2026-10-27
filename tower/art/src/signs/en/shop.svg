@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 20x9 -->
+  <!-- sign shop (en): SHOP -->
+  <rect x="0" y="0" width="20" height="0.7" fill="#5a5650" rx="0.2"/>
+  <polygon points="0,0.7 2,0.7 2,3.2 0,3.2" fill="#2a5090"/>
+  <polygon points="2,0.7 4,0.7 4,3.2 2,3.2" fill="#f0f0e8"/>
+  <polygon points="4,0.7 6,0.7 6,3.2 4,3.2" fill="#2a5090"/>
+  <polygon points="6,0.7 8,0.7 8,3.2 6,3.2" fill="#f0f0e8"/>
+  <polygon points="8,0.7 10,0.7 10,3.2 8,3.2" fill="#2a5090"/>
+  <polygon points="10,0.7 12,0.7 12,3.2 10,3.2" fill="#f0f0e8"/>
+  <polygon points="12,0.7 14,0.7 14,3.2 12,3.2" fill="#2a5090"/>
+  <polygon points="14,0.7 16,0.7 16,3.2 14,3.2" fill="#f0f0e8"/>
+  <polygon points="16,0.7 18,0.7 18,3.2 16,3.2" fill="#2a5090"/>
+  <polygon points="18,0.7 20,0.7 20,3.2 18,3.2" fill="#f0f0e8"/>
+  <rect x="0" y="2.7" width="20" height="0.5" fill="#000000" opacity="0.12"/>
+  <rect x="0" y="3.2" width="20" height="4.6" fill="#2a5090"/>
+  <path d="M0 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M2 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M4 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M6 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M8 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M10 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M12 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M14 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M16 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M18 7.8 a1 0.769 0 0 0 2 0 z" fill="#2a5090"/>
+  <path d="M6.756 4.268L6.045 4.268C5.705 4.268 5.429 4.544 5.429 4.884L5.429 4.884C5.429 5.224 5.705 5.5 6.045 5.5L6.14 5.5C6.48 5.5 6.756 5.776 6.756 6.116L6.756 6.116C6.756 6.456 6.48 6.732 6.14 6.732L5.429 6.732M7.956 4.268L7.956 6.732M9.329 4.268L9.329 6.732M7.956 5.5L9.329 5.5M10.529 5.026C10.529 4.607 10.868 4.268 11.287 4.268L11.287 4.268C11.705 4.268 12.044 4.607 12.044 5.026L12.044 5.974C12.044 6.393 11.705 6.732 11.287 6.732L11.287 6.732C10.868 6.732 10.529 6.393 10.529 5.974ZM13.244 6.732L13.244 4.268L13.905 4.268C14.273 4.268 14.571 4.566 14.571 4.933L14.571 4.933C14.571 5.301 14.273 5.599 13.905 5.599L13.244 5.599" fill="none" stroke="#f0f0e8" stroke-width="0.736" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

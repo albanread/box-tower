@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 4x1 -->
+  <!-- sign let (fr): LOUÉ -->
+  <line x1="8" y1="0.2" x2="2.7" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="8" y1="0.2" x2="13.3" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <circle cx="8" cy="0.4" r="0.45" fill="#4a4448"/>
+  <rect x="1.85" y="3.05" width="13" height="10.6" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="1.5" y="2.6" width="13" height="10.6" fill="#265426" rx="0.6"/>
+  <rect x="2.2" y="3.3" width="11.6" height="9.2" fill="#4a8a4a" rx="0.1"/>
+  <path d="M3.125 6.514L3.125 9.286L4.403 9.286M5.593 7.366C5.593 6.896 5.975 6.514 6.446 6.514L6.446 6.514C6.917 6.514 7.298 6.896 7.298 7.366L7.298 8.434C7.298 8.904 6.917 9.286 6.446 9.286L6.446 9.286C5.975 9.286 5.593 8.904 5.593 8.434ZM8.648 6.514L8.648 8.513C8.648 8.94 8.994 9.286 9.421 9.286L9.421 9.286C9.848 9.286 10.193 8.94 10.193 8.513L10.193 6.514M12.875 6.514L11.543 6.514L11.543 9.286L12.875 9.286M11.543 7.9L12.662 7.9M11.953 5.939L12.498 5.495" fill="none" stroke="#f0f0e8" stroke-width="0.828" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

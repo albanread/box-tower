@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 16" width="64" height="16">
+<!-- From tower-together apps/client/public/rooms/fastFood2.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (16 cells x 1 floor) by one uniform scale of
+     upstream's 320x80 drawing; preserveAspectRatio="none" removed.
+     Words removed: each lettered sign is now a text-free sign
+     (a pictogram of what is sold, or bars standing for lines of writing). -->
+<g transform="scale(0.2)">
+    <rect x="0" y="0" width="320" height="68" fill="#d4b890"/>
+    <rect x="0" y="68" width="320" height="4" fill="#5a3818"/>
+    <rect x="0" y="72" width="320" height="8" fill="#3a2818"/>
+    <rect x="0" y="0" width="320" height="20" fill="#a08068"/>
+    <line x1="0" y1="20" x2="320" y2="20" stroke="#5a3818" stroke-width="0.5"/>
+    <rect x="0" y="20" width="320" height="3" fill="#7a5028"/>
+    <rect x="40" y="4" width="68" height="14" fill="#3a2010" rx="1"/>
+    <rect x="42" y="6" width="64" height="10" fill="#1a1008" rx="0.5"/>
+    <!-- sign without words --><rect x="54.8" y="8.9" width="6.4" height="5.6" fill="#e8c478" rx="0.96"/><circle cx="61.2" cy="11.3" r="1.36" fill="none" stroke="#e8c478" stroke-width="0.8"/><rect x="53.52" y="14.1" width="8.96" height="0.64" fill="#e8c478" rx="0.32"/><rect x="56.8" y="6.5" width="0.64" height="1.76" fill="#e8c478" rx="0.32" opacity="0.7"/><rect x="58.8" y="6.5" width="0.64" height="1.76" fill="#e8c478" rx="0.32" opacity="0.7"/><rect x="78" y="9.66" width="22" height="3.5" fill="#e8c478" rx="1.75"/>
+    <rect x="180" y="6" width="50" height="12" fill="#5a3010" rx="1"/>
+    <rect x="182" y="8" width="46" height="8" fill="#3a1808" rx="0.5"/>
+    <rect x="184" y="10" width="14" height="2" fill="#d4a04a" rx="0.5"/>
+    <rect x="184" y="13" width="10" height="1.5" fill="#a08040"/>
+    <rect x="200" y="10" width="12" height="2" fill="#d4a04a" rx="0.5"/>
+    <rect x="200" y="13" width="8" height="1.5" fill="#a08040"/>
+    <rect x="216" y="10" width="10" height="2" fill="#d4a04a" rx="0.5"/>
+    <rect x="216" y="13" width="6" height="1.5" fill="#a08040"/>
+    <rect x="240" y="0" width="60" height="38" fill="#5a3010" rx="2"/>
+    <rect x="242" y="2" width="56" height="34" fill="#3a1808" rx="1"/>
+    <rect x="246" y="6" width="48" height="2" fill="#bf6048"/>
+    <circle cx="250" cy="14" r="2" fill="#a06040"/>
+    <circle cx="258" cy="14" r="2" fill="#bf7848"/>
+    <circle cx="266" cy="14" r="2" fill="#5a3818"/>
+    <circle cx="274" cy="14" r="2" fill="#a06040"/>
+    <circle cx="282" cy="14" r="2" fill="#bf7848"/>
+    <circle cx="290" cy="14" r="2" fill="#5a3818"/>
+    <rect x="246" y="20" width="48" height="2" fill="#bf6048"/>
+    <circle cx="250" cy="28" r="2" fill="#5a3818"/>
+    <circle cx="258" cy="28" r="2" fill="#a06040"/>
+    <circle cx="266" cy="28" r="2" fill="#bf7848"/>
+    <circle cx="274" cy="28" r="2" fill="#5a3818"/>
+    <circle cx="282" cy="28" r="2" fill="#a06040"/>
+    <circle cx="290" cy="28" r="2" fill="#bf7848"/>
+    <rect x="40" y="44" width="180" height="4" fill="#7a5028" rx="1"/>
+    <rect x="40" y="48" width="180" height="20" fill="#5a3818" rx="1"/>
+    <rect x="40" y="44" width="180" height="2" fill="#a07848"/>
+    <rect x="160" y="36" width="20" height="12" fill="#a0a098" rx="1"/>
+    <rect x="162" y="38" width="16" height="6" fill="#3a2010" rx="0.5"/>
+    <rect x="168" y="34" width="4" height="4" fill="#7a5028" rx="0.5"/>
+    <rect x="170" y="40" width="2" height="2" fill="#d4a04a"/>
+    <rect x="186" y="34" width="14" height="14" fill="#707068" rx="1"/>
+    <rect x="188" y="36" width="10" height="6" fill="#1a0808" rx="0.5"/>
+    <rect x="188" y="44" width="4" height="2" fill="#d4a04a"/>
+    <rect x="194" y="44" width="4" height="2" fill="#d4a04a"/>
+    <rect x="190" y="42" width="6" height="1" fill="#5a4030"/>
+    <rect x="60" y="38" width="8" height="10" fill="#f4ece0" rx="1"/>
+    <rect x="60" y="38" width="8" height="2" fill="#a06040" rx="1"/>
+    <ellipse cx="64" cy="40" rx="3" ry="0.8" fill="#7a4830" opacity="0.7"/>
+    <path d="M 68 40 Q 72 41 72 44 Q 72 47 68 46" fill="none" stroke="#f4ece0" stroke-width="1"/>
+    <rect x="80" y="40" width="6" height="8" fill="#f4ece0" rx="0.5"/>
+    <ellipse cx="83" cy="40" rx="3" ry="1" fill="#a06040"/>
+    <path d="M 81 38 L 82 36" stroke="#d4d4d0" stroke-width="0.4" opacity="0.7"/>
+    <path d="M 83 38 L 84 36" stroke="#d4d4d0" stroke-width="0.4" opacity="0.7"/>
+    <path d="M 85 38 L 86 36" stroke="#d4d4d0" stroke-width="0.4" opacity="0.7"/>
+    <rect x="100" y="42" width="14" height="2" fill="#a08868" rx="0.5"/>
+    <rect x="102" y="38" width="3" height="4" fill="#a06840" rx="0.5"/>
+    <rect x="106" y="40" width="3" height="2" fill="#bf8048" rx="0.5"/>
+    <rect x="110" y="38" width="3" height="4" fill="#a06840" rx="0.5"/>
+    <rect x="124" y="36" width="14" height="12" fill="#f4ece0" rx="1"/>
+    <rect x="124" y="36" width="14" height="3" fill="#bf8048"/>
+    <ellipse cx="131" cy="40" rx="5" ry="1" fill="#7a3810" opacity="0.5"/>
+    <circle cx="128" cy="38" r="0.6" fill="#3a1808"/>
+    <circle cx="132" cy="38" r="0.6" fill="#3a1808"/>
+    <circle cx="136" cy="38" r="0.6" fill="#3a1808"/>
+    <rect x="40" y="56" width="180" height="2" fill="#3a2010"/>
+    <rect x="50" y="60" width="2" height="12" fill="#3a2010"/>
+    <ellipse cx="51" cy="58" rx="6" ry="2" fill="#7a4828"/>
+    <rect x="46" y="58" width="10" height="2" fill="#a06848"/>
+    <rect x="80" y="60" width="2" height="12" fill="#3a2010"/>
+    <ellipse cx="81" cy="58" rx="6" ry="2" fill="#7a4828"/>
+    <rect x="76" y="58" width="10" height="2" fill="#a06848"/>
+    <rect x="110" y="60" width="2" height="12" fill="#3a2010"/>
+    <ellipse cx="111" cy="58" rx="6" ry="2" fill="#7a4828"/>
+    <rect x="106" y="58" width="10" height="2" fill="#a06848"/>
+    <rect x="140" y="60" width="2" height="12" fill="#3a2010"/>
+    <ellipse cx="141" cy="58" rx="6" ry="2" fill="#7a4828"/>
+    <rect x="136" y="58" width="10" height="2" fill="#a06848"/>
+    <rect x="170" y="60" width="2" height="12" fill="#3a2010"/>
+    <ellipse cx="171" cy="58" rx="6" ry="2" fill="#7a4828"/>
+    <rect x="166" y="58" width="10" height="2" fill="#a06848"/>
+    <rect x="200" y="60" width="2" height="12" fill="#3a2010"/>
+    <ellipse cx="201" cy="58" rx="6" ry="2" fill="#7a4828"/>
+    <rect x="196" y="58" width="10" height="2" fill="#a06848"/>
+    <rect x="234" y="44" width="60" height="22" fill="#7a4828" rx="1"/>
+    <rect x="236" y="46" width="56" height="18" fill="#a06848" rx="1"/>
+    <circle cx="250" cy="55" r="1.2" fill="#3a2010"/>
+    <circle cx="280" cy="55" r="1.2" fill="#3a2010"/>
+    <rect x="244" y="48" width="40" height="2" fill="#5a3818"/>
+    <rect x="244" y="58" width="40" height="2" fill="#5a3818"/>
+    <rect x="306" y="56" width="6" height="14" fill="#7a4828"/>
+    <ellipse cx="309" cy="50" rx="6" ry="5" fill="#4a8868"/>
+    <ellipse cx="306" cy="48" rx="3" ry="3" fill="#388048"/>
+    <ellipse cx="312" cy="49" rx="3" ry="2.5" fill="#5aa068"/>
+    <rect x="14" y="48" width="20" height="20" fill="#5a3818" rx="1"/>
+    <rect x="16" y="50" width="16" height="14" fill="#3a2010" rx="0.5"/>
+    <rect x="18" y="52" width="12" height="2" fill="#a08868"/>
+    <rect x="18" y="56" width="8" height="1.5" fill="#a08868"/>
+    <rect x="18" y="59" width="10" height="1.5" fill="#a08868"/>
+    <rect x="18" y="62" width="6" height="1.5" fill="#a08868"/>
+</g>
+</svg>

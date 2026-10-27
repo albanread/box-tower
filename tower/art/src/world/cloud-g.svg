@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 10">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 64x10 -->
+  <!-- cloud; free sprite drifting in the sky -->
+  <rect x="6" y="6.8" width="52.6" height="3.2" fill="#d9e2ec" rx="1.6"/>
+  <circle cx="8" cy="7.4" r="3" fill="#d9e2ec"/>
+  <circle cx="14" cy="6.4" r="3.8" fill="#d9e2ec"/>
+  <circle cx="21" cy="5.9" r="4.2" fill="#d9e2ec"/>
+  <circle cx="29" cy="5.1" r="4.6" fill="#d9e2ec"/>
+  <circle cx="37" cy="5.7" r="4.2" fill="#d9e2ec"/>
+  <circle cx="45" cy="6.3" r="3.8" fill="#d9e2ec"/>
+  <circle cx="52" cy="6.9" r="3.4" fill="#d9e2ec"/>
+  <circle cx="57" cy="7.7" r="2.6" fill="#d9e2ec"/>
+  <circle cx="7.7" cy="6.5" r="2.76" fill="#f4f7fa"/>
+  <circle cx="13.7" cy="5.5" r="3.5" fill="#f4f7fa"/>
+  <circle cx="20.7" cy="5" r="3.86" fill="#f4f7fa"/>
+  <circle cx="28.7" cy="4.2" r="4.23" fill="#f4f7fa"/>
+  <circle cx="36.7" cy="4.8" r="3.86" fill="#f4f7fa"/>
+  <circle cx="44.7" cy="5.4" r="3.5" fill="#f4f7fa"/>
+  <circle cx="51.7" cy="6" r="3.13" fill="#f4f7fa"/>
+  <circle cx="56.7" cy="6.8" r="2.39" fill="#f4f7fa"/>
+  <rect x="6.6" y="5.4" width="51.4" height="1.6" fill="#f4f7fa" rx="0.8"/>
+</svg>

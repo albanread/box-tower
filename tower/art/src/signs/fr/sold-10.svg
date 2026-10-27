@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 10x1 -->
+  <!-- sign sold (fr): VENDU -->
+  <line x1="2.8" y1="0" x2="2.8" y2="3.4" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="37.2" y1="0" x2="37.2" y2="3.4" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <rect x="1.95" y="3.45" width="36.8" height="7" fill="#000000" rx="0.4" opacity="0.16"/>
+  <rect x="1.6" y="3" width="36.8" height="7" fill="#8a2030" rx="0.4"/>
+  <rect x="2.2" y="3.6" width="35.6" height="5.8" fill="#d04040" rx="0.1"/>
+  <polygon points="1.6,5.6 2.6,6.5 1.6,7.4" fill="#8a2030"/>
+  <polygon points="38.4,5.6 37.4,6.5 38.4,7.4" fill="#8a2030"/>
+  <path d="M11.754 4.913L13.008 8.086L14.262 4.913M17.511 4.913L15.611 4.913L15.611 8.086L17.511 8.086M15.611 6.5L17.207 6.5M18.86 8.086L18.86 4.913L21.14 8.086L21.14 4.913M22.489 4.913L23.477 4.913C24.149 4.913 24.693 5.458 24.693 6.13L24.693 6.87C24.693 7.542 24.149 8.086 23.477 8.086L22.489 8.086ZM26.042 4.913L26.042 6.984C26.042 7.593 26.535 8.086 27.144 8.086L27.144 8.086C27.753 8.086 28.246 7.593 28.246 6.984L28.246 4.913" fill="none" stroke="#f0f0e8" stroke-width="0.627" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

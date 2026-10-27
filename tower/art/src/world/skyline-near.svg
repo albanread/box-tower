@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 96">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 400x96 -->
+  <!-- parallax backdrop, tiles horizontally every 400 units; bottom edge on the ground line -->
+  <rect x="0" y="69.07" width="20.33" height="26.93" fill="#8e9eb0"/>
+  <rect x="6.1" y="65.07" width="8.13" height="4" fill="#8e9eb0"/>
+  <rect x="22.67" y="63.89" width="12.12" height="32.11" fill="#8e9eb0"/>
+  <rect x="33.19" y="59.33" width="21.98" height="36.67" fill="#8e9eb0"/>
+  <rect x="39.78" y="55.33" width="8.79" height="4" fill="#8e9eb0"/>
+  <rect x="55.06" y="65.92" width="24.66" height="30.08" fill="#8e9eb0"/>
+  <rect x="78.51" y="79.56" width="16.28" height="16.44" fill="#8e9eb0"/>
+  <rect x="80.95" y="77.06" width="4.07" height="2.5" fill="#7d8ea1"/>
+  <rect x="97.41" y="53.03" width="22.63" height="42.97" fill="#8e9eb0"/>
+  <rect x="108.42" y="44.03" width="0.6" height="9" fill="#8e9eb0"/>
+  <rect x="121.77" y="72.35" width="13.83" height="23.65" fill="#8e9eb0"/>
+  <rect x="137.23" y="80.49" width="19.59" height="15.51" fill="#8e9eb0"/>
+  <rect x="146.72" y="71.49" width="0.6" height="9" fill="#8e9eb0"/>
+  <rect x="155.87" y="51.62" width="17.06" height="44.38" fill="#8e9eb0"/>
+  <rect x="160.99" y="47.62" width="6.82" height="4" fill="#8e9eb0"/>
+  <rect x="175.36" y="81.81" width="27.83" height="14.19" fill="#8e9eb0"/>
+  <rect x="188.98" y="72.81" width="0.6" height="9" fill="#8e9eb0"/>
+  <rect x="203.65" y="67.01" width="12.42" height="28.99" fill="#8e9eb0"/>
+  <rect x="214.63" y="79.15" width="22.74" height="16.85" fill="#8e9eb0"/>
+  <rect x="218.04" y="76.65" width="5.69" height="2.5" fill="#7d8ea1"/>
+  <rect x="239.85" y="83.67" width="15.65" height="12.33" fill="#8e9eb0"/>
+  <rect x="244.55" y="79.67" width="6.26" height="4" fill="#8e9eb0"/>
+  <rect x="256.21" y="80.61" width="12.31" height="15.39" fill="#8e9eb0"/>
+  <polygon points="256.21,80.61 262.36,76.3 268.52,80.61" fill="#8e9eb0"/>
+  <rect x="271.12" y="68.07" width="19.56" height="27.93" fill="#8e9eb0"/>
+  <rect x="289.15" y="77.1" width="22.44" height="18.9" fill="#8e9eb0"/>
+  <rect x="314.38" y="61.8" width="12.98" height="34.2" fill="#8e9eb0"/>
+  <rect x="326.1" y="44.2" width="16.83" height="51.8" fill="#8e9eb0"/>
+  <rect x="341.54" y="45.96" width="24.7" height="50.04" fill="#8e9eb0"/>
+  <rect x="348.95" y="41.96" width="9.88" height="4" fill="#8e9eb0"/>
+  <rect x="367.29" y="69.36" width="12.77" height="26.64" fill="#8e9eb0"/>
+  <rect x="381.02" y="80.53" width="25.94" height="15.47" fill="#8e9eb0"/>
+  <rect x="393.69" y="71.53" width="0.6" height="9" fill="#8e9eb0"/>
+  <rect x="-18.98" y="80.53" width="25.94" height="15.47" fill="#8e9eb0"/>
+  <rect x="-6.31" y="71.53" width="0.6" height="9" fill="#8e9eb0"/>
+</svg>

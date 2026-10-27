@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2.5 2" width="2.5" height="2">
+<!-- From tower-together apps/client/public/rooms/cockroach2.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (a 2.5x2 unit sprite) by one uniform scale of
+     upstream's 10x8 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.25)">
+    <ellipse cx="4.5" cy="4" rx="3.8" ry="1.7" fill="#4a2e12" stroke="#2a1a08" stroke-width="0.25"/>
+    <ellipse cx="8.2" cy="4" rx="1.2" ry="1.1" fill="#3a2008" stroke="#2a1a08" stroke-width="0.25"/>
+    <line x1="8.9" y1="3.3" x2="10" y2="1.5" stroke="#2a1a08" stroke-width="0.35" stroke-linecap="round"/>
+    <line x1="8.9" y1="4.7" x2="10" y2="6.5" stroke="#2a1a08" stroke-width="0.35" stroke-linecap="round"/>
+    <line x1="7.2" y1="2.6" x2="5.8" y2="0.5" stroke="#2a1a08" stroke-width="0.45" stroke-linecap="round"/>
+    <line x1="4.8" y1="2.3" x2="5.8" y2="0" stroke="#2a1a08" stroke-width="0.45" stroke-linecap="round"/>
+    <line x1="2.4" y1="2.6" x2="3.6" y2="0.5" stroke="#2a1a08" stroke-width="0.45" stroke-linecap="round"/>
+    <line x1="7.2" y1="5.4" x2="5.8" y2="7.5" stroke="#2a1a08" stroke-width="0.45" stroke-linecap="round"/>
+    <line x1="4.8" y1="5.7" x2="5.8" y2="8" stroke="#2a1a08" stroke-width="0.45" stroke-linecap="round"/>
+    <line x1="2.4" y1="5.4" x2="3.6" y2="7.5" stroke="#2a1a08" stroke-width="0.45" stroke-linecap="round"/>
+</g>
+</svg>

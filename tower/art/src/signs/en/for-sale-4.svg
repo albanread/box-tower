@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- slot: 4x1 -->
+  <!-- sign for-sale (en): FOR SALE -->
+  <line x1="8" y1="0.2" x2="2.7" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <line x1="8" y1="0.2" x2="13.3" y2="2.9" stroke="#4a4448" stroke-width="0.25" stroke-linecap="round"/>
+  <circle cx="8" cy="0.4" r="0.45" fill="#4a4448"/>
+  <rect x="1.85" y="3.05" width="13" height="10.6" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="1.5" y="2.6" width="13" height="10.6" fill="#2a5090" rx="0.6"/>
+  <rect x="2.2" y="3.3" width="11.6" height="9.2" fill="#f0f0e8" rx="0.1"/>
+  <path d="M5.74 4.21L4.421 4.21L4.421 6.955M4.421 5.583L5.529 5.583M7.077 5.054C7.077 4.588 7.455 4.21 7.921 4.21L7.921 4.21C8.387 4.21 8.765 4.588 8.765 5.054L8.765 6.111C8.765 6.577 8.387 6.955 7.921 6.955L7.921 6.955C7.455 6.955 7.077 6.577 7.077 6.111ZM10.102 6.955L10.102 4.21L10.838 4.21C11.248 4.21 11.579 4.542 11.579 4.951L11.579 4.951C11.579 5.361 11.248 5.692 10.838 5.692L10.102 5.692M10.788 5.692L11.579 6.955" fill="none" stroke="#2a5090" stroke-width="0.82" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.544 8.845L3.752 8.845C3.373 8.845 3.066 9.152 3.066 9.531L3.066 9.531C3.066 9.91 3.373 10.217 3.752 10.217L3.857 10.217C4.236 10.217 4.544 10.525 4.544 10.904L4.544 10.904C4.544 11.283 4.236 11.59 3.857 11.59L3.066 11.59M5.88 11.59L6.777 8.845L7.674 11.59M6.185 10.657L7.37 10.657M9.011 8.845L9.011 11.59L10.278 11.59M12.934 8.845L11.615 8.845L11.615 11.59L12.934 11.59M11.615 10.217L12.723 10.217" fill="none" stroke="#2a5090" stroke-width="0.82" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16">
+<!-- From tower-together apps/client/public/rooms/retail1.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (12 cells x 1 floor) by one uniform scale of
+     upstream's 240x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Electronics store - cool blue/gray tech theme -->
+    <rect x="0" y="0" width="240" height="76" fill="#c8d0dc"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="240" height="4" fill="#606878"/>
+
+    <!-- Floor - glossy tile -->
+    <rect x="0" y="76" width="240" height="4" fill="#707888"/>
+
+    <!-- Ceiling panel lights -->
+    <rect x="0" y="0" width="240" height="4" fill="#484850"/>
+    <rect x="10" y="1" width="30" height="2" fill="#f8f8e8"/>
+    <rect x="60" y="1" width="30" height="2" fill="#f8f8e8"/>
+    <rect x="110" y="1" width="30" height="2" fill="#f8f8e8"/>
+    <rect x="160" y="1" width="30" height="2" fill="#f8f8e8"/>
+    <rect x="210" y="1" width="24" height="2" fill="#f8f8e8"/>
+
+    <!-- Store logo sign -->
+    <rect x="80" y="8" width="80" height="18" fill="#2040a0" rx="2"/>
+    <rect x="82" y="10" width="76" height="14" fill="#4070d0" rx="1"/>
+    <rect x="92" y="13" width="4" height="8" fill="#f0f0f8"/>
+    <rect x="100" y="13" width="4" height="8" fill="#f0f0f8"/>
+    <rect x="108" y="13" width="4" height="8" fill="#f0f0f8"/>
+    <rect x="116" y="13" width="4" height="8" fill="#f0f0f8"/>
+    <rect x="124" y="13" width="4" height="8" fill="#f0f0f8"/>
+    <rect x="132" y="13" width="4" height="8" fill="#f0f0f8"/>
+    <rect x="140" y="13" width="4" height="8" fill="#f0f0f8"/>
+
+    <!-- TV wall (left) -->
+    <rect x="6" y="30" width="44" height="30" fill="#1a1a20"/>
+    <!-- Grid of TVs -->
+    <rect x="8" y="32" width="18" height="12" fill="#303040"/>
+    <rect x="10" y="34" width="14" height="8" fill="#4080c0"/>
+    <rect x="30" y="32" width="18" height="12" fill="#303040"/>
+    <rect x="32" y="34" width="14" height="8" fill="#c04040"/>
+    <rect x="8" y="46" width="18" height="12" fill="#303040"/>
+    <rect x="10" y="48" width="14" height="8" fill="#40c080"/>
+    <rect x="30" y="46" width="18" height="12" fill="#303040"/>
+    <rect x="32" y="48" width="14" height="8" fill="#e0a040"/>
+    <!-- Shelf below -->
+    <rect x="6" y="62" width="44" height="10" fill="#505868"/>
+    <rect x="10" y="64" width="8" height="6" fill="#202028"/>
+    <rect x="22" y="64" width="8" height="6" fill="#202028"/>
+    <rect x="34" y="64" width="8" height="6" fill="#202028"/>
+
+    <!-- Laptop display table (center-left) -->
+    <rect x="58" y="52" width="42" height="20" fill="#808898" rx="1"/>
+    <rect x="58" y="50" width="42" height="2" fill="#a0a8b8"/>
+    <!-- Laptops -->
+    <rect x="62" y="44" width="12" height="8" fill="#303038"/>
+    <rect x="63" y="45" width="10" height="6" fill="#4070a0"/>
+    <rect x="62" y="52" width="12" height="1" fill="#202028"/>
+    <rect x="78" y="44" width="12" height="8" fill="#303038"/>
+    <rect x="79" y="45" width="10" height="6" fill="#c05050"/>
+    <rect x="78" y="52" width="12" height="1" fill="#202028"/>
+
+    <!-- Phone display case (center) -->
+    <rect x="108" y="42" width="36" height="30" fill="#303038" rx="1"/>
+    <rect x="110" y="44" width="32" height="26" fill="#d0d8e0"/>
+    <!-- Phones on stands -->
+    <rect x="114" y="48" width="6" height="10" fill="#1a1a20" rx="1"/>
+    <rect x="115" y="49" width="4" height="7" fill="#4080d0"/>
+    <rect x="113" y="58" width="8" height="2" fill="#505060"/>
+    <rect x="124" y="48" width="6" height="10" fill="#1a1a20" rx="1"/>
+    <rect x="125" y="49" width="4" height="7" fill="#c04080"/>
+    <rect x="123" y="58" width="8" height="2" fill="#505060"/>
+    <rect x="134" y="48" width="6" height="10" fill="#1a1a20" rx="1"/>
+    <rect x="135" y="49" width="4" height="7" fill="#40c060"/>
+    <rect x="133" y="58" width="8" height="2" fill="#505060"/>
+    <!-- Price tags -->
+    <rect x="114" y="62" width="8" height="4" fill="#f0e8a0"/>
+    <rect x="124" y="62" width="8" height="4" fill="#f0e8a0"/>
+    <rect x="134" y="62" width="8" height="4" fill="#f0e8a0"/>
+
+    <!-- Gaming / console display (right-center) -->
+    <rect x="152" y="40" width="34" height="32" fill="#404850" rx="1"/>
+    <rect x="154" y="42" width="30" height="28" fill="#606878"/>
+    <!-- Gaming monitor -->
+    <rect x="156" y="44" width="26" height="14" fill="#1a1a22"/>
+    <rect x="158" y="46" width="22" height="10" fill="#805cc0"/>
+    <rect x="168" y="58" width="2" height="3" fill="#505868"/>
+    <rect x="163" y="61" width="12" height="2" fill="#303840"/>
+    <!-- Controller -->
+    <rect x="158" y="65" width="10" height="4" fill="#202028" rx="1"/>
+    <rect x="172" y="65" width="10" height="4" fill="#202028" rx="1"/>
+
+    <!-- Checkout counter (far right) -->
+    <rect x="194" y="54" width="40" height="4" fill="#a0a8b8" rx="1"/>
+    <rect x="194" y="58" width="40" height="14" fill="#707888"/>
+    <rect x="196" y="60" width="36" height="10" fill="#808898" rx="1"/>
+    <!-- POS terminal -->
+    <rect x="202" y="42" width="14" height="12" fill="#1a1a22" rx="1"/>
+    <rect x="203" y="43" width="12" height="8" fill="#40a0e0"/>
+    <!-- Card reader -->
+    <rect x="222" y="46" width="8" height="8" fill="#303038" rx="1"/>
+    <rect x="223" y="48" width="6" height="2" fill="#80c080"/>
+
+    <!-- Sale poster -->
+    <rect x="56" y="10" width="22" height="18" fill="#f0e8d0" rx="1"/>
+    <rect x="58" y="12" width="18" height="5" fill="#2040a0"/>
+    <rect x="60" y="19" width="14" height="2" fill="#303038"/>
+    <rect x="60" y="23" width="12" height="2" fill="#303038"/>
+
+    <!-- Camera on tripod (right) -->
+    <rect x="218" y="32" width="12" height="6" fill="#1a1a20" rx="1"/>
+    <circle cx="224" cy="35" r="2" fill="#404848"/>
+    <circle cx="224" cy="35" r="1" fill="#a0b0c0"/>
+    <rect x="223" y="38" width="2" height="10" fill="#303038"/>
+    <rect x="220" y="48" width="8" height="2" fill="#303038"/>
+</g>
+</svg>

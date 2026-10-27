@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 12" width="6" height="12">
+  <!-- units: 6x12 -->
+  <!-- guest (man, shorter) walking, facing left, frame 2 of 4 -->
+  <g transform="translate(6,0) scale(-1,1)">
+  <g transform="translate(3 12) scale(0.9) translate(-3 -12)">
+  <rect x="0.15" y="8.4" width="1.7" height="3" rx="0.3" fill="#b5543a"/>
+  <rect x="0.15" y="9.6" width="1.7" height="0.3" fill="#8e3f2b"/>
+  <circle cx="0.5" cy="11.6" r="0.35" fill="#1f2226"/>
+  <circle cx="1.5" cy="11.6" r="0.35" fill="#1f2226"/>
+  <polygon points="3.286,5.285 1.501,7.57 1.028,7.201 2.814,4.915" fill="#59606a"/>
+  <circle cx="3.05" cy="5.1" r="0.3" fill="#59606a"/>
+  <circle cx="1.265" cy="7.385" r="0.36" fill="#c4936a"/>
+  <polygon points="1.519,8.384 1.384,7.369 1.146,7.401 1.281,8.416" fill="#2a2b2e"/>
+  <polygon points="3.356,7.841 4.861,11.221 4.149,11.539 2.644,8.159" fill="#2e3440"/>
+  <circle cx="3" cy="8" r="0.39" fill="#2e3440"/>
+  <rect x="4.055" y="11.23" width="1.15" height="0.5" rx="0.2" fill="#1f2226"/>
+  <polygon points="3.356,8.159 1.851,11.539 1.139,11.221 2.644,7.841" fill="#3b4250"/>
+  <circle cx="3" cy="8" r="0.39" fill="#3b4250"/>
+  <rect x="1.045" y="11.23" width="1.15" height="0.5" rx="0.2" fill="#1f2226"/>
+  <rect x="2.1" y="4.5" width="1.8" height="3.9" rx="0.55" fill="#6f7782"/>
+  <rect x="2.75" y="4" width="0.6" height="0.7" fill="#d9a87a"/>
+  <circle cx="2.85" cy="2.95" r="1.15" fill="#3a2a20"/>
+  <circle cx="3.25" cy="3.25" r="0.98" fill="#d9a87a"/>
+  <rect x="4.05" y="3.2" width="0.3" height="0.35" rx="0.1" fill="#d9a87a"/>
+  <polygon points="3.332,4.997 4.324,7.723 3.76,7.928 2.768,5.203" fill="#6f7782"/>
+  <circle cx="3.05" cy="5.1" r="0.3" fill="#6f7782"/>
+  <circle cx="4.042" cy="7.825" r="0.36" fill="#d9a87a"/>
+  </g>
+  </g>
+</svg>

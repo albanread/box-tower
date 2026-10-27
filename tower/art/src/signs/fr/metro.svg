@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 6">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 16x6 -->
+  <!-- sign metro (fr): MÉTRO -->
+  <rect x="0.35" y="0.45" width="15.6" height="5.5" fill="#000000" rx="0.5" opacity="0.16"/>
+  <rect x="0" y="0" width="15.6" height="5.5" fill="#2a2a30" rx="0.5"/>
+  <rect x="0.5" y="0.5" width="14.6" height="4.5" fill="#2a5090" rx="0.1"/>
+  <path d="M1.248 4.3L1.248 1.795L2.4 3.398L3.553 1.795L3.553 4.3M6.037 1.795L4.596 1.795L4.596 4.3L6.037 4.3M4.596 3.047L5.806 3.047M5.076 1.444L5.586 1.043M7.079 1.795L8.809 1.795M7.944 1.795L7.944 4.3M9.851 4.3L9.851 1.795L10.789 1.795C11.163 1.795 11.465 2.098 11.465 2.471L11.465 2.471C11.465 2.845 11.163 3.148 10.789 3.148L9.851 3.148M10.601 3.148L11.465 4.3M12.508 2.717C12.508 2.208 12.921 1.795 13.43 1.795L13.43 1.795C13.94 1.795 14.352 2.208 14.352 2.717L14.352 3.378C14.352 3.887 13.94 4.3 13.43 4.3L13.43 4.3C12.921 4.3 12.508 3.887 12.508 3.378Z" fill="none" stroke="#f0f0e8" stroke-width="0.495" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

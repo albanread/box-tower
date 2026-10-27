@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 32x32 -->
+  <!-- fireworks over the roof when the tower gains a star; frame 0 of 5, 5 a second -->
+  <rect x="15.7" y="22" width="0.6" height="10" fill="#ffe2a0"/>
+</svg>

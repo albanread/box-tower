@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 6">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 20x6 -->
+  <!-- sign clinic (en): CLINIC -->
+  <rect x="0.35" y="0.45" width="19.6" height="5.5" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="0" y="0" width="19.6" height="5.5" fill="#98b4a8" rx="0.7"/>
+  <rect x="0.45" y="0.45" width="18.7" height="4.6" fill="#f0f0e8" rx="0.25"/>
+  <rect x="2.283" y="1.32" width="0.953" height="2.86" fill="#d04040" rx="0.15"/>
+  <rect x="1.33" y="2.273" width="2.86" height="0.953" fill="#d04040" rx="0.15"/>
+  <path d="M7.463 1.498L6.742 1.498C6.212 1.498 5.782 1.927 5.782 2.458L5.782 3.042C5.782 3.573 6.212 4.002 6.742 4.002L7.463 4.002M8.527 1.498L8.527 4.002L9.967 4.002M11.032 1.498L11.032 4.002M12.098 4.002L12.098 1.498L13.897 4.002L13.897 1.498M14.963 1.498L14.963 4.002M17.708 1.498L16.988 1.498C16.457 1.498 16.027 1.927 16.027 2.458L16.027 3.042C16.027 3.573 16.457 4.002 16.988 4.002L17.708 4.002" fill="none" stroke="#2a4a40" stroke-width="0.495" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

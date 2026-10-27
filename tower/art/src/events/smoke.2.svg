@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 32">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x2 -->
+  <!-- smoke over a burning cell; bottom floor is the burning one; frame 2 of 4, 6 a second -->
+  <circle cx="2.51" cy="25.22" r="1.7" fill="#5e5956" opacity="0.88"/>
+  <circle cx="2.26" cy="24.72" r="1.36" fill="#77716d" opacity="0.88"/>
+  <circle cx="1.81" cy="22.67" r="1.5" fill="#5e5956" opacity="0.83"/>
+  <circle cx="1.56" cy="22.17" r="1.2" fill="#8f8985" opacity="0.83"/>
+  <circle cx="1.74" cy="20.11" r="1.36" fill="#5e5956" opacity="0.78"/>
+  <circle cx="1.49" cy="19.61" r="1.09" fill="#77716d" opacity="0.78"/>
+  <circle cx="2.53" cy="17.56" r="1.74" fill="#5e5956" opacity="0.72"/>
+  <circle cx="2.28" cy="17.06" r="1.39" fill="#8f8985" opacity="0.72"/>
+  <circle cx="1.54" cy="15" r="1.92" fill="#5e5956" opacity="0.68"/>
+  <circle cx="1.29" cy="14.5" r="1.54" fill="#77716d" opacity="0.68"/>
+  <circle cx="2.07" cy="12.44" r="1.6" fill="#5e5956" opacity="0.62"/>
+  <circle cx="1.82" cy="11.94" r="1.28" fill="#8f8985" opacity="0.62"/>
+  <circle cx="2.36" cy="9.89" r="1.62" fill="#5e5956" opacity="0.57"/>
+  <circle cx="2.11" cy="9.39" r="1.29" fill="#77716d" opacity="0.57"/>
+  <circle cx="1.45" cy="7.33" r="2.09" fill="#5e5956" opacity="0.53"/>
+  <circle cx="1.2" cy="6.83" r="1.67" fill="#8f8985" opacity="0.53"/>
+  <circle cx="2.38" cy="4.78" r="2.07" fill="#5e5956" opacity="0.48"/>
+  <circle cx="2.13" cy="4.28" r="1.66" fill="#77716d" opacity="0.48"/>
+</svg>

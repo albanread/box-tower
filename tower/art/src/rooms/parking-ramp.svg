@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 16" width="60" height="16">
+<!-- From tower-together apps/client/public/rooms/parkingRamp.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (15 cells x 1 floor) by one uniform scale of
+     upstream's 300x80 drawing; preserveAspectRatio="none" removed.
+     The lettered RAMP sign is now a car-on-a-slope pictogram. -->
+<g transform="scale(0.2)">
+    <!-- Back wall - concrete -->
+    <rect x="0" y="0" width="300" height="72" fill="#7a7a76"/>
+
+    <!-- Concrete panel seams -->
+    <rect x="0" y="32" width="300" height="1" fill="#585854"/>
+    <rect x="60" y="0" width="1" height="32" fill="#585854"/>
+    <rect x="120" y="33" width="1" height="39" fill="#585854"/>
+    <rect x="180" y="0" width="1" height="32" fill="#585854"/>
+    <rect x="240" y="33" width="1" height="39" fill="#585854"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="300" height="4" fill="#484844"/>
+
+    <!-- Floor - asphalt -->
+    <rect x="0" y="76" width="300" height="4" fill="#484844"/>
+
+    <!-- Ceiling fluorescents (3 across) -->
+    <rect x="40" y="0" width="40" height="3" fill="#c8c8b8"/>
+    <rect x="44" y="3" width="32" height="2" fill="#a8a8a0"/>
+    <rect x="130" y="0" width="40" height="3" fill="#c8c8b8"/>
+    <rect x="134" y="3" width="32" height="2" fill="#a8a8a0"/>
+    <rect x="220" y="0" width="40" height="3" fill="#c8c8b8"/>
+    <rect x="224" y="3" width="32" height="2" fill="#a8a8a0"/>
+
+    <!-- Support pillars at edges and between bays -->
+    <rect x="2" y="6" width="4" height="60" fill="#8a8a86"/>
+    <rect x="2" y="6" width="4" height="2" fill="#6a6a66"/>
+    <rect x="2" y="64" width="4" height="2" fill="#6a6a66"/>
+    <rect x="294" y="6" width="4" height="60" fill="#8a8a86"/>
+    <rect x="294" y="6" width="4" height="2" fill="#6a6a66"/>
+    <rect x="294" y="64" width="4" height="2" fill="#6a6a66"/>
+
+    <!-- Ramp deck: sloped concrete deck rising left-to-right -->
+    <!-- Underside (dark) -->
+    <path d="M 10 70 L 290 18 L 290 28 L 10 76 Z" fill="#5a5a56"/>
+    <!-- Top surface (light) -->
+    <path d="M 10 64 L 290 12 L 290 18 L 10 70 Z" fill="#9a9a92"/>
+    <!-- Lane stripe (yellow) running up the deck -->
+    <path d="M 14 68 L 286 16 L 286 18 L 14 70 Z" fill="#d8c040" opacity="0.55"/>
+
+    <!-- Ramp underside support struts -->
+    <line x1="80" y1="70" x2="80" y2="76" stroke="#3c3c38" stroke-width="2"/>
+    <line x1="155" y1="55" x2="155" y2="76" stroke="#3c3c38" stroke-width="2"/>
+    <line x1="230" y1="34" x2="230" y2="76" stroke="#3c3c38" stroke-width="2"/>
+
+    <!-- Guardrails along the deck (top edge) -->
+    <line x1="10" y1="62" x2="290" y2="10" stroke="#cccccc" stroke-width="1"/>
+    <line x1="60" y1="53" x2="60" y2="59" stroke="#cccccc" stroke-width="1"/>
+    <line x1="120" y1="42" x2="120" y2="48" stroke="#cccccc" stroke-width="1"/>
+    <line x1="180" y1="31" x2="180" y2="37" stroke="#cccccc" stroke-width="1"/>
+    <line x1="240" y1="20" x2="240" y2="26" stroke="#cccccc" stroke-width="1"/>
+
+    <!-- Ramp sign: a car climbing a slope, on the parking blue (no letters) -->
+    <rect x="100" y="10" width="44" height="14" fill="#2a5090" rx="1"/>
+    <polygon points="106,21 138,21 138,13" fill="#f0f0e8"/>
+    <g transform="translate(121,15.2) rotate(-14)">
+      <rect x="-5" y="0" width="10" height="3" fill="#2a5090" rx="1"/>
+      <rect x="-4.5" y="-0.5" width="9" height="2.6" fill="#f0f0e8" rx="1"/>
+      <rect x="-2.5" y="-2.6" width="5" height="2.4" fill="#f0f0e8" rx="0.8"/>
+      <circle cx="-2.6" cy="2.5" r="1.1" fill="#f0f0e8" stroke="#2a5090" stroke-width="0.5"/>
+      <circle cx="2.6" cy="2.5" r="1.1" fill="#f0f0e8" stroke="#2a5090" stroke-width="0.5"/>
+    </g>
+
+    <!-- Up arrow signs flanking the ramp sign -->
+    <rect x="68" y="14" width="14" height="10" fill="#d8c040" rx="1"/>
+    <path d="M 75 16 L 78 19 L 76 19 L 76 22 L 74 22 L 74 19 L 72 19 Z" fill="#202020"/>
+    <rect x="162" y="14" width="14" height="10" fill="#d8c040" rx="1"/>
+    <path d="M 169 16 L 172 19 L 170 19 L 170 22 L 168 22 L 168 19 L 166 19 Z" fill="#202020"/>
+
+    <!-- Car driving up the ramp (positioned on the slope) -->
+    <!-- Compute rough slope: at x≈195 the deck surface y ≈ 64 - (195-10)/280 * 52 ≈ 64 - 34 = 30 -->
+    <g transform="translate(180,18) rotate(-10.5)">
+      <!-- Car body -->
+      <rect x="0" y="6" width="36" height="10" fill="#2a5090" rx="2"/>
+      <!-- Cabin -->
+      <rect x="6" y="0" width="22" height="8" fill="#20407a" rx="2"/>
+      <!-- Windshields -->
+      <rect x="8" y="2" width="7" height="5" fill="#8aa8c0" opacity="0.9" rx="1"/>
+      <rect x="19" y="2" width="7" height="5" fill="#8aa8c0" opacity="0.9" rx="1"/>
+      <!-- Headlight (forward) -->
+      <rect x="33" y="10" width="3" height="3" fill="#f0e090" rx="1"/>
+      <!-- Taillight (rear) -->
+      <rect x="0" y="10" width="3" height="3" fill="#d04040" rx="1"/>
+      <!-- Wheels -->
+      <circle cx="8" cy="16" r="2.6" fill="#202020"/>
+      <circle cx="8" cy="16" r="1.2" fill="#606060"/>
+      <circle cx="28" cy="16" r="2.6" fill="#202020"/>
+      <circle cx="28" cy="16" r="1.2" fill="#606060"/>
+    </g>
+</g>
+</svg>

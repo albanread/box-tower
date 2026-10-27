@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 16" width="24" height="16">
+  <!-- units: 24x16 -->
+  <!-- elevator-express shaft, one floor; repeat for every floor of the run -->
+  <rect x="0" y="0" width="24" height="16" fill="#3f4b5d"/>
+  <polygon points="1.781,0.273 21.781,16.273 22.219,15.727 2.219,-0.273" fill="#475569"/>
+  <polygon points="21.781,-0.273 1.781,15.727 2.219,16.273 22.219,0.273" fill="#475569"/>
+  <rect x="0" y="0" width="24" height="0.8" fill="#475569"/>
+  <rect x="1.2" y="0" width="0.6" height="16" fill="#2a3340"/>
+  <rect x="0.8" y="5" width="1.4" height="0.6" fill="#2a3340"/>
+  <rect x="22.2" y="0" width="0.6" height="16" fill="#2a3340"/>
+  <rect x="21.8" y="5" width="1.4" height="0.6" fill="#2a3340"/>
+  <rect x="2.2" y="0" width="0.6" height="16" fill="#2a3340"/>
+  <rect x="21.2" y="0" width="0.6" height="16" fill="#2a3340"/>
+  <rect x="11.32" y="0" width="0.16" height="16" fill="#1f2630"/>
+  <rect x="11.92" y="0" width="0.16" height="16" fill="#1f2630"/>
+  <rect x="12.52" y="0" width="0.16" height="16" fill="#1f2630"/>
+</svg>

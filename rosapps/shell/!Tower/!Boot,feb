@@ -1,0 +1,5 @@
+| !Tower: the tower game (ROSAPPS)
+Set Tower$Dir <Obey$Dir>
+IconSprites <Tower$Dir>.!Sprites
+Set File$Type_A9D Tower
+Set Alias$@RunType_A9D Run <Tower$Dir>.!Run %%*0

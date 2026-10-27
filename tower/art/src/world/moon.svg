@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 16x16 -->
+  <!-- the moon; free sprite, shown at night -->
+  <path d="M 9 1.5 A 7.5 7.5 0 1 0 15.5 12 A 6 6 0 1 1 9 1.5 Z" fill="#e7ebf0"/>
+  <circle cx="5.5" cy="10" r="0.9" fill="#cfd6de"/>
+  <circle cx="7.5" cy="13.3" r="0.6" fill="#cfd6de"/>
+</svg>

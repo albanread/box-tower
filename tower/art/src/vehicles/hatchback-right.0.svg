@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 10" width="24" height="10">
+  <!-- units: 24x10 -->
+  <!-- hatchback facing right, wheel frame 0 of 2 -->
+  <polygon points="2.6,8.6 2.6,4.4 3.9,2.4 13.8,2.4 17.4,4.9 20.8,5.3 21.6,6.2 21.6,8.6" fill="#3f78b5"/>
+  <rect x="2.6" y="7.6" width="19" height="1" fill="#2d5682"/>
+  <polygon points="4.3,4.6 5,3 8.4,3 8.4,4.6" fill="#9cc0d6"/>
+  <polygon points="4.9,4.4 5.25,4.4 5.9,3.3 5.55,3.3" fill="#c9dfec"/>
+  <polygon points="9.1,4.6 9.1,3 13.5,3 16.2,4.6" fill="#9cc0d6"/>
+  <polygon points="9.7,4.4 10.05,4.4 10.7,3.3 10.35,3.3" fill="#c9dfec"/>
+  <rect x="8.6" y="4.6" width="0.2" height="3" fill="#2d5682"/>
+  <rect x="9.6" y="5" width="0.8" height="0.25" fill="#2d5682"/>
+  <circle cx="6" cy="8.35" r="2.1" fill="#2d5682"/>
+  <circle cx="18" cy="8.35" r="2.1" fill="#2d5682"/>
+  <rect x="20.7" y="5.7" width="0.9" height="0.7" rx="0.2" fill="#f3ecc8"/>
+  <rect x="2.6" y="4.6" width="0.7" height="1.2" rx="0.2" fill="#c8302b"/>
+  <rect x="20.4" y="7.4" width="1.4" height="0.7" rx="0.2" fill="#3a3c40"/>
+  <rect x="2.4" y="7.4" width="1.4" height="0.7" rx="0.2" fill="#3a3c40"/>
+  <circle cx="6" cy="8.35" r="1.65" fill="#26282b"/>
+  <circle cx="6" cy="8.35" r="0.957" fill="#9aa1a8"/>
+  <polygon points="5.093,8.49 6.907,8.49 6.907,8.21 5.093,8.21" fill="#5d636a"/>
+  <polygon points="5.86,7.442 5.86,9.258 6.14,9.258 6.14,7.442" fill="#5d636a"/>
+  <circle cx="6" cy="8.35" r="0.28" fill="#5d636a"/>
+  <circle cx="18" cy="8.35" r="1.65" fill="#26282b"/>
+  <circle cx="18" cy="8.35" r="0.957" fill="#9aa1a8"/>
+  <polygon points="17.093,8.49 18.907,8.49 18.907,8.21 17.093,8.21" fill="#5d636a"/>
+  <polygon points="17.86,7.442 17.86,9.258 18.14,9.258 18.14,7.442" fill="#5d636a"/>
+  <circle cx="18" cy="8.35" r="0.28" fill="#5d636a"/>
+</svg>

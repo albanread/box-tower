@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+  <!-- units: 12x12 -->
+  <!-- a patient collapsed on the floor, head to the right -->
+  <rect x="1" y="10.6" width="3.8" height="0.9" rx="0.4" fill="#2e3440"/>
+  <rect x="0.6" y="11.1" width="4.4" height="0.9" rx="0.4" fill="#3b4250"/>
+  <rect x="0.2" y="10.8" width="0.7" height="1.2" rx="0.2" fill="#1f2226"/>
+  <rect x="4.6" y="10.3" width="4.2" height="1.7" rx="0.7" fill="#6f7782"/>
+  <rect x="5.4" y="11.3" width="3" height="0.7" rx="0.3" fill="#59606a"/>
+  <circle cx="5.3" cy="11.6" r="0.36" fill="#d9a87a"/>
+  <circle cx="10" cy="11" r="1.15" fill="#3a2a20"/>
+  <circle cx="9.8" cy="10.9" r="0.98" fill="#d9a87a"/>
+</svg>

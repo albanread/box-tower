@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 14">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- units: 56x14 -->
+  <!-- cloud; free sprite drifting in the sky -->
+  <rect x="5" y="10.8" width="44.5" height="3.2" fill="#d9e2ec" rx="1.6"/>
+  <circle cx="9" cy="9.9" r="5" fill="#d9e2ec"/>
+  <circle cx="17" cy="7.9" r="6.5" fill="#d9e2ec"/>
+  <circle cx="27" cy="6.4" r="7" fill="#d9e2ec"/>
+  <circle cx="37" cy="7.9" r="6" fill="#d9e2ec"/>
+  <circle cx="46" cy="9.9" r="4.5" fill="#d9e2ec"/>
+  <circle cx="8.7" cy="9" r="4.6" fill="#f4f7fa"/>
+  <circle cx="16.7" cy="7" r="5.98" fill="#f4f7fa"/>
+  <circle cx="26.7" cy="5.5" r="6.44" fill="#f4f7fa"/>
+  <circle cx="36.7" cy="7" r="5.52" fill="#f4f7fa"/>
+  <circle cx="45.7" cy="9" r="4.14" fill="#f4f7fa"/>
+  <rect x="5.6" y="9.4" width="43.3" height="1.6" fill="#f4f7fa" rx="0.8"/>
+</svg>

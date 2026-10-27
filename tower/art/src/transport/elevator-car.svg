@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 13" width="12" height="13">
+  <!-- units: 12x13 -->
+  <!-- car shell; the front layer of the car -->
+  <rect x="0" y="0" width="12" height="1.4" fill="#b8962e"/>
+  <rect x="0" y="0" width="12" height="1" fill="#f6d463"/>
+  <rect x="0" y="0" width="1" height="13" fill="#f6d463"/>
+  <rect x="11" y="0" width="1" height="13" fill="#f6d463"/>
+  <rect x="0.75" y="1.4" width="0.25" height="10.6" fill="#b8962e"/>
+  <rect x="11" y="1.4" width="0.25" height="10.6" fill="#b8962e"/>
+  <rect x="0" y="12" width="12" height="1" fill="#b8962e"/>
+  <rect x="5.1" y="0.2" width="1.8" height="0.5" rx="0.25" fill="#fffbe8"/>
+</svg>

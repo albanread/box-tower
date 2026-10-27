@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 9">
+  <!-- Drawn for the BOX port of tower-together by art/src/signs/gen.py; letters by letters.py. -->
+  <!-- units: 14x9 -->
+  <!-- sign open (en): OPEN -->
+  <line x1="7" y1="0.6" x2="1.6" y2="2.9" stroke="#4a4448" stroke-width="0.22" stroke-linecap="round"/>
+  <line x1="7" y1="0.6" x2="12.4" y2="2.9" stroke="#4a4448" stroke-width="0.22" stroke-linecap="round"/>
+  <circle cx="7" cy="0.6" r="0.5" fill="#8a8478"/>
+  <rect x="0.55" y="3.05" width="13.4" height="6" fill="#000000" rx="0.7" opacity="0.16"/>
+  <rect x="0.2" y="2.6" width="13.4" height="6" fill="#3a7a3a" rx="0.8"/>
+  <rect x="0.65" y="3.05" width="12.5" height="5.1" fill="#f0f0e8" rx="0.35"/>
+  <path d="M2.094 5.096C2.094 4.651 2.455 4.291 2.899 4.291L2.899 4.291C3.344 4.291 3.704 4.651 3.704 5.096L3.704 6.104C3.704 6.549 3.344 6.909 2.899 6.909L2.899 6.909C2.455 6.909 2.094 6.549 2.094 6.104ZM4.979 6.909L4.979 4.291L5.681 4.291C6.072 4.291 6.388 4.607 6.388 4.998L6.388 4.998C6.388 5.388 6.072 5.705 5.681 5.705L4.979 5.705M8.921 4.291L7.663 4.291L7.663 6.909L8.921 6.909M7.663 5.6L8.72 5.6M10.196 6.909L10.196 4.291L11.706 6.909L11.706 4.291" fill="none" stroke="#3a7a3a" stroke-width="0.782" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

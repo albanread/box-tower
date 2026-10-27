@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8" width="16" height="8">
+  <!-- units: 16x8 -->
+  <!-- machine room; sits directly above the top floor of the run -->
+  <rect x="0.5" y="1.5" width="15" height="6.5" fill="#8c9298"/>
+  <rect x="0" y="0.6" width="16" height="1.2" fill="#5c574e"/>
+  <rect x="1.5" y="3" width="13" height="3.6" fill="#8f8a7f"/>
+  <rect x="2" y="3.6" width="12" height="0.45" fill="#857f74"/>
+  <rect x="2" y="4.6" width="12" height="0.45" fill="#857f74"/>
+  <rect x="2" y="5.6" width="12" height="0.45" fill="#857f74"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8" width="16" height="8">
+  <!-- units: 16x8 -->
+  <!-- machine room; sits directly above the top floor of the run -->
+  <rect x="0.5" y="1.5" width="15" height="6.5" fill="#585d62"/>
+  <rect x="0" y="0.6" width="16" height="1.2" fill="#4a453c"/>
+  <rect x="1.5" y="3" width="13" height="3.6" fill="#7a7264"/>
+  <rect x="2" y="3.6" width="12" height="0.45" fill="#6f6759"/>
+  <rect x="2" y="4.6" width="12" height="0.45" fill="#6f6759"/>
+  <rect x="2" y="5.6" width="12" height="0.45" fill="#6f6759"/>
+  <rect x="0" y="7.2" width="16" height="0.8" fill="#e8a33a"/>
+  <polygon points="-0.8,8 0,7.2 0.8,7.2 0,8" fill="#2e2d2b"/>
+  <polygon points="0.8,8 1.6,7.2 2.4,7.2 1.6,8" fill="#2e2d2b"/>
+  <polygon points="2.4,8 3.2,7.2 4,7.2 3.2,8" fill="#2e2d2b"/>
+  <polygon points="4,8 4.8,7.2 5.6,7.2 4.8,8" fill="#2e2d2b"/>
+  <polygon points="5.6,8 6.4,7.2 7.2,7.2 6.4,8" fill="#2e2d2b"/>
+  <polygon points="7.2,8 8,7.2 8.8,7.2 8,8" fill="#2e2d2b"/>
+  <polygon points="8.8,8 9.6,7.2 10.4,7.2 9.6,8" fill="#2e2d2b"/>
+  <polygon points="10.4,8 11.2,7.2 12,7.2 11.2,8" fill="#2e2d2b"/>
+  <polygon points="12,8 12.8,7.2 13.6,7.2 12.8,8" fill="#2e2d2b"/>
+  <polygon points="13.6,8 14.4,7.2 15.2,7.2 14.4,8" fill="#2e2d2b"/>
+  <polygon points="15.2,8 16,7.2 16.8,7.2 16,8" fill="#2e2d2b"/>
+</svg>

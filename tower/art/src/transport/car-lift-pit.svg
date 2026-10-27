@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 4" width="32" height="4">
+  <!-- units: 32x4 -->
+  <!-- car lift pit; directly below the lowest floor of the run -->
+  <rect x="0" y="0" width="32" height="4" fill="#4e4b46"/>
+  <rect x="0" y="3.2" width="32" height="0.8" fill="#3b3a38"/>
+  <rect x="5.6" y="2.4" width="2.8" height="0.8" fill="#3b3a38"/>
+  <rect x="6" y="0.5" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="6" y="1.15" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="6" y="1.8" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="5.8" y="0.1" width="2.4" height="0.4" fill="#2e2d2b"/>
+  <rect x="14.6" y="2.4" width="2.8" height="0.8" fill="#3b3a38"/>
+  <rect x="15" y="0.5" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="15" y="1.15" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="15" y="1.8" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="14.8" y="0.1" width="2.4" height="0.4" fill="#2e2d2b"/>
+  <rect x="23.6" y="2.4" width="2.8" height="0.8" fill="#3b3a38"/>
+  <rect x="24" y="0.5" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="24" y="1.15" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="24" y="1.8" width="2" height="0.45" fill="#e8a33a"/>
+  <rect x="23.8" y="0.1" width="2.4" height="0.4" fill="#2e2d2b"/>
+</svg>

@@ -1,0 +1,24 @@
+[package]
+name = "tower-surface"
+version = "0.1.0"
+edition = "2021"
+description = "The tower's GPU surface (ROS_SURF_TOWER): rosgd/tower.h in Rust, the art packer and the CPU twin of the presenters' shaders"
+license = "MIT"
+publish = false
+
+[dependencies]
+png = "0.17"
+
+[dev-dependencies]
+# the twin's tests build towers from upstream's trace fixtures, as the
+# simulation's own tests do (sim/tests/support); never a normal dependency
+tower-sim = { path = "../sim" }
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+indexmap = { version = "2", features = ["serde"] }
+
+[profile.release]
+opt-level = 3
+
+[profile.test]
+opt-level = 2

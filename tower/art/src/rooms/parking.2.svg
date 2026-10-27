@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+<!-- From tower-together apps/client/public/rooms/parkingFull3.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (4 cells x 1 floor) by one uniform scale of
+     upstream's 80x80 drawing; preserveAspectRatio="none" removed.
+     The lettered P sign is now a car pictogram on the same blue plate. -->
+<g transform="scale(0.2)">
+    <!-- Back wall - concrete garage -->
+    <rect x="0" y="0" width="80" height="72" fill="#7a7a76"/>
+
+    <!-- Concrete panel seams -->
+    <rect x="0" y="32" width="80" height="1" fill="#585854"/>
+    <rect x="40" y="0" width="1" height="32" fill="#585854"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="80" height="4" fill="#484844"/>
+
+    <!-- Floor - asphalt -->
+    <rect x="0" y="76" width="80" height="4" fill="#484844"/>
+    <!-- Parking space division stripes -->
+    <rect x="2" y="76" width="2" height="4" fill="#d8c040"/>
+    <rect x="76" y="76" width="2" height="4" fill="#d8c040"/>
+
+    <!-- Ceiling fluorescent -->
+    <rect x="20" y="0" width="40" height="3" fill="#c8c8b8"/>
+    <rect x="24" y="3" width="32" height="2" fill="#a8a8a0"/>
+
+    <!-- Support pillars -->
+    <rect x="4" y="6" width="4" height="60" fill="#8a8a86"/>
+    <rect x="4" y="6" width="4" height="2" fill="#6a6a66"/>
+    <rect x="4" y="64" width="4" height="2" fill="#6a6a66"/>
+    <rect x="72" y="6" width="4" height="60" fill="#8a8a86"/>
+    <rect x="72" y="6" width="4" height="2" fill="#6a6a66"/>
+    <rect x="72" y="64" width="4" height="2" fill="#6a6a66"/>
+
+    <!-- Parking sign: a car on blue (no letter) -->
+    <rect x="14" y="10" width="14" height="14" fill="#2a5090" rx="1"/>
+    <rect x="16.5" y="16.5" width="9" height="3.5" fill="#f0f0e8" rx="1"/>
+    <rect x="18.5" y="14" width="5" height="3" fill="#f0f0e8" rx="1"/>
+    <circle cx="18.6" cy="20.4" r="1.3" fill="#f0f0e8"/>
+    <circle cx="23.4" cy="20.4" r="1.3" fill="#f0f0e8"/>
+
+    <!-- Pipe running along ceiling -->
+    <rect x="0" y="26" width="80" height="2" fill="#403c34"/>
+    <rect x="20" y="26" width="2" height="4" fill="#403c34"/>
+    <rect x="58" y="26" width="2" height="4" fill="#403c34"/>
+
+    <!-- Compact car (smaller, leaves more visible space at front) -->
+    <!-- Body -->
+    <rect x="20" y="56" width="44" height="14" fill="#3a8048" rx="4"/>
+    <!-- Cabin (high, hatchback shape) -->
+    <rect x="26" y="44" width="32" height="14" fill="#306838" rx="3"/>
+    <!-- Windshield (front, slanted look via two rects) -->
+    <rect x="28" y="46" width="10" height="10" fill="#b8d0c8" opacity="0.9" rx="1"/>
+    <!-- Windshield (rear) -->
+    <rect x="44" y="46" width="12" height="10" fill="#b8d0c8" opacity="0.9" rx="1"/>
+    <!-- Headlight -->
+    <rect x="20" y="59" width="4" height="3" fill="#f8f0a8" rx="1"/>
+    <!-- Taillight -->
+    <rect x="60" y="59" width="4" height="3" fill="#d04040" rx="1"/>
+    <!-- Door line -->
+    <line x1="42" y1="60" x2="42" y2="68" stroke="#1c3820" stroke-width="0.5"/>
+    <!-- Wheels (closer together — short wheelbase) -->
+    <circle cx="28" cy="70" r="4" fill="#202020"/>
+    <circle cx="28" cy="70" r="2" fill="#606060"/>
+    <circle cx="56" cy="70" r="4" fill="#202020"/>
+    <circle cx="56" cy="70" r="2" fill="#606060"/>
+</g>
+</svg>

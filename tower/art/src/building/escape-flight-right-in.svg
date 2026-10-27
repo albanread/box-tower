@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- fire escape, flight, right end of the floors, in cell -->
+  <g transform="translate(0 0)">
+  <g transform="translate(8 0) scale(-1 1)">
+  <rect x="7.55" y="0" width="0.45" height="16" fill="#2c3238"/>
+  <rect x="0.25" y="0" width="0.4" height="16" fill="#3e454d"/>
+  <polygon points="1.43,15.16 7.03,7.16 6.57,6.84 0.97,14.84" fill="#3e454d"/>
+  <rect x="1.45" y="13.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="2.15" y="12.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="2.85" y="11.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="3.55" y="10.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="4.25" y="9.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="4.95" y="8.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="5.65" y="7.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <polygon points="1.29,10.06 6.89,2.06 6.71,1.94 1.11,9.94" fill="#5b646d"/>
+  <polygon points="7.03,6.84 1.43,-1.16 0.97,-0.84 6.57,7.16" fill="#3e454d"/>
+  <rect x="5.65" y="5.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="4.95" y="4.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="4.25" y="3.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="3.55" y="2.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="2.85" y="1.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="2.15" y="0.85" width="0.9" height="0.3" fill="#4c545d"/>
+  <rect x="1.45" y="-0.15" width="0.9" height="0.3" fill="#4c545d"/>
+  <polygon points="6.89,1.94 1.29,-6.06 1.11,-5.94 6.71,2.06" fill="#5b646d"/>
+  <rect x="5.2" y="6.8" width="2.8" height="0.5" fill="#4c545d"/>
+  <rect x="5.2" y="7.3" width="2.8" height="0.25" fill="#2c3238"/>
+  <rect x="5.3" y="2" width="0.25" height="4.8" fill="#5b646d"/>
+  <rect x="0" y="14.6" width="8" height="0.55" fill="#4c545d"/>
+  <rect x="0" y="15.15" width="8" height="0.3" fill="#2c3238"/>
+  <rect x="0" y="9.6" width="7.6" height="0.3" fill="#5b646d"/>
+  <rect x="0" y="12.3" width="7.6" height="0.22" fill="#5b646d"/>
+  <rect x="2.4" y="9.6" width="0.22" height="5" fill="#5b646d"/>
+  <rect x="4.6" y="9.6" width="0.22" height="5" fill="#5b646d"/>
+  </g>
+  </g>
+</svg>

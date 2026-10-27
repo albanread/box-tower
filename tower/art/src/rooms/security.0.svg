@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 16" width="64" height="16">
+<!-- From tower-together apps/client/public/rooms/security.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (16 cells x 1 floor) by one uniform scale of
+     upstream's 320x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Back wall - dark navy -->
+    <rect x="0" y="0" width="320" height="76" fill="#3a4858"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="320" height="4" fill="#202830"/>
+
+    <!-- Floor - dark tile -->
+    <rect x="0" y="76" width="320" height="4" fill="#405060"/>
+
+    <!-- Ceiling lights -->
+    <rect x="70" y="0" width="20" height="3" fill="#888878"/>
+    <rect x="74" y="3" width="12" height="2" fill="#d0d0b0"/>
+    <rect x="230" y="0" width="20" height="3" fill="#888878"/>
+    <rect x="234" y="3" width="12" height="2" fill="#d0d0b0"/>
+
+    <!-- Security shield emblem on wall (left) -->
+    <path d="M 24 8 L 40 8 L 40 24 Q 40 30 32 34 Q 24 30 24 24 Z" fill="#a8b0b8"/>
+    <path d="M 26 10 L 38 10 L 38 24 Q 38 28 32 32 Q 26 28 26 24 Z" fill="#d0d0d0"/>
+    <rect x="31" y="14" width="2" height="10" fill="#4a5868"/>
+    <rect x="28" y="17" width="8" height="2" fill="#4a5868"/>
+
+    <!-- Monitor bank on wall (left cluster) -->
+    <rect x="50" y="10" width="96" height="32" fill="#1a2028" rx="1"/>
+    <!-- Row 1 -->
+    <rect x="52" y="12" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="53" y="13" width="20" height="11" fill="#4080a0"/>
+    <rect x="54" y="20" width="18" height="4" fill="#305868"/>
+    <circle cx="62" cy="18" r="1.5" fill="#8ac0d0"/>
+
+    <rect x="76" y="12" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="77" y="13" width="20" height="11" fill="#405838"/>
+    <rect x="78" y="20" width="18" height="4" fill="#304828"/>
+    <rect x="84" y="15" width="2" height="6" fill="#80a060"/>
+
+    <rect x="100" y="12" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="101" y="13" width="20" height="11" fill="#60486a"/>
+    <rect x="102" y="20" width="18" height="4" fill="#483050"/>
+
+    <rect x="124" y="12" width="20" height="13" fill="#2a4050" rx="1"/>
+    <rect x="125" y="13" width="18" height="11" fill="#406080"/>
+    <rect x="126" y="20" width="16" height="4" fill="#305870"/>
+
+    <!-- Row 2 -->
+    <rect x="52" y="27" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="53" y="28" width="20" height="11" fill="#204050"/>
+    <rect x="56" y="32" width="4" height="7" fill="#506878"/>
+    <rect x="64" y="34" width="4" height="5" fill="#506878"/>
+
+    <rect x="76" y="27" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="77" y="28" width="20" height="11" fill="#4a3030"/>
+    <circle cx="87" cy="33" r="2" fill="#d8a050"/>
+
+    <rect x="100" y="27" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="101" y="28" width="20" height="11" fill="#306868"/>
+    <rect x="104" y="34" width="14" height="5" fill="#205858"/>
+
+    <rect x="124" y="27" width="20" height="13" fill="#2a4050" rx="1"/>
+    <rect x="125" y="28" width="18" height="11" fill="#504030"/>
+    <rect x="127" y="33" width="14" height="5" fill="#3a2c20"/>
+
+    <!-- Monitor bank on wall (right cluster) -->
+    <rect x="176" y="10" width="96" height="32" fill="#1a2028" rx="1"/>
+    <!-- Row 1 -->
+    <rect x="178" y="12" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="179" y="13" width="20" height="11" fill="#4080a0"/>
+    <rect x="180" y="20" width="18" height="4" fill="#305868"/>
+    <circle cx="188" cy="18" r="1.5" fill="#8ac0d0"/>
+
+    <rect x="202" y="12" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="203" y="13" width="20" height="11" fill="#50383a"/>
+    <rect x="204" y="20" width="18" height="4" fill="#3c282a"/>
+    <circle cx="213" cy="18" r="1.5" fill="#d06060"/>
+
+    <rect x="226" y="12" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="227" y="13" width="20" height="11" fill="#386060"/>
+    <rect x="228" y="20" width="18" height="4" fill="#284848"/>
+
+    <rect x="250" y="12" width="20" height="13" fill="#2a4050" rx="1"/>
+    <rect x="251" y="13" width="18" height="11" fill="#504060"/>
+    <rect x="252" y="20" width="16" height="4" fill="#3c304a"/>
+
+    <!-- Row 2 -->
+    <rect x="178" y="27" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="179" y="28" width="20" height="11" fill="#404860"/>
+    <rect x="182" y="34" width="14" height="5" fill="#2c3448"/>
+
+    <rect x="202" y="27" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="203" y="28" width="20" height="11" fill="#305040"/>
+    <rect x="206" y="33" width="4" height="6" fill="#487060"/>
+    <rect x="214" y="33" width="4" height="6" fill="#487060"/>
+
+    <rect x="226" y="27" width="22" height="13" fill="#2a4050" rx="1"/>
+    <rect x="227" y="28" width="20" height="11" fill="#604030"/>
+    <rect x="230" y="34" width="14" height="5" fill="#482c20"/>
+
+    <rect x="250" y="27" width="20" height="13" fill="#2a4050" rx="1"/>
+    <rect x="251" y="28" width="18" height="11" fill="#304858"/>
+    <rect x="253" y="33" width="14" height="5" fill="#203040"/>
+
+    <!-- Clock -->
+    <circle cx="292" cy="20" r="10" fill="#d0d0c8"/>
+    <circle cx="292" cy="20" r="8" fill="#f0f0e8"/>
+    <line x1="292" y1="20" x2="292" y2="14" stroke="#202020" stroke-width="1"/>
+    <line x1="292" y1="20" x2="296" y2="22" stroke="#202020" stroke-width="1"/>
+    <circle cx="292" cy="20" r="1" fill="#202020"/>
+
+    <!-- Console desk spanning the room -->
+    <rect x="46" y="52" width="232" height="6" fill="#4a3828" rx="1"/>
+    <rect x="46" y="58" width="232" height="14" fill="#3a2a1c"/>
+    <rect x="48" y="60" width="228" height="10" fill="#4a3828" rx="1"/>
+
+    <!-- Keyboards on desk -->
+    <rect x="62" y="48" width="30" height="4" fill="#2a2420" rx="1"/>
+    <rect x="64" y="49" width="26" height="2" fill="#484038"/>
+
+    <rect x="188" y="48" width="30" height="4" fill="#2a2420" rx="1"/>
+    <rect x="190" y="49" width="26" height="2" fill="#484038"/>
+
+    <!-- Desk monitors -->
+    <rect x="100" y="42" width="18" height="10" fill="#2a2420" rx="1"/>
+    <rect x="101" y="43" width="16" height="7" fill="#4080a0"/>
+    <rect x="108" y="52" width="4" height="2" fill="#2a2420"/>
+
+    <rect x="226" y="42" width="18" height="10" fill="#2a2420" rx="1"/>
+    <rect x="227" y="43" width="16" height="7" fill="#60a060"/>
+    <rect x="234" y="52" width="4" height="2" fill="#2a2420"/>
+
+    <!-- Radio / walkie on desk -->
+    <rect x="48" y="44" width="6" height="10" fill="#303030" rx="1"/>
+    <rect x="49" y="45" width="4" height="3" fill="#d04040"/>
+    <rect x="50" y="40" width="2" height="5" fill="#505050"/>
+
+    <!-- Coffee mug -->
+    <rect x="124" y="46" width="6" height="6" fill="#4a2020" rx="1"/>
+    <rect x="130" y="47" width="2" height="4" fill="#4a2020"/>
+
+    <!-- Paperwork stack -->
+    <rect x="160" y="48" width="16" height="4" fill="#e0d8c0"/>
+    <rect x="161" y="46" width="14" height="3" fill="#f0e8d0"/>
+    <rect x="162" y="44" width="12" height="3" fill="#e0d8c0"/>
+
+    <!-- Second radio on right -->
+    <rect x="250" y="44" width="6" height="10" fill="#303030" rx="1"/>
+    <rect x="251" y="45" width="4" height="3" fill="#40d040"/>
+    <rect x="252" y="40" width="2" height="5" fill="#505050"/>
+
+    <!-- Security guard chairs -->
+    <rect x="78" y="58" width="16" height="10" fill="#2a2a2a" rx="2"/>
+    <rect x="80" y="68" width="12" height="4" fill="#2a2a2a" rx="1"/>
+    <rect x="85" y="70" width="2" height="4" fill="#202020"/>
+    <rect x="78" y="48" width="16" height="12" fill="#2a2a2a" rx="2"/>
+
+    <rect x="204" y="58" width="16" height="10" fill="#2a2a2a" rx="2"/>
+    <rect x="206" y="68" width="12" height="4" fill="#2a2a2a" rx="1"/>
+    <rect x="211" y="70" width="2" height="4" fill="#202020"/>
+    <rect x="204" y="48" width="16" height="12" fill="#2a2a2a" rx="2"/>
+
+    <!-- Filing cabinet left -->
+    <rect x="4" y="40" width="14" height="32" fill="#586878" rx="1"/>
+    <rect x="6" y="42" width="10" height="8" fill="#4a5868"/>
+    <rect x="6" y="52" width="10" height="8" fill="#4a5868"/>
+    <rect x="6" y="62" width="10" height="8" fill="#4a5868"/>
+    <rect x="9" y="45" width="4" height="1" fill="#808878"/>
+    <rect x="9" y="55" width="4" height="1" fill="#808878"/>
+    <rect x="9" y="65" width="4" height="1" fill="#808878"/>
+
+    <!-- Filing cabinet right -->
+    <rect x="300" y="40" width="14" height="32" fill="#586878" rx="1"/>
+    <rect x="302" y="42" width="10" height="8" fill="#4a5868"/>
+    <rect x="302" y="52" width="10" height="8" fill="#4a5868"/>
+    <rect x="302" y="62" width="10" height="8" fill="#4a5868"/>
+    <rect x="305" y="45" width="4" height="1" fill="#808878"/>
+    <rect x="305" y="55" width="4" height="1" fill="#808878"/>
+    <rect x="305" y="65" width="4" height="1" fill="#808878"/>
+
+    <!-- Security guard standing (center-left) -->
+    <circle cx="152" cy="58" r="3" fill="#d8b090"/>
+    <rect x="149" y="53" width="6" height="3" fill="#1a2028"/>
+    <rect x="148" y="55" width="8" height="1" fill="#202830"/>
+    <rect x="149" y="61" width="6" height="11" fill="#2a3848" rx="1"/>
+    <rect x="151" y="63" width="2" height="2" fill="#d8c040"/>
+    <rect x="149" y="72" width="2" height="0" fill="#202830"/>
+    <rect x="146" y="62" width="3" height="8" fill="#2a3848"/>
+    <rect x="155" y="62" width="3" height="8" fill="#2a3848"/>
+
+    <!-- Security guard seated chair reference, standing near right cabinet -->
+    <circle cx="282" cy="50" r="3" fill="#d8b090"/>
+    <rect x="279" y="45" width="6" height="3" fill="#1a2028"/>
+    <rect x="278" y="47" width="8" height="1" fill="#202830"/>
+    <rect x="279" y="53" width="6" height="12" fill="#2a3848" rx="1"/>
+    <rect x="281" y="55" width="2" height="2" fill="#d8c040"/>
+    <rect x="279" y="65" width="2" height="7" fill="#202830"/>
+    <rect x="283" y="65" width="2" height="7" fill="#202830"/>
+    <rect x="276" y="54" width="3" height="8" fill="#2a3848"/>
+    <rect x="285" y="54" width="3" height="8" fill="#2a3848"/>
+</g>
+</svg>

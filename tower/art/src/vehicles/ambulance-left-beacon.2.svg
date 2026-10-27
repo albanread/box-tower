@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 12" width="28" height="12">
+  <!-- units: 28x12 -->
+  <!-- ambulance beacons facing left, frame 2 of 4; drawn over the body -->
+  <g transform="translate(28,0) scale(-1,1)">
+  <rect x="16.6" y="0" width="1.6" height="0.8" rx="0.25" fill="#4f9bff"/>
+  <rect x="19.4" y="2.3" width="1.4" height="0.7" rx="0.25" fill="#4f9bff"/>
+  </g>
+</svg>

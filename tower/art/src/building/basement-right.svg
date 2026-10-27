@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 16">
+  <!-- Drawn for the BOX port of tower-together by art/src/building/pieces.py. -->
+  <!-- slot: 1x1 -->
+  <!-- retaining wall, rightmost underground cell -->
+  <g transform="translate(4 0) scale(-1 1)">
+  <rect x="0" y="0" width="1.2" height="16" fill="#4e4944"/>
+  <rect x="1.2" y="0" width="0.35" height="15" fill="#3d3935"/>
+  <rect x="0" y="0" width="0.3" height="16" fill="#625c56"/>
+  <rect x="0" y="5" width="1.2" height="0.25" fill="#3d3935"/>
+  <rect x="0" y="10.5" width="1.2" height="0.25" fill="#3d3935"/>
+  </g>
+</svg>

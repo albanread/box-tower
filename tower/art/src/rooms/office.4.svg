@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 16" width="36" height="16">
+<!-- From tower-together apps/client/public/rooms/office4.svg (MIT, Patrick Hulin).
+     Changed: drawn to its slot's viewBox (9 cells x 1 floor) by one uniform scale of
+     upstream's 180x80 drawing; preserveAspectRatio="none" removed. -->
+<g transform="scale(0.2)">
+    <!-- Cubicle farm -->
+
+    <!-- Back wall -->
+    <rect x="0" y="0" width="180" height="76" fill="#9aacbb"/>
+
+    <!-- Baseboard -->
+    <rect x="0" y="72" width="180" height="4" fill="#7a8c9c"/>
+
+    <!-- Floor -->
+    <rect x="0" y="76" width="180" height="4" fill="#8494a4" rx="1"/>
+
+    <!-- Ceiling lights -->
+    <rect x="20" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="24" y="3" width="8" height="2" fill="#ccdae4"/>
+    <rect x="82" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="86" y="3" width="8" height="2" fill="#ccdae4"/>
+    <rect x="144" y="0" width="16" height="3" fill="#b8c8d4" rx="1"/>
+    <rect x="148" y="3" width="8" height="2" fill="#ccdae4"/>
+
+    <!-- Filing cabinets along back wall between cubicles -->
+    <rect x="40" y="34" width="10" height="18" fill="#6e8090" rx="1"/>
+    <rect x="41" y="36" width="8" height="3" fill="#8a9cac"/>
+    <rect x="41" y="40" width="8" height="3" fill="#8a9cac"/>
+    <rect x="41" y="44" width="8" height="3" fill="#8a9cac"/>
+    <rect x="44" y="37" width="2" height="1" fill="#3a4654"/>
+    <rect x="44" y="41" width="2" height="1" fill="#3a4654"/>
+    <rect x="44" y="45" width="2" height="1" fill="#3a4654"/>
+
+    <rect x="130" y="34" width="10" height="18" fill="#6e8090" rx="1"/>
+    <rect x="131" y="36" width="8" height="3" fill="#8a9cac"/>
+    <rect x="131" y="40" width="8" height="3" fill="#8a9cac"/>
+    <rect x="131" y="44" width="8" height="3" fill="#8a9cac"/>
+    <rect x="134" y="37" width="2" height="1" fill="#3a4654"/>
+    <rect x="134" y="41" width="2" height="1" fill="#3a4654"/>
+    <rect x="134" y="45" width="2" height="1" fill="#3a4654"/>
+
+    <!-- Motivational poster -->
+    <rect x="90" y="14" width="18" height="14" fill="#3a4654" rx="1"/>
+    <rect x="91" y="15" width="16" height="10" fill="#6a8ea8" rx="1"/>
+    <rect x="92" y="25" width="14" height="2" fill="#dfe8f0"/>
+
+    <!-- Cubicle partition walls (3 tall verticals dividing into 4 cubes) -->
+    <rect x="38" y="34" width="3" height="38" fill="#a8b8c4" rx="1"/>
+    <rect x="38" y="34" width="3" height="3" fill="#7a8c9c" rx="1"/>
+    <rect x="88" y="34" width="3" height="38" fill="#a8b8c4" rx="1"/>
+    <rect x="88" y="34" width="3" height="3" fill="#7a8c9c" rx="1"/>
+    <rect x="138" y="34" width="3" height="38" fill="#a8b8c4" rx="1"/>
+    <rect x="138" y="34" width="3" height="3" fill="#7a8c9c" rx="1"/>
+
+    <!-- Cubicle 1 (left) -->
+    <rect x="4" y="54" width="34" height="4" fill="#6e8090" rx="1"/>
+    <rect x="6" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="33" y="58" width="3" height="14" fill="#5e7080"/>
+    <!-- Monitor -->
+    <rect x="12" y="42" width="16" height="12" fill="#4a5e6e" rx="1"/>
+    <rect x="13" y="43" width="14" height="9" fill="#6a8ea8" rx="1"/>
+    <rect x="18" y="54" width="4" height="2" fill="#4a5e6e"/>
+    <rect x="8" y="52" width="10" height="2" fill="#566a7a" rx="1"/>
+    <!-- Chair -->
+    <rect x="16" y="58" width="12" height="10" fill="#506878" rx="2"/>
+    <rect x="17" y="56" width="10" height="4" fill="#485e6e" rx="2"/>
+    <rect x="20" y="68" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="16" y="71" width="12" height="2" fill="#4a5c6c" rx="1"/>
+
+    <!-- Cubicle 2 -->
+    <rect x="54" y="54" width="34" height="4" fill="#6e8090" rx="1"/>
+    <rect x="56" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="83" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="62" y="42" width="16" height="12" fill="#4a5e6e" rx="1"/>
+    <rect x="63" y="43" width="14" height="9" fill="#6a8ea8" rx="1"/>
+    <rect x="68" y="54" width="4" height="2" fill="#4a5e6e"/>
+    <rect x="58" y="52" width="10" height="2" fill="#566a7a" rx="1"/>
+    <!-- Coffee mug -->
+    <rect x="80" y="51" width="5" height="3" fill="#7a6a5a" rx="1"/>
+    <rect x="66" y="58" width="12" height="10" fill="#506878" rx="2"/>
+    <rect x="67" y="56" width="10" height="4" fill="#485e6e" rx="2"/>
+    <rect x="70" y="68" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="66" y="71" width="12" height="2" fill="#4a5c6c" rx="1"/>
+
+    <!-- Cubicle 3 -->
+    <rect x="104" y="54" width="34" height="4" fill="#6e8090" rx="1"/>
+    <rect x="106" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="133" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="112" y="42" width="16" height="12" fill="#4a5e6e" rx="1"/>
+    <rect x="113" y="43" width="14" height="9" fill="#6a8ea8" rx="1"/>
+    <rect x="118" y="54" width="4" height="2" fill="#4a5e6e"/>
+    <rect x="108" y="52" width="10" height="2" fill="#566a7a" rx="1"/>
+    <!-- Sticky notes -->
+    <rect x="130" y="48" width="5" height="5" fill="#e4d48a"/>
+    <rect x="130" y="42" width="5" height="5" fill="#c4e4a8"/>
+    <rect x="116" y="58" width="12" height="10" fill="#506878" rx="2"/>
+    <rect x="117" y="56" width="10" height="4" fill="#485e6e" rx="2"/>
+    <rect x="120" y="68" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="116" y="71" width="12" height="2" fill="#4a5c6c" rx="1"/>
+
+    <!-- Cubicle 4 (right) -->
+    <rect x="154" y="54" width="22" height="4" fill="#6e8090" rx="1"/>
+    <rect x="155" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="172" y="58" width="3" height="14" fill="#5e7080"/>
+    <rect x="158" y="42" width="16" height="12" fill="#4a5e6e" rx="1"/>
+    <rect x="159" y="43" width="14" height="9" fill="#6a8ea8" rx="1"/>
+    <rect x="164" y="54" width="4" height="2" fill="#4a5e6e"/>
+    <rect x="154" y="52" width="10" height="2" fill="#566a7a" rx="1"/>
+    <rect x="160" y="58" width="12" height="10" fill="#506878" rx="2"/>
+    <rect x="161" y="56" width="10" height="4" fill="#485e6e" rx="2"/>
+    <rect x="164" y="68" width="4" height="4" fill="#4a5c6c"/>
+    <rect x="160" y="71" width="12" height="2" fill="#4a5c6c" rx="1"/>
+</g>
+</svg>
