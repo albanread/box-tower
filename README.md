@@ -69,5 +69,5 @@ Each hook into the translated files is marked `BOX:` in the source.
 ## Licence
 
 Everything here is under the MIT licence, as upstream is: see
-[LICENSE.md](LICENSE.md), which carries upstream's copyright notice and
+[LICENSE](LICENSE), which carries upstream's copyright notice and
 ours, and [NOTICE](NOTICE).
